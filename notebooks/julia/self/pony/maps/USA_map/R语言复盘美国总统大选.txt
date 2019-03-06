@@ -1,0 +1,356 @@
+
+library("ggplot2")
+library("RColorBrewer")
+library("maps")
+library("mapdata")
+library("maptools")
+library("plyr")
+library("Cairo")
+library("reshape2")
+
+1.1二者的选举人票结果
+
+data<-data.frame(x=c("Trump","Clinton"),y=c(290,232))
+ggplot(data,aes(x,y,fill=x))+
+      geom_bar(stat="identity",width=0.7)+
+      geom_text(aes(label=y,vjust=-0.5,hjust=0.5))+
+      ggtitle("presidential results")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank(),
+      plot.title=element_text(size=25),
+      legend.position = "none"
+      )
+
+1.2 两者普选选举人数对比
+
+
+data1<-data.frame(x=c("Trump","Clinton"),y=c(59698506,59926386))
+p %+% data1
+
+1.3 两者选举人票比例
+
+data3<-data.frame(x=c("Trump","Clinton"),y=c(43,54))
+mydata <- transform(data3, mid_y = ave(data3$y,data3$x, FUN = function(val) cumsum(val) - (0.5 * val)))
+ggplot(mydata,aes(x=1,y=y,fill=x))+
+      geom_bar(stat="identity",col="white")+
+      coord_polar(theta="y",start=0,direction=1) +
+      geom_text(aes(label=paste(y,"%",sep="")),vjust=-0.5,hjust=0.5,size=10,color="white")+
+      ggtitle("presidential results")+
+      guides(fill=guide_legend(reverse=TRUE))+
+      scale_fill_manual(values=c("#FF5252","#2196F3"))+
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.line.x  = element_line(),
+      axis.ticks.y = element_blank(),
+      axis.title = element_blank(),
+      plot.title=element_text(size=25),
+      legend.position = "none"
+      )
+
+
+2.二者的获胜州分布情况、各自在各州的支持率；
+
+
+数据准备：
+American_map <-readShapePoly("C:/rstudy/USA_map/STATES.SHP")
+AD1 <- American_map@data
+AD2 <- data.frame(id=rownames(AD1),AD1)
+
+American_map1 <- fortify(American_map)
+American_map_data <- join(American_map1,AD2, type = "full")
+American_map_data<-American_map_data[,1:12]
+
+提取各州数据集：
+
+以下两句代码是个人练习时制作投票信息数据集所用，可以省略直接略过
+#################################################################################################################
+mydata<-data.frame(STATE_NAME=unique(American_map_data$STATE_NAME),STATE_ABBR=unique(American_map_data$STATE_ABBR))
+write.table (mydata, file ="D:\\R\\File\\President.csv", sep =",", row.names =FALSE)
+################################################################################################################
+
+
+newdata<-read.csv("D:\\R\\File\\President.csv")  
+
+
+分离大陆与夏威夷、阿拉斯加：
+data1<-subset(American_map_data,STATE_NAME!='Alaska'& STATE_NAME!='Hawaii')    
+data2<-subset(American_map_data,STATE_NAME=="Hawaii")    
+data3<-subset(American_map_data,STATE_NAME=="Alaska") 
+
+更改阿拉斯加与夏威夷坐标并合并：
+data2$long<-data2$long+65
+data3$long<-data3$long+40
+data3$lat<-data3$lat-42
+data4<-rbind(data1,data2,data3)
+
+合并地理信息数据与选举数据：
+American_data <- join(data4, newdata, type="full")
+
+
+提取各州中心经纬度指标：
+midpos <- function(AD1){mean(range(AD1,na.rm=TRUE))} 
+centres <- ddply(American_data,.(STATE_ABBR),colwise(midpos,.(long,lat)))
+
+mynewdata<-join(centres,newdata,type="full")
+
+
+2.1 美国总统大选的各州选举人票数分布：
+
+ggplot()+
+      geom_polygon(data=American_data,aes(x=long,y=lat,group=group),colour="grey",fill="white")+
+      geom_point(data=mynewdata,aes(x=long,y=lat,size=Count,fill=Count),shape=21,colour="black")+
+      scale_size_area(max_size=10)+ 
+      scale_fill_gradient(low="white",high="#D73434")+
+      coord_map("polyconic") +
+      theme(               
+          panel.grid = element_blank(),
+          panel.background = element_blank(),
+          axis.text = element_blank(),
+          axis.ticks = element_blank(),
+          axis.title = element_blank(),
+          legend.position ="none"
+          )
+
+2.2 美国总统大选投票结果双方获胜州分布情况：
+
+
+ggplot(American_data,aes(x=long,y=lat,group=group,fill=Results))+
+      geom_polygon(colour="white")+
+      scale_fill_manual(values=c("#19609F","#CB1C2A"),labels=c("Hillary", "Trump"))+
+      coord_map("polyconic") +
+      guides(fill=guide_legend(title=NULL))+ 
+      theme(               
+          panel.grid = element_blank(),
+          panel.background = element_blank(),
+          axis.text = element_blank(),
+          axis.ticks = element_blank(),
+          axis.title = element_blank(),
+          legend.position ="top"
+          )
+
+2.3 希拉里各州选票支持率统计；
+
+qa <- quantile(na.omit(American_data$Clinton), c(0,0.2,0.4,0.6,0.8,1.0))
+American_data$Clinton_q<-cut(American_data$Clinton,qa,labels = c("0-20%", "20-40%","40-60%","60-80%", "80-100%"),include.lowest = TRUE)
+ggplot(American_data,aes(long,lat,group=group,fill=Clinton_q))+
+     geom_polygon(colour="white")+
+     scale_fill_brewer(palette="Blues")+
+     coord_map("polyconic") +
+     guides(fill=guide_legend(reverse=TRUE,title=NULL))+ 
+     theme(
+          panel.grid = element_blank(),
+          panel.background = element_blank(),
+          axis.text = element_blank(),
+          axis.ticks = element_blank(),
+          axis.title = element_blank(),
+          legend.position = c(0.18,0.75),
+          legend.text.align=1
+          ) 
+
+2.4 川普各州选票支持率统计；
+
+qb <- quantile(na.omit(American_data$Trump), c(0,0.2,0.4,0.6,0.8,1.0))
+American_data$Trump_q<-cut(American_data$Trump,qb,labels = c("0-20%", "20-40%","40-60%","60-80%", "80-100%"),include.lowest = TRUE)
+ggplot(American_data,aes(long,lat,group=group,fill=Trump_q))+
+     geom_polygon(colour="white")+
+     scale_fill_brewer(palette="Reds")+
+     coord_map("polyconic") +
+     guides(fill=guide_legend(reverse=TRUE,title=NULL))+ 
+     theme(
+          panel.grid = element_blank(),
+          panel.background = element_blank(),
+          axis.text = element_blank(),
+          axis.ticks = element_blank(),
+          axis.title = element_blank(),
+          legend.position = c(0.18,0.75),
+          legend.text.align=1
+          )
+
+3. 分维度统计二者支持率;
+
+3.1 性别分布
+
+gender<-data.frame(gender=c("male","female"),clinton=c(41,54),trump=c(53,42))
+genderA<-melt(gender,id.vars="gender",variable.name="Name",value.name="level")
+
+ggplot(genderA,aes(gender,level,fill=Name))+
+      geom_bar(stat="identity",width=0.7)+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position="stack",size=10,col="white",fontface="bold")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+从性别上来看，男性支持川普的多一点，女性支持希拉里的多一点，这难道真的算是性别效应嘛~
+
+3.2 年龄分布统计；
+
+age<-data.frame(age=c("18~29","30~44","45~64","64~"),clinton=c(55,50,44,45),trump=c(37,42,53,53))
+ageA<-melt(age,id.vars="age",variable.name="Name",value.name="level")
+
+ggplot(ageA,aes(age,level,fill=Name))+
+      geom_bar(stat="identity",width=0.95)+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position="stack",size=10,col="white",fontface="bold")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+这个年龄段分布的也是相当有规律啊，川普大叔很得中老年选民的亲来，而希拉里阿姨则俘获了青少年的心。
+
+3.3 种族分布统计；
+
+race<-data.frame(race=c("white","black","latino","asian","other"),clinton=c(37,88,65,65,56),trump=c(58,8,29,29,37))
+raceA<-melt(race,id.vars="race",variable.name="Name",value.name="level")
+
+ggplot(raceA,aes(race,level,fill=Name))+
+      geom_bar(stat="identity",width=0.95)+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position="stack",size=10,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+从种族上来看，希拉里在black、latino、asian以及其他种族中占据绝对优势，川普则把控着white的选票。不过这也比较符合两党所代表的利益群体。
+
+3.4 选民受教育水平分布统计；
+
+
+educ<-data.frame(educ=c("high","some","college","post"),clinton=c(45,43,49,58),trump=c(51,52,45,37))
+educA<-melt(educ,id.vars="educ",variable.name="Name",value.name="level")
+
+
+ggplot(educA,aes(educ,level,fill=Name))+
+      geom_bar(stat="identity",width=0.95)+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position="stack",size=10,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+      scale_x_discrete(limits=c("high","some","college","post"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+3.5 选民收入分布统计；
+
+Inco<-data.frame(inco=c("under $100K","above $100K"),clinton=c(49,47),trump=c(45,48))
+IncoA<-melt(Inco,id.vars="inco",variable.name="Name",value.name="level")
+ggplot(IncoA,aes(inco,level,fill=Name))+
+      geom_bar(stat="identity",position="dodge")+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position=position_dodge(width=0.9),size=10,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+            scale_x_discrete(limits=c("under $100K","above $100K"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+3.6 选民政治倾向统计分布：
+
+Ideo<-data.frame(ideo=c("liberal","moderate","conservative"),clinton=c(84,52,15),trump=c(10,41,81))
+IncoA<-melt(Ideo,id.vars="ideo",variable.name="Name",value.name="level")
+ggplot(IncoA,aes(ideo,level,fill=Name))+
+      geom_bar(stat="identity",position="dodge")+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position=position_dodge(width=0.9),size=10,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+            scale_x_discrete(limits=c("liberal","moderate","conservative"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+
+
+3.7 选民的婚姻状况统计分布；
+
+
+Marl<-data.frame(marry=c("married men","married women","unmarried men","unmarried women"),clinton=c(37,49,46,62),trump=c(58,47,45,33))
+MarlA<-melt(Marl,id.vars="marry",variable.name="Name",value.name="level")
+ggplot(MarlA,aes(marry,level,fill=Name))+
+      geom_bar(stat="identity",position="dodge")+
+      geom_text(aes(label=level,vjust=5,hjust=0.5),position=position_dodge(width=0.9),size=10,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+            scale_x_discrete(limits=c("married men","married women","unmarried men","unmarried women"))+
+      guides(fill=guide_legend(title=NULL))+       
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.line.x  = element_line(),
+      axis.title = element_blank()
+      )
+
+
+3.8  宗教信仰分布统计；
+
+Rellglon<-data.frame(rell=c("protestant","catholic","mormon","orther christian","jewish","other religon","no religion"),clinton=c(37,45,25,43,71,58,68),trump=c(60,52,61,55,24,33,26))
+RellglonA<-melt(Rellglon,id.vars="rell",variable.name="Name",value.name="level")
+ggplot(RellglonA,aes(rell,level,fill=Name))+
+      geom_bar(stat="identity",width=1,col="white")+
+      scale_fill_manual(values=c("#2196F3","#FF5252"))+
+      scale_x_discrete(limits=c("protestant","catholic","mormon","orther christian","jewish","other religon","no religion"))+
+      ylim(-20,100)+
+      guides(fill=guide_legend(title=NULL))+     
+      coord_polar(theta="x",start=0,direction=1) + 
+      facet_grid(.~Name)+
+theme(panel.grid = element_blank(),
+      panel.background = element_blank(),
+      axis.text.y = element_blank(),
+      axis.ticks.length=unit(0.5,'cm'),
+      axis.ticks.y = element_blank(),
+      axis.ticks.x = element_line(),
+      axis.title = element_blank()
+      )
+
+本文数据来源于CNN官网：http://edition.cnn.com/election/results
+
+
+
