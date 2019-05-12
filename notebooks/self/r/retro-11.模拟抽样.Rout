@@ -1,0 +1,77 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> # 8.6.3 组合的模拟
+> # 从 20 个人中，组建 3/4/5 三个小组，问 A 和 B 在同一组的概率多少？
+> 
+> sim <- function(nreps) {
++     commdata <- list()
++ 
++     # 初始包含 AB 的个数为 0
++     commdata$count <- 0
++ 
++     # 每次循环，模拟一次（组件三个小组）
++     for (rep in 1:nreps) {
++         # 每次都是 20 个人
++         commdata$remains <- 1:20
++ 
++         # 在这一次模拟中，一组中同时有 AB 的个数
++         commdata$both <- 0
++ 
++         # both=2 表示 AB 在同一组；=1 表示不在同一组，这两种情况都是确定的，所以不需要再看其他组
++         commdata <- choosecomm(commdata, 5)
++         if (commdata$both > 0 ) next
++ 
++         commdata <- choosecomm(commdata, 4)
++         if (commdata$both > 0 ) next
++ 
++         commdata <- choosecomm(commdata, 3)
++     }
++ 
++     print(commdata$count / nreps)
++ }
+> 
+> choosecomm <- function(comdat, comsize) {
++     # 随机抽取，从 remains 中，抽取出 comsize 个
++     committee <- sample(comdat$remains, comsize)
++ 
++     # AB 假设为 1、2，这里是看抽取出来的，是否包含 1、2
++     comdat$both <- length(intersect(1:2, committee))
++     if (comdat$both == 2) {
++         # 包含两个，总计数器 + 1
++         comdat$count <- comdat$count + 1
++     }
++ 
++     # 这里是不放回抽取
++     comdat$remains <- setdiff(comdat$remains, committee)
++     return(comdat)
++ }
+> 
+> 
+> a <- sim(1000)
+[1] 0.118
+> 
+> print(a)
+[1] 0.118
+> 
+> proc.time()
+   user  system elapsed 
+  0.525   0.118   0.778 
