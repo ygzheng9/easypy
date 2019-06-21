@@ -1,5 +1,7 @@
 ## 分析销售数据
 
+## refer to shiny app
+
 library(readxl)
 ## library(dplyr)
 ##  library(ggplot2)
