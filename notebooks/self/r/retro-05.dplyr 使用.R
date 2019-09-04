@@ -1,5 +1,17 @@
 # 常用处理
-require(dplyr)
+# require(dplyr)
+library(rstudioapi)
+library(tidyverse)
+
+# the following line is for getting the path of your current open file
+current_path <- getActiveDocumentContext()$path
+# The next line set the working directory to the relevant one:
+setwd(dirname(current_path))
+# you can make sure you are in the right directory
+print(getwd())
+
+rm(list = ls())
+
 
 # select()
 # filter()
@@ -7,6 +19,35 @@ require(dplyr)
 # arrange()
 # summarise()
 # group_by()
+
+
+gapminder_orig <- read.csv("gapminder-FiveYearData.csv")
+# define a copy of the original dataset that we will clean and play with
+gapminder <- gapminder_orig
+
+head(gapminder)
+
+gapminder %>%
+    filter(continent == "Americas", year == "2007") %>%
+    mutate(gdp = gdpPercap * pop) %>%
+    select(country, lifeExp, gdp) %>%
+    arrange(desc(lifeExp)) %>%
+    head(20)
+
+gapminder %>%
+    filter(lifeExp > mean(lifeExp)) %>%
+    count(continent)
+
+head(gapminder)
+
+gapminder %>%
+    filter(year == "2007") %>%
+    group_by(continent) %>%
+    summarise(n = n(),
+              mean_life = mean(lifeExp),
+              total_gdp = sum(gdpPercap))
+
+
 
 
 # 选取列，可以按照列名（开始，结束，包含等等）
