@@ -1,0 +1,12 @@
+bom_id|seq_num|level|part_num|part_version|part_name|part_family|part_name_zh
+K426_FS|1|1|3694900||FSC LH Textile/Vinyl ASY TRIM COVER -Charcoal|Cover|Textile/Vinyl 前排座垫面套 左 黑色
+K426_FS|2|1|3694906||FSC LH Textile/Vinyl ASY TRIM COVER -City Weave|Cover|Textile/Vinyl 前排座垫面套 左 编织
+K426_FS|3|1|3694898||FSC RH Textile/Vinyl ASY TRIM COVER -Charcoal|Cover|Textile/Vinyl 前排座垫面套 右 黑色
+K426_FS|4|1|3694905||FSC RH Textile/Vinyl ASY TRIM COVER -City Weave|Cover|Textile/Vinyl 前排座垫面套 右 编织
+NL_4AB_RS|256|0|4301725|AA|N/A|ASSY|侧铰链焊接组件
+NL_4AB_RS|257|1|70000000-N04|1|N/A||外侧铰链压铆组件
+NL_4AB_RS|258|2|70000002-N04|1|N/A||衬套
+NL_4AB_RS|259|2|70000001-N04|1|N/A|Frame|外侧铰链
+NL_4AB_RS|260|1|4301727|AA|N/A|Frame|外侧铰链加强支架
+NL_4AB_RS|261|0|4301733|AB|N/A|ASSY|后座椅靠背锁钩（左）
+NL_4AB_RS|262|0|4301728|AB|N/A|ASSY|后座椅靠背锁钩（右）

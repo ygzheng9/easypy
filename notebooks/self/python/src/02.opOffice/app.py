@@ -6,7 +6,7 @@ from parsetext import parse_all
 app = Flask(__name__)
 
 
-@app.route("/word")
+@app.route("/words")
 def index():
     return render_template('wordcloud.html')
 
@@ -24,4 +24,4 @@ def words_count():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

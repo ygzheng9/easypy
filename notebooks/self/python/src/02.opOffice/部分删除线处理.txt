@@ -1,0 +1,27 @@
+Sub DelStrikethroughText()
+    Dim xRg As Range, xCell As Range
+    Dim xStr As String
+    Dim I As Long
+    On Error Resume Next
+    Set xRg = Application.InputBox("Please select range?", "KuTools For Excel", Selection.Address, , , , , 8)
+    If xRg Is Nothing Then Exit Sub
+    Application.ScreenUpdating = Fase
+        For Each xCell In xRg
+            ' If IsNumeric(xCell.Value) And xCell.Font.Strikethrough Then
+            If xCell.Font.Strikethrough Then
+                xCell.Value = ""
+            ' ElseIf Not IsNumeric(xCell.Value) Then
+            Else
+                For I = 1 To Len(xCell)
+                    With xCell.Characters(I, 1)
+                        If Not .Font.Strikethrough Then
+                            xStr = xStr & .Text
+                        End If
+                    End With
+                Next
+                xCell.Value = xStr
+                xStr = ""
+            End If
+        Next
+    Application.ScreenUpdating = True
+End Sub

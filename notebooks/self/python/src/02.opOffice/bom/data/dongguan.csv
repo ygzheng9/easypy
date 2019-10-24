@@ -1,0 +1,1513 @@
+bom_id|seq_num|level|part_num|part_version|part_name|part_family|part_name_zh
+X74_FS|1|0|3683151|AC|LEVEL 1 Driver seat level 1|Assy|level 1主驾
+X74_FS|2|0|3683155|AC|LEVEL 1 Passenger seat|Assy|level 1副驾
+X74_FS|3|0|4804213|AA|LEVEL 1+ Driver seat PVC|Assy|level 1+ 主驾 PVC
+X74_FS|4|0|3683156|AD|LEVEL 1+ Driver seat|Assy|level 1+ option 主驾
+X74_FS|5|0|3683157|AD|LEVEL 1+ Passenger seat|Assy|level 1+ 副驾
+X74_FS|6|0|3683158|AD|LEVEL 1+Passenger option  seat|Assy|level 1+ option 副驾
+X74_FS|7|0|3683160|AC|LEVEL 2 Driver seat|Assy|level 2 主驾
+X74_FS|8|0|3683161|AC|LEVEL 2 Passenger seat|Assy|level 2 副驾
+X74_FS|9|0|3683162|AC|LEVEL 3 Driver seat|Assy|level 3 主驾
+X74_FS|10|0|3683163|AC|LEVEL 3 Passenger seat|Assy|level 3 副驾
+X74_FS|11|0|3683165|AC|LEVEL 3  Driver option seat|Assy|level 3+ 主驾
+X74_FS|12|0|3683166|AC|LEVEL 3 Passenger option seat|Assy|level 3+ 副驾
+X74_FS|13|0|3683167|AC|LEVEL 4&5 Driver seat|Assy|level 4&5 主驾
+X74_FS|14|0|3683168|AC|LEVEL 4&5 Passenger seat|Assy|level 4&5 副驾
+X74_FS|15|1|3483660|AD|CUSHION_COMPLETE_6W_MANUAL DRIVER||6向手动坐框主驾骨架
+X74_FS|16|1|3483677|AD|CUSHION_COMPLETE_6W_MANUAL PASSENGER||6向手动坐框副驾骨架
+X74_FS|17|1|3486999|AC|CUSHION_COMPLETE_8W_POWER TILT DRIVER||8向电动坐框主驾骨架
+X74_FS|18|1|3483682|AC|CUSHION_COMPLETE_8W_POWER TILT PASSENGER||8向电动坐框副驾骨架
+X74_FS|19|2|3559553|AB|CUSHION PAN WELD ASSY_8W_POWER||座盆焊接总成
+X74_FS|20|3|3484190|AB|CUSHION PAN_8W_POWER||座盆
+X74_FS|21|3|3559555|1|CUSHION SUPPORT WIRE LH||座框支撑钢丝左侧
+X74_FS|22|3|3559556|1|CUSHION SUPPORT WIRE RH||座框支撑钢丝右侧
+X74_FS|23|3|3559558|1|CUSHION SUPPORT WIRE MIDDLE||座框支撑钢丝中
+X74_FS|24|2|3559559|1|Tilt 2000 ASSY DRIVER||tilt 2000主驾
+X74_FS|25|2|3559561|1|Tilt 2000 ASSY PASSENGER||tilt 2000副驾
+X74_FS|26|3|3484417|AA AB|TILT TUBE WELD ASSY DRIVER||tilt 横管焊接总成主驾
+X74_FS|27|3|3484436|AA AB|TILT TUBE WELD ASSY PASSENGER||tilt 横管焊接总成副驾驾
+X74_FS|28|4|4936486|AA|cushion restriction bracket||坐框限位支架
+X74_FS|29|4|3484420|1|Tilt Tube||tilt 横管
+X74_FS|30|4|3560736|AC|Tilt Motor Bracket DRIVER ASSY||tilt 马达支架主驾总成
+X74_FS|31|4|3560740|AC|Tilt Motor Bracket PASSENGER ASSY||tilt 马达支架副驾总成
+X74_FS|32|5|3484428|AB|Tilt Motor Bracket DRIVER||tilt 马达支架主驾
+X74_FS|33|5|3484449|AB|Tilt Motor Bracket PASSENGER||tilt 马达支架副驾
+X74_FS|34|5|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|35|4|3560911|AC|Tilt Tube Bracket Assy||tilt 横管支架组件
+X74_FS|36|5|3484424|AB|Tilt Tube Bracket||tilt 横管支架组件
+X74_FS|37|5|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|38|3|3270026|1|Tilt 2000 DRIVER MEMORY|Motor|tilt 2000 主驾带记忆
+X74_FS|39|3|3270023|1|Tilt 2000 PASSENGER NON MEMORY|Motor|tilt 2000 副驾不带记忆
+X74_FS|40|3|2019773|1|Tilt Motor Bracket Screw|Fastener|tilt 马达支架螺丝
+X74_FS|41|2|3483688|1|Cushion Spin Riveting Assy Driver_8WP||座框电动铆接总成主驾
+X74_FS|42|2|3483689|1|Cushion Spin Riveting Assy Passenger_8WP||座框电动铆接总成副驾
+X74_FS|43|3|3559585|1|Cusion Flange Driver_8WP||电动座框边板总成主驾
+X74_FS|44|3|3559586|1|Cusion Flange Passenger_8WP||电动座框边板总成副驾
+X74_FS|45|4|3483712|1|BUSHING, DIA=25*4.5||垫圈 25*4.5
+X74_FS|46|4|3483714|1|REAR_TUBE_LINK_ASSY_8WP_DRIVER||电动后横管总成主驾
+X74_FS|47|4|3483715|1|REAR_TUBE_LINK_ASSY_8WP_PASSENGER||电动后横管总成副驾
+X74_FS|48|5|3483716|AC|REAR_TUBE_8WP_DRIVER||电动后横管主驾
+X74_FS|49|5|3483717|AC|REAR_LINK_IB_DRIVER_ASSY||后支架主驾内侧总成
+X74_FS|50|5|3483718|AC|REAR_LINK_IB_PASSENGER_ASSY||后支架副驾内侧总成
+X74_FS|51|6|3483949|AC|REAR_LINK_IB_DRIVER||后支架内侧主驾
+X74_FS|52|6|3483953|AB|REAR_LINK_IB_PASSENGER||后支架内侧主驾
+X74_FS|53|6|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|54|5|3483958|AC|REAR_LINK_QUADRANT_DRIVER_ASSY||高调齿板总成主驾
+X74_FS|55|5|3610898|AB|REAR_LINK_QUADRANT_PASSENGER_ASSY||高调齿板总成副驾
+X74_FS|56|6|3483964|AC|REAR_LINK_QUADRANT_DRIVER||高调齿板主驾
+X74_FS|57|6|3610903|AC|REAR_LINK_QUADRANT_PASSENGER||高调齿板副驾
+X74_FS|58|6|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|59|4|3483700|AC|FRONT_CROSS_TUBE UPPER ASSY DRIVER||前上横管总成主驾
+X74_FS|60|5|3483704|AC|FRONT_CROSS_TUBE UPPER||前上横管
+X74_FS|61|5|3359587|AC|TILT BRACKET||tilt 支架
+X74_FS|62|4|3483695|4|CUSHION_SIDEMEMBER_LH||座框边板左
+X74_FS|63|4|3483697|4|CUSHION_SIDEMEMBER_RH||座框边板右
+X74_FS|64|3|3483977|AC|LINK FRONT 8WAY WELD ASSY||电动前支架焊接总成
+X74_FS|65|4|3483980|1|LINK_FRONT_CROSS_TUBE||前支架横管
+X74_FS|66|4|3483994|AC|FRONT_LINK_ASSY_RH||前支架组件右
+X74_FS|67|5|3483986|AB|FRONT_LINK_RH||前支架右
+X74_FS|68|5|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|69|5|3179797|1|BUSHING, DIA=14.35x3|Frame|垫圈 14.35x3
+X74_FS|70|4|3483994|AC|FRONT_LINK_ASSY_LH||前支架总成右
+X74_FS|71|5|3484001|AC|FRONT_LINK_LH||前支架左
+X74_FS|72|5|1826930|1|BUSH ID 10×8.4|Frame|垫圈 10×8.4
+X74_FS|73|5|3179797|1|BUSHING, DIA=14.35x3|Frame|垫圈 14.35x3
+X74_FS|74|3|3266706|1|RIVET WITH SHOULDER D14.35|Fastener|铆钉  D14.35
+X74_FS|75|2|3483684|1|ASSY_6W_MANUAL DRIVER||6向座框总成主驾
+X74_FS|76|2|3483685|1|ASSY_6W_MANUAL PASSENGER||6向座框总成副驾
+X74_FS|77|3|3559575|1|Cusion Front Support Wire_6WM||手动坐框前端总成钢丝
+X74_FS|78|3|3559576|1|Cushion Spin Riveting Assy Driver_6WM||6向座框铆接总成主驾
+X74_FS|79|3|3559578|1|Cushion Spin Riveting Assy Passenger_6WM||6向座框铆接总成副驾
+X74_FS|80|4|3559580|1|Cusion Flange Assy_Driver_6WM||手动坐框边板总成主驾
+X74_FS|81|4|3559581|1|Cusion Flange Assy_Passenger_6WM||手动坐框边板总成副驾
+X74_FS|82|5|3483712|1|BUSHING, DIA=25*4.5||轴套 25*4.5
+X74_FS|83|5|3559582|1|REAR_TUBE_LINK_ASSY_6WM_DRIVER||手动后支架焊接总成主驾
+X74_FS|84|5|3559584|1|REAR_TUBE_LINK_ASSY_6WM_PASSENGER||手动后支架焊接总成副驾
+X74_FS|85|6|3687370|AC|REAR_TUBE_6WM_DRIVER||手动后横管主驾
+X74_FS|86|6|3483717|AB|REAR_LINK_IB_DRIVER_ASSY||后支架内侧总成主驾
+X74_FS|87|6|3483718|AB|REAR_LINK_IB_PASSENGER_ASSY||后支架内侧总成副驾
+X74_FS|88|7|3483949|AB|REAR_LINK_IB_DRIVER||后支架内侧主驾
+X74_FS|89|7|3483953|AC|REAR_LINK_IB_PASSENGER||后支架内侧副驾
+X74_FS|90|7|1826930|1|BUSH ID 10×8.4|Frame|轴套 10×8.4
+X74_FS|91|6|3483958|AD|REAR_LINK_QUADRANT_DRIVER_ASSY||高调齿板总成主驾
+X74_FS|92|6|3610898|AD|REAR_LINK_QUADRANT_PASSENGER_ASSY||高调齿板总成副驾
+X74_FS|93|7|3483964|2|REAR_LINK_QUADRANT_DRIVER||高调齿板主驾
+X74_FS|94|7|3610903|2|REAR_LINK_QUADRANT_PASSENGER||高调齿板副驾
+X74_FS|95|7|1826930|1|BUSH ID 10×8.4|Frame|轴套 10×8.4
+X74_FS|96|5|3483695|4|CUSHION_SIDEMEMBER_LH||座框边板 左
+X74_FS|97|5|3483697|4|CUSHION_SIDEMEMBER_RH||座框边板 右
+X74_FS|98|5|3483704|AC|FRONT_CROSS_TUBE UPPER||前上横管
+X74_FS|99|4|3484021|AB|LINK FRONT 6WAY WELD ASSY||手动前支架焊接总成
+X74_FS|100|5|3484028|1|LINK_FRONT 6W_CROSS_TUBE||手动前横管
+X74_FS|101|5|3483983|AC|FRONT_LINK_ASSY_RH||前支架总成右
+X74_FS|102|6|3483986|AC|FRONT_LINK_RH||前支架右
+X74_FS|103|6|1826930|1|BUSH ID 10×8.4|Frame|轴套 10×8.4
+X74_FS|104|6|3179797|1|BUSHING, DIA=14.35x3|Frame|轴套 14.35x3
+X74_FS|105|5|3483994|AB|FRONT_LINK_ASSY_LH||前支架总成左
+X74_FS|106|6|3484001|AC|FRONT_LINK_LH||前支架左
+X74_FS|107|6|1826930|1|BUSH ID 10×8.4|Frame|轴套 10×8.4
+X74_FS|108|6|3179797|1|BUSHING, DIA=14.35x3|Frame|轴套 14.35x3
+X74_FS|109|4|3486628|1|RIVET WITH SHOULDER D14.35|Fastener|铆钉  D14.35
+X74_FS|110|2|3483690|2|BEARING TORSION SPRING||扭簧轴套
+X74_FS|111|2|3483691|2|HAB01_TORSION_SPRING_POWER_LH||扭簧 左
+X74_FS|112|2|4011853|1|HAB01_TORSION_SPRING_POWER_RH||扭簧 右
+X74_FS|113|2|3560741|AB|Tilt Assy Bracket||tilt 支架总成
+X74_FS|114|2|3397729|1|SCREEW_Tilt Assy Bracket|Fastener|tilt 支架螺丝
+X74_FS|115|2|3559588|1|Tilt RIVOT Bush||tile 铆钉
+X74_FS|116|2|3559589|1|Tilt Rivot Bolt||tilt 螺栓
+X74_FS|117|2|4053233|AA|HEIGHT_ADJUSTER_POWER DRIVER GEN3.1 MEMORY|Motor|GEN3.1 高调记忆马达
+X74_FS|118|2|4053232|AA|HEIGHT_ADJUSTER_POWER PASSENGER GEN3.1 NON MEMORY|Motor|GEN3.1 高调非记忆马达
+X74_FS|119|2|1902561-D|1|ASSY_SEAT_ADJUSTER_PUMP_MANUAL_GEN.3 LH|Frame|手动高调左
+X74_FS|120|2|3713486|AB|TOWEL BAR ASSY||滑轨解锁手柄总成
+X74_FS|121|3|3505238|AB|TOWEL BAR||滑轨解锁手柄
+X74_FS|122|3|3713484|2|DAMPER||垫圈
+X74_FS|123|2|3559570|1|CRASH_BRACKET_ASSY_POWER||电动防撞支架总成
+X74_FS|124|3|3559572|1|CRASH_BRACKET_POWER||电动防撞支架
+X74_FS|125|3|1208823|1|END STOP|Frame|锁止
+X74_FS|126|3|2059343|1|HA BUSHING|Frame|高调轴套
+X74_FS|127|2|1858970|1|CRASH_BRACKET_ASSY_MANUAL|Assy|手动防撞支架总成
+X74_FS|128|3|1237734|1|CRASH_BRACKET_MANUAL|Frame|手动防撞支架
+X74_FS|129|3|1208823|1|END STOP|Frame|锁止
+X74_FS|130|3|2059343|1|HA BUSHING|Frame|高调轴套
+X74_FS|131|2|1693808|1|M6 Nut|Fastener|M6螺栓
+X74_FS|132|2|1704420|1|LOCKING_RING_BOLT|Fastener|锁止环螺栓
+X74_FS|133|2|1704422|1|SELF LOCKING_RING_BOLT|Fastener|自锁螺栓
+X74_FS|134|2|1704420|1|LOCKING_RING_BOLT|Fastener|锁止环螺栓
+X74_FS|135|2|1704422|1|SELF LOCKING_RING_BOLT|Fastener|自锁螺栓
+X74_FS|136|2|3505240|3|TRACK 3000 POWER ASSY DRIVER||T 3000 电动总成主驾
+X74_FS|137|2|3505256|3|TRACK 3000 POWER ASSY PASSENGER||T 3000 电动总成副驾
+X74_FS|138|2|3505234|3|TRACK 3000 MANUAL ASSY DRIVER||T 3000 手动总成主驾
+X74_FS|139|2|3505239|3|TRACK 3000 MANUAL ASSY PASSENGER||T 3000 手动总成副驾
+X74_FS|140|3|3609333|AB|Riser Weld Assy Driver||后支架焊接总成主驾
+X74_FS|141|3|3609344|AB|Riser Weld Assy Passenger||后支架焊接总成副驾
+X74_FS|142|4|3609354|1|Riser Front Cross Weld Tube||前支架横管
+X74_FS|143|4|3484353|AB|FRONT_RISER_OB_DRIVER||前支架内侧主驾
+X74_FS|144|4|3484355|AB|FRONT_RISER_IB_DRIVER||前支架内侧主驾
+X74_FS|145|4|3559615|AB|FRONT_RISER_OB_PASSENGER||前支架内侧副驾
+X74_FS|146|4|3559616|AB|FRONT_RISER_IB_PASSENGER||前支架内侧副驾
+X74_FS|147|3|3610201|1|POWER TRACK ASSY OB DRIVER|Frame|电动滑轨总成内侧主驾
+X74_FS|148|3|3610212|1|POWER TRACK ASSY IB DRIVER|Frame|电动滑轨总成外侧主驾
+X74_FS|149|3|3680606|1|POWER TRACK ASSY OB PASSENGER|Frame|电动滑轨总成内侧副驾
+X74_FS|150|3|3680628|1|POWER TRACK ASSY IB PASSENGER|Frame|电动滑轨总成外侧副驾
+X74_FS|151|3|3609734|1|MANUAL TRACK ASSY OB|Frame|手动滑轨总成外侧
+X74_FS|152|3|3609893|1|MANUAL TRACK ASSY IB|Frame|手动滑轨总成内侧
+X74_FS|153|3|3484362|1|BELT BRKT IB DRIVER||安全带支架主驾
+X74_FS|154|3|3484366|2|PLP BRKT OB DRIVER||安全带支架主驾
+X74_FS|155|3|3484370|1|BELT BRKT IB PASSENGER||安全带支架副驾
+X74_FS|156|3|3484371|2|PLP BRKT OB PASSENGER||安全带支架副驾
+X74_FS|157|3|4084236|1|Track screw|Fastener|滑轨螺栓
+X74_FS|158|3|3505249|1|MOTER ASSY DRIVER MEMORY||滑轨电机记忆总成
+X74_FS|159|3|3505258|1|MOTER ASSY PASSENGER NON MEMORY||滑轨电机非记忆总成
+X74_FS|160|4|3505251|1|MOTER BRACKET||滑轨电机支架
+X74_FS|161|4|3505253|1|FLEXIBLE SHAFT||软轴
+X74_FS|162|4|3641461|AB|HOUSING||软轴套
+X74_FS|163|4|3803584|1|MOTER DRIVER MEMORY|Motor|滑轨电机记忆
+X74_FS|164|4|3466596|1|MOTER PASSENGER NON MEMORY|Motor|滑轨电机非记忆
+X74_FS|165|1|3483569|2|BACK FRAME ASM POWER Driver Memory||电动靠背骨架记忆
+X74_FS|166|1|3560742|2|BACK FRAME ASM POWER Passenger Non Memory||电动靠背骨架非记忆
+X74_FS|167|1|3483571|2|BACK FRAME ASM MANUAL LH||手动靠背骨架总成左
+X74_FS|168|1|3483573|2|BACK FRAME ASM MANUAL RH||手动靠背骨架总成右
+X74_FS|169|2|3477961|1|MOTOR DRIVER MEMORY|Motor|靠背电机记忆
+X74_FS|170|2|3477962|1|MOTOR PASSENGER NON MEMROY|Motor|靠背电机非记忆
+X74_FS|171|2|3483577|1|MOTOR-BOLT||靠背电机螺栓
+X74_FS|172|2|3483579|1|STARLOCK WASHER|Frame|垫片
+X74_FS|173|2|2538915|1|POWER_RECL_CROSS_ROD|Frame|电动靠背同步杆
+X74_FS|174|2|3026807|1|MANUAL_RECL_CROSS_ROD|Frame|手动靠背同步杆
+X74_FS|175|2|3483574|2|FSB_STRUCTURE_POWER||靠背结构电动
+X74_FS|176|2|3483584|2|FSB STRUCT MANUAL||靠背结构手动
+X74_FS|177|3|3485728|AC|POWER SIDEMEMEMBER WELD ASSY_LH||电动靠背边板焊接总成左
+X74_FS|178|3|3485729|AC|MANUAL SIDEMEMEMBER WELD ASSY_LH||手动靠背边板焊接总成左
+X74_FS|179|4|3483625|AC|SIDEMEMEMBER ASSY_LH||靠背边板总成左
+X74_FS|180|5|4084234|1|SIDEMEMEMBER ASSY_1 LH||靠背边板总成1 左
+X74_FS|181|6|4076213|1|back frame reinforcement bracket||靠背加强支架
+X74_FS|182|6|3483586|3|SIDEMEMEMBER_LH||靠背边板左
+X74_FS|183|5|3483621|2|Recliner Block Bracket||调角支架
+X74_FS|184|4|3483604|1|ASM_RECLINER MANUAL_LH||手动调角总成左
+X74_FS|185|4|3483607|1|ASM_RECLINER POWER_LH||手动调角总成左
+X74_FS|186|5|3483610|1|LOWER_RECLINER_BRACKET_LH||调角连接板
+X74_FS|187|5|3038345|1|T3000 MANUAL|Frame|手动调角核心件
+X74_FS|188|5|2774897|1|T3000 POWER|Frame|电动调角核心件
+X74_FS|189|3|3485730|AC|POWER SIDEMEMEMBER WELD ASSY_RH||电动靠背边板焊接总成右
+X74_FS|190|3|3485731|AC|MANUAL SIDEMEMEMBER WELD ASSY_RH||手动靠背边板焊接总成右
+X74_FS|191|4|3483590|3|POWER SIDEMEMEMBER ASSY_RH||电动靠背边板总成右
+X74_FS|192|4|3483591|3|MANUAL SIDEMEMEMBER ASSY_RH||电动靠背边板总成右
+X74_FS|193|5|4084235|1|SIDEMEMEMBER ASSY_1 RH||靠背边板总成1 右
+X74_FS|194|6|4076213|1|back frame reinforcement bracket||靠背加强支架
+X74_FS|195|6|3483593|3|SIDEMEMEMBER_RH||靠背边板右
+X74_FS|196|5|3483594|1|MOTOR BRACKET||电机支架
+X74_FS|197|5|3483621|2|Recliner Block Bracket||调角支架
+X74_FS|198|4|3483602|1|ASM_RECLINER MANUAL_RH||手动调角总成右
+X74_FS|199|4|3483606|1|ASM_RECLINER POWER_RH||电动调角总成右
+X74_FS|200|5|3483609|1|LOWER_RECLINER_BRACKET_RH||调角连接板右
+X74_FS|201|5|3038345|1|T3000 MANUAL|Frame|手动调角核心件
+X74_FS|202|5|2774897|1|T3000 POWER|Frame|电动调角核心件
+X74_FS|203|3|3483596|2|UPPER_CROSSMEMBER||靠背上横梁
+X74_FS|204|3|3483599|1|LOWER_CROSSMEMBER||靠背下横梁
+X74_FS|205|1|4257105|AA|screw(M10) backrest and cushion marriage screw|Fastener|坐靠连接螺栓
+X74_FS|206|1|3505217|1|HEIGHT ADJUSTER HANDLE DRIVER||高调手柄主驾
+X74_FS|207|1|3483680|1|HEIGHT ADJUSTER HANDLE PASSENGER||高调手柄副驾
+X74_FS|208|1|1804263|1|M6*10 BOLT_HEIGHT ADJUSTER HANDLE (1804263)|Fastener|高调手柄固定螺丝
+X74_FS|209|1|3569794|1|Side Valance Support Bracket Assy 8WP Driver|Frame|电动旁侧板支架总成主驾
+X74_FS|210|1|3569795|1|Side Valance Support Bracket Assy 8WP Passenger|Frame|电动旁侧板支架总成副驾
+X74_FS|211|1|3669004|1|Side Valance Support Bracket Assy 6WM Driver|Frame|手动旁侧板支架总成主驾
+X74_FS|212|1|3669005|1|Side Valance Support Bracket Assy 6WM Passenger|Frame|手动旁侧板支架总成副驾
+X74_FS|213|2|3569798|1|Side Valance Support Wire 8WP Driver|Frame|电动旁侧板支架主驾
+X74_FS|214|2|3569799|1|Side Valance Support Wire 8WP Passenger|Frame|电动旁侧板支架副驾
+X74_FS|215|2|3609296|1|Side Valance Support Wire 6WM Driver|Frame|手动旁侧板支架主驾
+X74_FS|216|2|3683210|1|Side Valance Support Wire Upper 6WM Driver|Frame|手动旁侧板支架主驾上
+X74_FS|217|2|3609315|1|Side Valance Support Wire 6WM Passenger|Frame|电动旁侧板支架副驾
+X74_FS|218|2|3683211|1|Side Valance Support Wire Upper 6WM Passenger|Frame|电动旁侧板支架副驾
+X74_FS|219|2|3569800|1|Side Valance Front Support Bracket|Frame|旁侧板支撑钢丝支架前
+X74_FS|220|2|3569802|1|Side Valance Rear Support Bracket|Frame|旁侧板支撑钢丝支架后
+X74_FS|221|1|2401781|1|ST4.8*13|Fastener|ST4.8*9
+X74_FS|222|1|3489905|AB|2W front headrest assy level 1 fabric|Assy|2向头枕总成
+X74_FS|223|1|4277773|AA|2W front headrest assy level 1+ fabric+PVC|Assy|2向头枕总成 fabric+PVC
+X74_FS|224|1|4804215|AA|2W front headrest assy level 1+ PVC|Assy|2向头枕总成 PVC
+X74_FS|225|2|3744610|AA|HR trim cover level 1 fabric|Cover|2向头枕面套
+X74_FS|226|2|4277768|AA|HR trim cover level 1+ fabric+PVC|Cover|2向头枕面套fabric+PVC
+X74_FS|227|2|4813449|AA|HR trim cover level 1+ PVC|Cover|2向头枕面套PVC
+X74_FS|228|2|3489970|AA|2W HR frame|Frame|2向头枕骨架
+X74_FS|229|2|3489971|AB|2W HR foam|Foam|2向头枕泡沫
+X74_FS|230|2|3489972|1|2W HR EPP|Other|2向头枕EPP
+X74_FS|231|1|3051130|1|methyl silicone oil|Other|甲基硅油
+X74_FS|232|1|3485773|1|SWITCH 4W LUMBAR（98125278XT）passenger  W/O massage|Function|腰托开关副驾非按摩
+X74_FS|233|1|3489914|1|SWITCH 4W LUMBAR（98125277XT）|Function|腰托开关
+X74_FS|234|1|3483681|2|4W Front Headrest assy level 1+ claudia &fabric|Assy|level 1+ 4向头枕总成
+X74_FS|235|1|3489908|1|4W Front Headrest assy level 2 alcantara/TPE|Assy|level 2 4向头枕总成
+X74_FS|236|1|3489907|2|4W Front Headrest assy level 3 claudia|Assy|level 3 4向头枕总成
+X74_FS|237|1|3768447|2|4W Front Headrest assy level 3+ claudia vent|Assy|level 3+ 4向头枕总成
+X74_FS|238|1|3485774|AA|4W Front Headrest assy level 4 nappa|Assy|level 4 4向头枕总成
+X74_FS|239|1|3489909|AA|suspension seat back|Other|靠背簧
+X74_FS|240|1|3485776|1|Pneumatic 4WM Lumbar with Memo|Function|4向腰托带记忆
+X74_FS|241|1|3489910|1|Pneumatic 4WM Lumbar W/O Memo|Function|4向腰托不带记忆
+X74_FS|242|1|3485777|1|Massage 8 Pcs Bladder and Pneumatic 4WM Lumbar|Function|按摩腰托
+X74_FS|243|1|3485778|1|BOX MEMORY|Function|记忆盒
+X74_FS|244|1|3489926|1|heater and vent system control|Function|加热通风单元
+X74_FS|245|1|3485779|1|Switch memory|Function|记忆按键
+X74_FS|246|1|3485780|1|Power switch 8W driver|Function|8向开关主驾
+X74_FS|247|1|3489913|1|Power switch 8W passenger|Function|8向开关副驾
+X74_FS|248|1|3485781|1|Push activation massage LH|Function|按摩开关左
+X74_FS|249|1|3485782|1|Belt buckle with TNB|Function|安全带扣主驾
+X74_FS|250|1|3585850|1|Belt buckle screw|Fastener|安全带扣螺栓
+X74_FS|251|1|3585860|1|Belt buckle screw washer|Fastener|安全带扣螺栓垫片
+X74_FS|252|1|3485783|1|Air bag Driver|SAB|安全气囊主驾
+X74_FS|253|1|3489916|1|Air bag passanger|SAB|安全气囊副驾
+X74_FS|254|1|3485784|1|PLP driver|Function|PLP 主驾
+X74_FS|255|1|1325945|1|Nut air bag|Fastener|安全气囊螺母
+X74_FS|256|1|3489917|1|PLP passanger|Function|PLP 副驾
+X74_FS|257|1|3585845|1|Screw fixation PLP|Fastener|PLP 固定螺栓
+X74_FS|258|1|3489918|AB|SBR|Function|SBR
+X74_FS|259|1|3489919|AA|Suspension seat cushion (version tube）|Other|座簧（管式）
+X74_FS|260|1|3485786|AC|Suspension seat cushion (version half pan )|Other|座簧（盆式式）
+X74_FS|261|1|3668981|AB|Suspension seat cushion (air vent )|Other|座簧（通风式）
+X74_FS|262|1|3766112|4|air vent back bag assy|Function|靠背通风系统
+X74_FS|263|1|3766115|4|air vent cushion bag assy|Function|座垫通风系统
+X74_FS|264|1|3766118|AB|air vent back fan assy|Function|靠背通风系统
+X74_FS|265|1|3766119|AD|air vent cushion fan assy|Function|座垫通风系统
+X74_FS|266|1|3485803|1|Heating mat cushion|Function|座垫加热系统
+X74_FS|267|1|3717071|AC|Heating mat CLA|Function|CLA 加热系统
+X74_FS|268|1|2401781|1|ST4.8x13|Function|ST4.8x13
+X74_FS|269|1|3485804|1|CLA core part|Assy|CLA 核心件
+X74_FS|270|1|3587204|1|CLA screw|Fastener|CLA 固定螺丝
+X74_FS|271|1|3489925|AB|CLA interface plastic cover|Fastener|CLA 上盖板
+X74_FS|272|1|3770025|1|CLA interface matel cover|Fastener|CLA 上金属盖板
+X74_FS|273|1|3770027|1|CLA interface matel cover fixation screw|Fastener|CLA 上金属盖板螺钉
+X74_FS|274|1|3485805|1|Bezel locking 2W|Assy|2W 头枕导套锁止端
+X74_FS|275|1|3668982|1|Bezel unlocking 2W|Assy|2W 头枕导套非锁止端
+X74_FS|276|1|3668983|1|Bezel locking 4W|Assy|4向头枕导套
+X74_FS|277|1|N0152612|1|Hog Ring|Fastener|C 型环
+X74_FS|278|1|3489920|AC|Backpanel  Grained with map pocket & net|Assy|皮纹式背板
+X74_FS|279|2|3489957|AC|backpanel grained|Plastic|背板本体
+X74_FS|280|2|3486628|1|map pocket net|Other|地图袋
+X74_FS|281|2|3486629|2|map pocket frame|Plastic|地图袋骨架
+X74_FS|282|2|3707964|1|ST4.8X9.5 SCREW|Fastener|ST4.8X9.5 螺丝
+X74_FS|283|2|3707968|1|glue||sika sense 4306 sika cure 4901
+X74_FS|284|1|3485815|5|Backpanel  wrapped（PVC） with mappocket & net|Assy|包覆式背板
+X74_FS|285|2|3505205|1|backpanel Wrap trim PVC|Cover|包覆式PVC
+X74_FS|286|2|3486627|4|backpanel|Plastic|椅背板本体
+X74_FS|287|2|3486628|1|map pocket net|Other|地图袋
+X74_FS|288|2|3486629|2|map pocket frame|Plastic|地图袋骨架
+X74_FS|289|99|3707964|1|ST4.8X9.5 SCREW|Fastener|ST4.8X9.5
+X74_FS|290|1|3489921|3|Back cap handwheel recliner|Plastic|调角手轮盖板
+X74_FS|291|1|3489922|2|Hand wheel recliner with soft touch|Plastic|调角手轮
+X74_FS|292|1|3489923|AB|Height adjuster handle driver|Plastic|高调手柄主驾
+X74_FS|293|1|3489924|AB|Height adjuster handle passenger|Plastic|高调手柄副驾
+X74_FS|294|1|1464109|1|screw Interface to fix the cushion valance（ST4.2）||SCREW M4.2-2.5x12
+X74_FS|295|1|3485816|AC|Interface to fix the cushion valance driver（electric）|Plastic|电动开关盖板主驾
+X74_FS|296|1|3489927|AC|Interface to fix the cushion valance passenger（electric）|Plastic|电动开关盖板副驾
+X74_FS|297|1|3485818|AB|Cushion tracks cover outboard driver|Plastic|滑轨罩盖主驾
+X74_FS|298|1|3489929|AB|Cushion track cover outboard passenger|Plastic|滑轨罩盖副驾
+X74_FS|299|1|2401781|1|ST4.8x13|Fastener|旁侧板固定螺丝
+X74_FS|300|1|2401781|1|ST4.8x13|Fastener|滑轨罩盖固定螺丝
+X74_FS|301|1|3485821|AC|Cushion valance inboard driver|Plastic|旁侧板内侧主驾
+X74_FS|302|1|3489930|AC|Cushion valance inboard passanger|Plastic|旁侧板内侧副驾
+X74_FS|303|1|3489931|AB|Cushion valance outboard driver manual|Plastic|手动旁侧板外侧主驾
+X74_FS|304|1|3489932|AB|Cushion valance outboard passenger manual|Plastic|手动旁侧板外侧副驾
+X74_FS|305|1|3485822|AC|Cushion valance outboard driver 8W|Plastic|电动外侧旁侧板主驾
+X74_FS|306|1|3489935|AC|Cushion valance outboard passenger 8W|Plastic|电动外侧旁侧板副驾
+X74_FS|307|1|3668986|AC|Cushion valance outboard driver 8W  with massage|Plastic|电动外侧旁侧板主驾带按摩
+X74_FS|308|1|3668989|AC|Cushion valance outboard passenger 8W with massage|Plastic|电动外侧旁侧板副驾带按摩
+X74_FS|309|1|3485823|2|Harness connector bracket LH driver|Plastic|线束总成前端支架主驾
+X74_FS|310|1|3489936|2|Harness connector bracket RH passenger|Plastic|线束总成前端支架副驾
+X74_FS|311|1|3485824|3|Cover motor tracks valance driver|Plastic|滑轨电机盖板主驾
+X74_FS|312|1|3668990|3|Cover motor tracks valance passenger|Plastic|滑轨电机盖板副驾
+X74_FS|313|1|3485825|AC|Switch massage+memory bracket driver|Plastic|按摩开关支架主驾
+X74_FS|314|1|3489937|AB|Switch masssage+memory bracket passenger|Plastic|按摩开关支架副驾
+X74_FS|315|1|3486610|2|End cap|Plastic|滑轨端盖
+X74_FS|316|1|3489938|AB|Harness for Belt Buckle +SAB +PLP|Other|level 1 线束总成
+X74_FS|317|1|3489939|AB|Harness for Belt Buckle +SAB +PLP +SBR|Other|level 1 线束总成副驾
+X74_FS|318|1|3489940|AC|Harness for Belt Buckle +8W+SAB+PLP+4W lumbar+memory|Other|leve 2 线束总成主驾
+X74_FS|319|1|3489941|AC|Harness for Belt Buckle +8W+SAB +PLP+4W lumbar+SBR|Other|level 2 线束总成副驾
+X74_FS|320|1|3489942|AC|Harness for Belt Buckle +8W+SAB+PLP+4W lumber+memory+ventiliation+heating mat+massage|Other|level 4 线速总成主驾
+X74_FS|321|1|3489943|AC|Harness for Belt Buckle +8W+SAB+PLP+4W lumber+SBR+ventiliation+heating mat+massage|Other|level 4线束总成副驾
+X74_FS|322|1|3486613|AA|front seat shipping bag non-woven|Package bag|包装袋
+X74_FS|323|1|3486614|AA|front seat foam anti-noise non-woven back|Other|靠背防噪音布
+X74_FS|324|1|3486615|AA|front seat foam anti-noise non-woven cushion|Other|座垫防噪音布
+X74_FS|325|1|3489947|AE|FSB foam driver assy Dual-density  2mm laminations (level 1 ，level 1+，level 1+ option，level 2)|Pad|level 1 靠背泡沫主驾总成
+X74_FS|326|2|3489958|AC|FSB Dual-density  driver 2mm laminations foam pad (level 1 ，level 1+，level 1+ option，level 2))|Foam|level 1 靠背泡沫
+X74_FS|327|2|3486632|1|wire 1|Pad frame|钢丝1
+X74_FS|328|2|3486634|1|wire 2|Pad frame|钢丝2
+X74_FS|329|2|4097249|AB|back strength fabric 1 driver|Other|靠背加强布1主驾
+X74_FS|330|2|3489965|1|velcro 60mm|Other|刺毛带60mm
+X74_FS|331|2|3606984|1|velcro 520mm|Other|刺毛带520mm
+X74_FS|332|1|3489951|AC|FSC foam driver assy Dual-density  2mm laminations (level 1)|Pad|level 1 座垫泡沫主驾总成
+X74_FS|333|2|3489962|1|FSC driver Dual-density  2mm laminations foam pad (level 1)|Foam|level 1 座垫泡沫
+X74_FS|334|2|3668996|1|wire 350mm|Pad frame|钢丝 350mm
+X74_FS|335|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|336|2|3489965|1|velcro  60mm|Other|刺毛带 60mm
+X74_FS|337|2|3668998|1|velcro  350mm||刺毛带 350mm
+X74_FS|338|2|3669002|1|cushion strength fabric 3|Other|座垫加强布 3
+X74_FS|339|1|3983775|AC|FSC foam driver assy Dual-density  2mm laminations (level 1+)|Pad|level 1+ 座垫泡沫主驾总成
+X74_FS|340|2|3983791|1|FSC driver Dual-density  2mm laminations foam pad (level 1+)|Foam|level 1+ 座垫泡沫
+X74_FS|341|2|3668996|1|wire 350mm|Pad frame|钢丝 350mm
+X74_FS|342|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|343|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|344|2|3668998|1|velcro  350mm|Other|刺毛带 350mm
+X74_FS|345|2|3606975|1|cushion strength fabric 1|Other|座垫加强布 1
+X74_FS|346|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|347|1|3489933|AC|FSC foam driver assy Dual-density  2mm laminations (level 2)|Pad|level 2 座垫泡沫主驾总成
+X74_FS|348|2|3489934|1|FSC driver Dual-density  2mm laminations foam pad (level 2)|Foam|level 2 座垫泡沫
+X74_FS|349|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|350|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|351|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|352|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|353|2|3606975|1|cushion strength fabric 1|Other|座垫加强布 1
+X74_FS|354|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|355|1|3489948|AE|FSB foam passenger assy Dual-density  2mm laminations (level 1，level1+，level 1+ option，level 2)|Pad|level 1 靠背泡沫副驾总成
+X74_FS|356|2|3489959|AC|FSB Dual-density  passenger 2mm laminations foam pad (level 1，level1+，level 1+ option，level 2)|Foam|level 1 靠背泡沫副驾
+X74_FS|357|2|3486632|1|wire 1|Pad frame|钢丝 1
+X74_FS|358|2|3486634|1|wire 2|Pad frame|钢丝 2
+X74_FS|359|2|3707974|1|back strength fabric 1 passenger||靠背加强布 1 副驾
+X74_FS|360|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|361|2|3606984|1|velcro 520mm|Other|刺毛带 520mm
+X74_FS|362|1|3489952|AC|FSC foam passenger assy Dual-density  2mm laminations (level 1,level 1+)|Pad|level 1座垫泡沫副驾总成
+X74_FS|363|2|3489966|1|FSC passenger Dual-density  2mm laminations foam pad (level 1,level1+)|Foam|level 1座垫泡沫副驾
+X74_FS|364|2|3668996|1|wire 350mm|Pad frame|钢丝 350mm
+X74_FS|365|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|366|2|3489965|1|velcro  60mm|Other|刺毛带 60mm
+X74_FS|367|2|3668998|1|velcro  350mm|Other|刺毛带 350mm
+X74_FS|368|2|3669002|1|cushion strength fabric 3|Other|座垫加强布 3
+X74_FS|369|1|3669000|AC|FSC foam passenger assy Dual-density  2mm laminations (level 1+option，level2)|Pad|level 1+ option 座垫泡沫副驾总成
+X74_FS|370|2|3669001|1|FSC driver Dual-density  2mm laminations foam pad (level 1+ option，level2)|Foam|level 1+ 座垫泡沫副驾
+X74_FS|371|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|372|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|373|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|374|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|375|2|3606975|1|cushion strength fabric 1|Other|座垫加强布 1
+X74_FS|376|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|377|1|3486616|AE|FSB foam driver assy Dual-density  10mm laminations  (level3)|Pad|level 3 靠背泡沫主驾总成
+X74_FS|378|2|3486631|AC|FSB Dual-density  driver 10mm laminations foam pad (level3)|Foam|level 3 靠背泡沫主驾
+X74_FS|379|2|3486632|1|wire 1|Pad frame|钢丝 1
+X74_FS|380|2|3486634|1|wire 2|Pad frame|钢丝 2
+X74_FS|381|2|3060981|1|back strength fabric 1 driver|Other|靠背加强布 1 主驾
+X74_FS|382|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|383|2|3606984|1|velcro 520mm|Other|刺毛带 520mm
+X74_FS|384|1|3485806|AC|FSC foam driver assy Dual-density  10mm laminations  (level 3)|Pad|level 3 座垫泡沫主驾总成
+X74_FS|385|2|3485812|1|FSC driver Dual-density  10mm laminations foam pad  (level 3)|Foam|level 3 座垫泡沫主驾
+X74_FS|386|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|387|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|388|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|389|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|390|2|3606975|1|cushion strength fabric 1|Other|座垫加强布 1
+X74_FS|391|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|392|1|3489949|AE|FSB foam passenger assy Dual-density  10mm laminations  (level 3)|Pad|level 3 靠背泡沫副驾总成
+X74_FS|393|2|3489960|AC|FSB passenger Dual-density  10mm laminations foam pad  (level 3)|Foam|level 3 靠背泡沫副驾
+X74_FS|394|2|3486632|1|wire 1|Pad frame|钢丝 1
+X74_FS|395|2|3486634|1|wire 2|Pad frame|钢丝 2
+X74_FS|396|99|3707974|1|back strength fabric 1 passenger|Other|靠背加强布 1 副驾
+X74_FS|397|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|398|2|3606984|1|velcro 520mm|Other|刺毛带 520mm
+X74_FS|399|1|3489955|AC|FSC foam passenger assy Dual-density  10mm laminations  (level 3)|Pad|level 3 座垫泡沫副驾总成
+X74_FS|400|2|3489969|1|FSC passenger Dual-density  10mm laminations foam pad (level 3)|Foam|level 3 座垫泡沫副驾
+X74_FS|401|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|402|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|403|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|404|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|405|2|3606975|1|cushion strength fabric 1|Other|座垫加强布 1
+X74_FS|406|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|407|1|3489950|AE|FSB foam driver assy Dual-density  10mm laminations  (level3 option，level 4&5)|Pad|level 3+ 靠背泡沫主驾总成
+X74_FS|408|2|3489961|AC|FSB driver Dual-density  10mm laminations foam pad (level3 option，level 4&5)|Foam|level 3+ 靠背泡沫主驾
+X74_FS|409|2|3486632|1|wire 1|Pad frame|钢丝 1
+X74_FS|410|2|3486634|1|wire 2|Pad frame|钢丝 2
+X74_FS|411|2|3707970|1|back strength fabric 2 driver|Other|靠背加强布 2 主驾
+X74_FS|412|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|413|2|3606984|1|velcro 520mm|Other|刺毛带 520mm
+X74_FS|414|1|3489954|AD|FSC foam driver assy Dual-density  10mm laminations  (level3 option，level 4&5)|Pad|level 3+ 座垫泡沫主驾总成
+X74_FS|415|2|3489968|1|FSC driver Dual-density  10mm laminations foam pad (nappa+CLA+air vent)|Foam|level 3+ 座垫泡沫主驾
+X74_FS|416|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|417|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|418|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|419|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|420|2|3707977|1|cushion strength fabric 4|Other|座垫加强布 4
+X74_FS|421|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|422|1|3486618|AE|FSB foam passenger assy Dual-density  10mm laminations  (level3 option，level 4&5)|Pad|level 3+ 靠背泡沫副驾总成
+X74_FS|423|2|3486635|AC|FSB passenger Dual-density 10mm laminations foam pad (level3 option，level 4&5)|Foam|level 3+ 靠背泡沫副驾
+X74_FS|424|2|3486632|1|wire 1|Pad frame|钢丝 1
+X74_FS|425|2|3486634|1|wire 2|Pad frame|钢丝 2
+X74_FS|426|2|3707975|1|back strength fabric 2 passenger|Other|靠背加强布 2 副驾
+X74_FS|427|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|428|2|3606984|1|velcro 520mm|Other|刺毛带 520mm
+X74_FS|429|1|3489956|AD|FSC foam passenger assy Dual-density  10mm laminations  (level3 option，level 4&5)|Pad|level 3+ 座垫泡沫副驾总成
+X74_FS|430|2|3489912|1|FSC passenger Dual-density 10mm laminations foam pad (level3 option，level 4&5)|Foam|level 3+ 座垫泡沫副驾
+X74_FS|431|2|3489963|1|wire 250mm|Pad frame|钢丝 250mm
+X74_FS|432|2|3819078|AB|wire 330mm|Pad frame|钢丝 330mm
+X74_FS|433|2|3489965|1|velcro 60mm|Other|刺毛带 60mm
+X74_FS|434|2|3606985|1|velcro 255mm|Other|刺毛带 255mm
+X74_FS|435|99|3707977|1|cushion strength fabric 4|Other|座垫加强布 4
+X74_FS|436|2|3606979|1|cushion strength fabric 2|Other|座垫加强布 2
+X74_FS|437|1|3486619|AB|CLA FOAM 2 lamination|Foam|CLA 泡沫2 mm
+X74_FS|438|1|3485819|AB|CLA FOAM 5 lamination|Foam|CLA 泡沫 5mm
+X74_FS|439|2|4251232|AA|CLA FOAM 2 lamination|Foam|CLA 泡沫2 mm
+X74_FS|440|2|4251233|AA|CLA FOAM 5 lamination|Foam|CLA 泡沫 5mm
+X74_FS|441|2|4033901|1|PE plate 1 CLA foam pad|Plastic|PE片 1
+X74_FS|442|2|4033953|1|PE plate 2 CLA foam pad|Plastic|PE片2
+X74_FS|443|1|3740018|1|FSB Trimming  fabric driver level 1|Cover|
+X74_FS|444|1|3740016|1|FSB Trimming  fabric passenger level 1|Cover|
+X74_FS|445|1|4788135|AA|FSB Trimming PVC driver level 1+ PVC|Cover|
+X74_FS|446|1|4788134|AA|FSB Trimming PVC passenger level 1+ PVC|Cover|
+X74_FS|447|1|3740033|1|FSB Trimming claudia/fabric driver level1+|Cover|
+X74_FS|448|1|3740032|1|FSB Trimming  claudia/fabric passenger level1+|Cover|
+X74_FS|449|1|3740045|1|FSB Trimming alcantara+TEP driver level2|Cover|
+X74_FS|450|1|3740044|1|FSB Trimming  alcantara+TEP passenger level2|Cover|
+X74_FS|451|1|3740060|1|FSB Trimming claudia driver level 3|Cover|
+X74_FS|452|1|3740059|1|FSB Trimming  claudia passenger level 3|Cover|
+X74_FS|453|1|3740114|1|FSB Trimming claudia driver vent level 3+|Cover|
+X74_FS|454|1|3740113|1|FSB Trimming  claudia passenger vent level 3+|Cover|
+X74_FS|455|1|3740221|1|FSB Trimming  nappa driver level 4|Cover|
+X74_FS|456|1|3740219|1|FSB Trimming nappa passenger level 4|Cover|
+X74_FS|457|1|3740021|1|FSC Trimming  fabric driver level 1|Cover|
+X74_FS|458|1|3740020|1|FSC Trimming  fabric passenger level 1|Cover|
+X74_FS|459|1|4788137|AA|FSC Trimming PVC driver level 1+ PVC|Cover|
+X74_FS|460|1|4788136|AA|FSC Trimming  PVC passenger w/o CLA level 1+ PVC|Cover|
+X74_FS|461|1|4089859|1|FSC Trimming claudia/fabric driver level1+|Cover|
+X74_FS|462|1|3740037|1|FSC Trimming  claudia/fabric passenger w/o CLA level1+|Cover|
+X74_FS|463|1|3740126|1|FSC Trimming  claudia/fabric passenger level 1+ option|Cover|
+X74_FS|464|1|3740048|1|FSC Trimming alcantara+TEP driver level 2|Cover|
+X74_FS|465|1|3740047|1|FSC Trimming  alcantara+TEP passenger level2|Cover|
+X74_FS|466|1|3740062|1|FSC Trimming claudia driver level 3|Cover|
+X74_FS|467|1|3740061|1|FSC Trimming  claudia passenger level 3|Cover|
+X74_FS|468|1|3740125|1|FSC Trimming claudia driver vent level 3+|Cover|
+X74_FS|469|1|3740124|1|FSC Trimming  claudia passenger vent level 3+|Cover|
+X74_FS|470|1|3740224|1|FSC Trimming  nappa driver level4|Cover|
+X74_FS|471|1|3740222|1|FSC Trimming nappa passenger level4|Cover|
+X74_FS|472|1|4177968|AA|felt （130*70mm）|Other|
+X74_FS|473|1|4177961|AA|felt （180*70mm）|Other|
+X74_FS|474|1|4199023|AA|felt （140*70mm）|Other|
+X74_FS|475|1|4253404|AA|SUPPORT SLEEVE|Plastic|
+X74_FS|476|1|4200777|AA|wire LH|Wire|bolster支撑钢丝LH
+X74_FS|477|1|4200788|AA|wire RH|Wire|bolster支撑钢丝RH
+X74_FS|478|1|4382475|AA|Rivet|Fastener|铆钉
+X74_RS|1|0|3592307|1|complete seat level 1|Assy|整椅总成 level 1
+X74_RS|2|0|4804232|AA|complete seat level 1+ PVC|Assy|整椅总成 level 1+ PVC
+X74_RS|3|0|3592320|1|complete seat level 1+|Assy|整椅总成 level 1+
+X74_RS|4|0|3592327|1|complete seat level 2|Assy|整椅总成 level 2
+X74_RS|5|0|3592328|1|complete seat level 3|Assy|整椅总成 level 3
+X74_RS|6|0|3717197|1|complete seat level 3+|Assy|整椅总成 level 3+
+X74_RS|7|0|3592333|1|complete seat level 4|Assy|整椅总成 level 4
+X74_RS|8|1|3481970|2|60 assy level 1|Assy|60总成 level 1
+X74_RS|9|1|4804236|AA|60 assy level 1+ PVC|Assy|60总成 level 1+ PVC
+X74_RS|10|1|3592321|2|60 assy level 1+|Assy|60总成 level 1+
+X74_RS|11|1|3482040|2|60 assy level 2|Assy|60总成 level 2
+X74_RS|12|1|3482054|2|60 assy level 3|Assy|60总成 level 3
+X74_RS|13|1|3717198|2|60 assy level 3+|Assy|60总成 level 3+
+X74_RS|14|1|3482067|2|60 assy level 4|Assy|60总成 level 4
+X74_RS|15|2|3482477|2|Bezel Locking|Assy|头枕塑料导套（锁止端）
+X74_RS|16|3|3666520|2|push button for locking bezel|Plastic|头枕导套解锁按钮
+X74_RS|17|3|3666515|2|bezel plug body|Plastic|头枕导套本体（锁止端）
+X74_RS|18|3|3666521|1|spring locking bezel|Spring|头枕导套回复弹簧
+X74_RS|19|3|3668021|1|bezel wire|Wire|头枕导套钢丝
+X74_RS|20|2|3482479|2|Bezel Unlocking|Assy|头枕塑料导套（非锁止端）
+X74_RS|21|3|3668022|1|bezel plug body unlocking|Plastic|头枕导套本体（非锁止端）
+X74_RS|22|3|3668021|1|bezel wire|Wire|头枕导套钢丝
+X74_RS|23|2|1815254|1|Nut Retractor|Fastener|卷收器安装螺母
+X74_RS|24|2|3482485|1|Retractor 1|Other|卷收器 1
+X74_RS|25|2|3682199|1|Retractor 2|Other|卷收器 2
+X74_RS|26|2|N0152612|1|Hog Ring|Fastener|C型钉
+X74_RS|27|2|3482490|1|Rear seat back carpet 60 (50 Shores) material：felt|Cover|60靠背地毯布
+X74_RS|28|2|3482492|AA|lateral suspension|Assy|坐垫悬浮垫
+X74_RS|29|2|3482493|AB|Cover belt exit|Plastic|安全带出口罩盖
+X74_RS|30|2|3482494|AA|cover latch release|Plastic|锁罩盖
+X74_RS|31|2|3482498|1|Protective Clip for rear backframe 40% & 60%|Plastic|靠背骨架保护卡子
+X74_RS|32|2|3482504|AB|Headrest Outer level 1 LH|Assy|左外侧头枕 level 1
+X74_RS|33|2|4804247|AA|Headrest Outer level 1+ LH PVC|Assy|
+X74_RS|34|2|3592322|AA|Headrest Outer level 1+ LH|Assy|左外侧头枕 level 1+
+X74_RS|35|2|3482506|AA|Headrest Outer level 2 LH|Assy|左外侧头枕 level 2
+X74_RS|36|2|3482512|AA|Headrest Outer level 3 LH|Assy|左外侧头枕 level 3
+X74_RS|37|2|3753298|AA|Headrest Outer level 3+ LH|Assy|左外侧头枕 level 3+
+X74_RS|38|2|3482516|7|Headrest Outer level 4 LH|Assy|左外侧头枕 level 4
+X74_RS|39|3|3482614|AA|headrest rod outer|Frame|两侧头枕杆
+X74_RS|40|3|3482615|3|headrest foam LH|Foam|左侧头枕发泡
+X74_RS|41|3|3715271|5|headrest trim cover level 1 LH|Cover|左侧头枕面套 level 1
+X74_RS|42|3|4804248|AA|headrest trim cover level 1+ LH PVC||
+X74_RS|43|3|3666572|5|headrest trim cover level 1+ LH|Cover|左侧头枕面套 level 1+
+X74_RS|44|3|3715278|5|headrest trim cover level 2 LH|Cover|左侧头枕面套 level 2
+X74_RS|45|3|3715279|5|headrest trim cover level 3 LH|Cover|左侧头枕面套 level 3
+X74_RS|46|3|3753301|5|headrest trim cover level 3+ LH|Cover|左侧头枕面套 level 3+
+X74_RS|47|3|3715281|AA|headrest trim cover level 4 LH|Cover|左侧头枕面套 level 4
+X74_RS|48|2|3482519|5|Headrest center fabric level 1|Assy|中间头枕总成 level 1
+X74_RS|49|2|4804249|AA|Headrest center level 1+ PVC|Assy|中间头枕总成 level 1 PVC
+X74_RS|50|2|3592323|5|Headrest center level 1+|Assy|中间头枕总成 level 1+
+X74_RS|51|2|3482520|5|Headrest center level 2|Assy|中间头枕总成 level 2
+X74_RS|52|2|3482523|5|Headrest center level 3|Assy|中间头枕总成 level 3
+X74_RS|53|2|3482525|5|Headrest center level 4|Assy|中间头枕总成 level 4
+X74_RS|54|3|3482694|AA|headrest rod center|Frame|中间头枕杆
+X74_RS|55|3|3482697|2|headrest foam center|Foam|中间头枕发泡
+X74_RS|56|3|3715289|4|headrest center trim cover level 1|Cover|中间头枕面套 level 1
+X74_RS|57|3|4804250|AA|headrest center trim cover level 1+ PVC|Cover|中间头枕面套 level 1+ PVC
+X74_RS|58|3|3666589|4|headrest center trim cover level 1+|Cover|中间头枕面套 level 1+
+X74_RS|59|3|3715291|AA|headrest center trim cover level 2|Cover|中间头枕面套 level 2
+X74_RS|60|3|3715292|4|headrest center trim cover level 3|Cover|中间头枕面套 level 3
+X74_RS|61|3|3666590|4|headrest center trim cover level 4|Cover|中间头枕面套 level 4
+X74_RS|62|2|3482526|2|Armrest with cup-holder Trimming level 1|Assy|扶手总成 level 1
+X74_RS|63|2|3592324|2|Armrest with cup-holder Trimming level 1+|Assy|扶手总成 level 1+
+X74_RS|64|2|3482527|2|Armrest with cup-holder Trimming level 2|Assy|扶手总成 level 2
+X74_RS|65|2|3482529|2|Armrest with cup-holder Trimming level 3|Assy|扶手总成 level 3
+X74_RS|66|2|3482531|2|Armrest with cup-holder Trimming level 4|Assy|扶手总成 level 4
+X74_RS|67|3|3666553|2|armrest PIP foam assy level 1|Assy|扶手泡沫PIP总成 level 1
+X74_RS|68|3|3717244|2|armrest PIP foam assy level 1+|Assy|扶手泡沫PIP总成 level 1+
+X74_RS|69|3|3717249|2|armrest PIP foam assy level 2|Assy|扶手泡沫PIP总成 level 2
+X74_RS|70|3|3717252|2|armrest PIP foam assy level 3|Assy|扶手泡沫PIP总成 level 3
+X74_RS|71|3|3717253|2|armrest PIP foam assy level 4|Assy|扶手泡沫PIP总成 level 4
+X74_RS|72|4|3715293|2|armrest level 1 trim cover|Cover|扶手面套 level 1
+X74_RS|73|4|3666544|3|armrest level 1+ trim cover|Cover|扶手面套 level 1+
+X74_RS|74|4|3715294|3|armrest level 2 trim cover|Cover|扶手面套 level 2
+X74_RS|75|4|3715295|3|armrest level 3 trim cover|Cover|扶手面套 level 3
+X74_RS|76|4|3715296|AA|armrest level 4 trim cover|Cover|扶手面套 level 4
+X74_RS|77|4|3482710|2|armrest foam|Foam|扶手发泡
+X74_RS|78|4|3482727|2|armrest frame assy|Assy|扶手骨架总成
+X74_RS|79|5|3482728|1|frame bracket 1|Frame|支架 1
+X74_RS|80|5|3482729|1|frame bracket 2|Frame|支架 2
+X74_RS|81|5|3687516|2|cupholder housing|Plastic|杯托外壳
+X74_RS|82|5|1290798|2|GB845 ST4.2*6.5F Screw|Fastener|螺钉 ST4.2*6.5F
+X74_RS|83|5|3482730|2|axis bracket|Assy|转轴包塑总成
+X74_RS|84|6|3717079|1|axis|Frame|转轴
+X74_RS|85|6|3717080|1|plastic bracket|Plastic|包塑塑料件
+X74_RS|86|3|3666530|1|cupholder assy|Assy|杯托总成
+X74_RS|87|4|2441401|2|Holder|Plastic|保持垫片
+X74_RS|88|4|2417419|4|up drawer|Plastic|抽屉上盖板
+X74_RS|89|4|2417421|3|under drawer|Plastic|抽屉下盖板
+X74_RS|90|4|2417423|3|under shell|Plastic|下壳体
+X74_RS|91|4|2426199|AA|up shell|Plastic|上壳体
+X74_RS|92|4|2417425|3|salver|Plastic|托板
+X74_RS|93|4|2417429|2|left claw|Plastic|左卡爪
+X74_RS|94|4|2417431|2|right claw|Plastic|右卡爪
+X74_RS|95|4|2417432|AA|maze housing|Plastic|迷宫本体
+X74_RS|96|4|2417434|2|cushion|Plastic|缓冲垫片
+X74_RS|97|4|2417437|2|pin|Wire|转轴
+X74_RS|98|4|2417438|2|left claw spring|Spring|左卡爪弹簧
+X74_RS|99|4|2417439|2|right claw spring|Spring|右卡爪弹簧
+X74_RS|100|4|2417440|2|maze pole|Wire|迷宫摆杆
+X74_RS|101|4|2417442|2|salver pin|Wire|托板转轴
+X74_RS|102|4|2417443|2|salver spring|Spring|托板弹簧
+X74_RS|103|4|2417446|2|damper|Rubber|阻尼
+X74_RS|104|4|2417447|2|roll sprig|Spring|卷簧
+X74_RS|105|4|1290798|2|GB845 ST4.2*6.5F|Fastener|螺钉 ST4.2*6.5F
+X74_RS|106|4|2523139|1|left lock pin|Plastic|左锁销
+X74_RS|107|4|2523142|1|right lock pin|Plastic|右锁销
+X74_RS|108|4|3666535|AB|cupholder cover|Plastic|外盖板
+X74_RS|109|4|2523144|1|maze spring|Spring|迷宫弹簧
+X74_RS|110|3|3666540|2|decration cover|Plastic|装饰罩盖
+X74_RS|111|3|1294223|2|GB845 ST4.2*9.5 BLACK|Fastener|螺钉 ST4.2*9.5 黑色
+X74_RS|112|2|3482532|6|RSB 60 foam assy level 1|Assy|60靠背发泡总成 level 1
+X74_RS|113|2|3482533|AB|RSB 60 foam assy level 2|Assy|60靠背发泡总成 level 2
+X74_RS|114|3|3482731|4|RSB 60 foam level 1|Foam|60靠背泡沫 level 1
+X74_RS|115|3|3482752|AB|RSB 60 foam level 2|Foam|60靠背泡沫 level 2
+X74_RS|116|3|3482750|2|back trimming wire 1|Wire|靠背面套钢丝 1
+X74_RS|117|3|3592309|2|back trimming wire 2|Wire|靠背面套钢丝 2
+X74_RS|118|3|3819072|1|straight wire 200mm|Wire|直钢丝 200mm
+X74_RS|119|3|3592310|1|velcro 530mm|Fastener|velcro 530mm
+X74_RS|120|3|3682046|1|60 RSB no-woven fabric|Other|60靠背泡沫无纺布
+X74_RS|121|3|3819077|1|straight wire 300mm|Wire|直钢丝 300mm
+X74_RS|122|3|1749039|1|velcro 50mm|Fastener|velcro 50mm
+X74_RS|123|2|3482534|AB|RSC 60 foam assy level 1|Assy|60坐垫发泡总成 level 1
+X74_RS|124|2|3482535|AB|RSC 60 foam assy level 2|Assy|60坐垫发泡总成 level 2
+X74_RS|125|3|3482758|AB|RSC 60 foam level 1|Foam|60坐垫泡沫 level 1
+X74_RS|126|3|3482761|AB|RSC 60 foam level 2|Foam|60坐垫泡沫 level 2
+X74_RS|127|3|3482759|1|cushion trimming wire 1|Wire|坐垫面套钢丝 1
+X74_RS|128|3|3482760|1|cushion trimming wire 2|Wire|坐垫面套钢丝 2
+X74_RS|129|3|3819076|1|straight wire 280mm|Wire|直钢丝 280mm
+X74_RS|130|3|3942353|1|60 cushion wire U shape|Wire|60%坐垫U型钢丝
+X74_RS|131|3|3592314|1|velcro 380mm|Fastener|velcro 380mm
+X74_RS|132|3|3716319|1|60 RSC no-woven fabric_1|Other|60坐垫泡沫无纺布 1
+X74_RS|133|3|3716327|1|60 RSC no-woven fabric_2|Other|60坐垫泡沫无纺布 2
+X74_RS|134|3|3819067|1|straight wire 100mm|Wire|直钢丝 100mm
+X74_RS|135|2|3757607|1|60 RSB armrest supporting foam assy|Foam|60扶手支撑泡沫总成
+X74_RS|136|3|3811299|1|60 RSB armrest supporting foam pad|Foam|60扶手支撑泡沫
+X74_RS|137|3|3819068|1|straight wire 130mm|Wire|直钢丝 130mm
+X74_RS|138|2|3740026|2|RSB 60 trim level 1|Cover|60靠背面套 level 1
+X74_RS|139|2|4788139|AA|RSB 60 trim level 1 + PVC|Cover|60靠背面套 level 1+ PVC
+X74_RS|140|2|3740040|2|RSB 60 trim level 1 +|Cover|60靠背面套 level 1+
+X74_RS|141|2|3740053|2|RSB 60 trim level 2|Cover|60靠背面套 level 2
+X74_RS|142|2|3740216|2|RSB 60 trim level 3|Cover|60靠背面套 level 3
+X74_RS|143|2|3740118|2|RSB 60 trim level 3+|Cover|60靠背面套 level 3+
+X74_RS|144|2|3740230|2|RSB 60 trim level 4|Cover|60靠背面套 level 4
+X74_RS|145|2|3740031|2|RSC 60 trim level 1|Cover|60坐垫面套 level 1
+X74_RS|146|2|4788141|AA|RSC 60 trim level 1+ PVC|Cover|60坐垫面套 level 1+ PVC
+X74_RS|147|2|3740043|2|RSC 60 trim level 1+|Cover|60坐垫面套 level 1+
+X74_RS|148|2|3740058|2|RSC 60 trim level 2|Cover|60坐垫面套 level 2
+X74_RS|149|2|3740218|2|RSC 60 trim level 3|Cover|60坐垫面套 level 3
+X74_RS|150|2|3740123|2|RSC 60 trim level 3+|Cover|60坐垫面套 level 3+
+X74_RS|151|2|3740233|2|RSC 60 trim level 4|Cover|60坐垫面套 level 4
+X74_RS|152|2|3482541|AA|rear seat 60 back non-woven|Other|60靠背消音无纺布
+X74_RS|153|2|3482549|AA|rear seat 60 cushion non-woven|Other|60坐垫消音无纺布
+X74_RS|154|2|3482552|AB|Armrest back plastic panel-1|Plastic|扶手后护板-1
+X74_RS|155|2|3682203|AC|Armrest back plastic panel-2|Plastic|扶手后护板-2
+X74_RS|156|2|2411013|1|latch left|Function|左侧锁
+X74_RS|157|2|3687526|1|Armrest Bolt M6|Fastener|扶手安装螺栓
+X74_RS|158|2|3486806|1|cushon/backrest link screw M8|Fastener|坐靠连接螺栓M8
+X74_RS|159|2|3482575|5|back frame assy 60%|Frame|60%靠背骨架总成
+X74_RS|160|3|3701997|1|Stepped rivet|Fastener|台阶铆钉
+X74_RS|161|3|3486708|3|external axis|Frame|外侧销子
+X74_RS|162|3|3486666|4|back frame upper assy 60%|Assy|靠背上端骨架总成
+X74_RS|163|4|3486669|2|Back panel without ski trap 60%|Frame|背板 60%
+X74_RS|164|4|3486673|1|toptether wire|Wire|toptether钢丝
+X74_RS|165|4|3740150|1|retractor welding bolt assy|Assy|卷收器被焊螺栓总成
+X74_RS|166|5|3486674|1|Retractor support welded screw|Fastener|卷收器被焊螺栓
+X74_RS|167|5|3702000|2|reinforcement plate|Frame|加强板
+X74_RS|168|4|3486677|1|armrest wire 1|Wire|扶手钢丝 1
+X74_RS|169|4|3486679|1|armrest wire 2|Wire|扶手钢丝 2
+X74_RS|170|4|3486680|1|armrest wire 3|Wire|扶手钢丝 3
+X74_RS|171|4|3486687|5|back frame weld bracket assy 60%|Assy|靠背骨架焊接支架总成60%
+X74_RS|172|5|3486702|1|Internal gusset 60% with bush|Assy|内侧支架总成60%
+X74_RS|173|6|3486704|3|Internal gusset 60%|Frame|内侧支架60%
+X74_RS|174|6|3486700|2|bush|Frame|轴套
+X74_RS|175|5|3486709|1|external gusset 60% with bush|Assy|外侧支架总成60%
+X74_RS|176|6|3486700|2|bush|Frame|轴套
+X74_RS|177|6|3486711|3|external gusset 60%|Frame|外侧支架60%
+X74_RS|178|5|3486720|5|armrest weld assy|Assy|扶手支架焊接总成
+X74_RS|179|6|3486721|1|armrest reinforcement bracket|Frame|扶手加强支架
+X74_RS|180|6|3486722|1|armrest tube|Frame|扶手圆管
+X74_RS|181|6|3486723|1|armrest bracket support with bush|Assy|扶手支撑支架总成
+X74_RS|182|6|3948442|1|armrest wire 4|Wire|扶手钢丝 4
+X74_RS|183|7|3486724|2|armrest bush|Frame|扶手轴套
+X74_RS|184|7|3486725|2|armrest bracket support|Frame|扶手支撑支架
+X74_RS|185|5|3486727|3|backrest tube 60%|Frame|靠背圆管60%
+X74_RS|186|5|3486728|3|headrest sleeve left 1|Frame|头枕金属管-左
+X74_RS|187|5|3486729|3|headrest sleeve right 1|Frame|头枕金属管-右
+X74_RS|188|5|3486730|3|latch support 60%|Frame|锁支架60%
+X74_RS|189|5|3486731|2|belt outlet support|Frame|安全带出口支架
+X74_RS|190|3|3486715|4|isofix weld assy 60%|Assy|isofix焊接总成60%
+X74_RS|191|4|3486699|1|central floor bracket 60% with bush|Assy|中间脚板支架总成60%
+X74_RS|192|5|3486700|2|bush|Frame|轴套
+X74_RS|193|5|3486701|4|central floor bracket 60%|Frame|中间脚板支架60%
+X74_RS|194|4|3486713|1|external floor bracket 60% with bush|Assy|外侧脚板支架总成60%
+X74_RS|195|5|3486714|5|external floor bracket 60%|Frame|外侧脚板支架60%
+X74_RS|196|5|3486700|2|bush|Frame|轴套
+X74_RS|197|4|3486716|2|tube isofix 60%|Frame|isofix焊接圆管60%
+X74_RS|198|4|3486719|5|isofix wire 60%|Wire|isofix钢丝 60%
+X74_RS|199|2|3486732|2|cushion frame assy 60%|Frame|60%坐垫骨架总成
+X74_RS|200|3|3486733|5|cushion upper frame 60%|Frame|坐垫上端骨架总成60%
+X74_RS|201|4|3486734|1|cushion backrest link bracket-right|Frame|坐垫靠背连接支架—右
+X74_RS|202|4|3486735|2|cushion backrest link bracket-left|Frame|坐垫靠背连接支架—左
+X74_RS|203|4|3486736|2|rear cushion tube 60%|Frame|坐垫后端圆管60%
+X74_RS|204|4|3486738|2|tube_front cushion 60%|Frame|坐垫前端圆管60%
+X74_RS|205|4|3486739|2|cushion tube 60%|Frame|坐垫圆管
+X74_RS|206|4|3486748|2|cushion reinforcer wire|Frame|坐垫加强钢丝
+X74_RS|207|4|3486751|1|front rivet assy|Assy|前铆接总成
+X74_RS|208|5|3486752|1|bracket tube link|Frame|连接支架管
+X74_RS|209|5|3486753|1|front link with bush|Assy|前端连接板总成
+X74_RS|210|6|3486754|1|front link|Frame|前端连接板
+X74_RS|211|6|3486700|2|bush|Frame|轴套
+X74_RS|212|5|3486755|2|cushion floor bracket|Frame|坐垫脚板支架
+X74_RS|213|5|3486697|1|stepped rivet|Fastener|台阶铆钉
+X74_RS|214|4|3486756|1|front link tube 60%|Frame|前连接管
+X74_RS|215|3|3486741|1|cushion central wire Ø4|Wire|坐垫中间钢丝
+X74_RS|216|3|3486742|1|external trimming wire long Ø4 60%|Wire|外侧面套钢丝
+X74_RS|217|3|3486743|1|central trimming wire Ø5 60%|Wire|中间面套钢丝
+X74_RS|218|3|3486744|1|front internal trimming wire 60%|Wire|前端内侧面套钢丝
+X74_RS|219|3|3486745|1|front external trimming wire long Ø4 60%|Wire|前端外侧面套钢丝
+X74_RS|220|3|3486747|1|internal trimming wire Ø4|Wire|内侧面套钢丝
+X74_RS|221|3|3486749|1|cushion wire Rear|Wire|坐垫后端钢丝
+X74_RS|222|2|3187533|2|Screw ST 4.8×13|Fastener|螺钉ST 4.8×13
+X74_RS|223|2|2004770|3|self tapping M8*30|Fastener|螺栓M8*30
+X74_RS|224|2|3482464|2|Spring screw withy flange|Fastener|弹簧固定法兰螺栓
+X74_RS|225|2|3482540|AA|rear seat shipping bag 60 back|Package bag|60靠背包装袋
+X74_RS|226|2|3714148|AA|rear seat shipping bag 60 cushion|Package bag|60坐垫包装袋
+X74_RS|227|2|3592317|2|bumper|Plastic|缓冲垫
+X74_RS|228|2|3482582|3|Spring with rubber 60%|Assy|60侧回复弹簧带橡胶
+X74_RS|229|3|3482583|1|spring 60%|Spring|60回复弹簧
+X74_RS|230|3|3482581|1|rubber|Rubber|橡胶垫
+X74_RS|231|2|4067870|AA|felt （85*85mm）|Other|毛毡布（85*85mm）
+X74_RS|232|1|3481984|2|40 assy level 1|Assy|40总成level 1
+X74_RS|233|1|4804251|AA|40 assy level 1+ PVC|Assy|40总成level 1+ PVC
+X74_RS|234|1|3592325|2|40 assy level 1+|Assy|40总成level 1+
+X74_RS|235|1|3482045|2|40 assy level 2|Assy|40总成level 2
+X74_RS|236|1|3482056|2|40 assy level 3|Assy|40总成level 3
+X74_RS|237|1|3753297|2|40 assy level 3+|Assy|40总成level 3+
+X74_RS|238|1|3714146|2|40 assy level 4|Assy|40总成level 4
+X74_RS|239|2|3482477|2|Bezel Locking|Assy|头枕塑料导套（锁止端）
+X74_RS|240|3|3666520|2|push button for locking bezel|Plastic|头枕导套解锁按钮
+X74_RS|241|3|3666515|2|bezel plug body|Plastic|头枕导套本体（锁止端）
+X74_RS|242|3|3666521|1|spring locking bezel|Spring|头枕导套回复弹簧
+X74_RS|243|3|3668021|1|bezel wire|Wire|头枕导套钢丝
+X74_RS|244|2|3482479|2|Bezel Unlocking|Assy|头枕塑料导套（非锁止端）
+X74_RS|245|3|3668022|1|bezel plug body unlocking|Plastic|头枕导套本体（非锁止端）
+X74_RS|246|3|3668021|1|bezel wire|Wire|头枕导套钢丝
+X74_RS|247|2|N0152612|1|Hog Ring|Fastener|C型钉
+X74_RS|248|2|3482489|1|Rear seat back carpet 40 (50 Shores) material：felt|Cover|40靠背地毯布
+X74_RS|249|2|3482492|1|lateral suspension|Assy|坐垫悬浮垫
+X74_RS|250|2|3482494|2|cover latch release|Plastic|锁罩盖
+X74_RS|251|2|3482498|1|Protective Clip for rear backframe|Plastic|40% & 60% 靠背骨架保护卡子
+X74_RS|252|2|3482503|AB|Headrest Outer level 1 RH|Assy|右外侧头枕 level 1
+X74_RS|253|2|4804253|AA|Headrest Outer level 1+ RH PVC|Assy|右外侧头枕 level 1+ PVC
+X74_RS|254|2|3592326|AA|Headrest Outer level 1+ RH|Assy|右外侧头枕 level 1+
+X74_RS|255|2|3482509|AA|Headrest Outer level 2 RH|Assy|右外侧头枕 level 2
+X74_RS|256|2|3482513|AA|Headrest Outer level 3 RH|Assy|右外侧头枕 level 3
+X74_RS|257|2|3753299|7|Headrest Outer level 3+ RH|Assy|右外侧头枕 level 3+
+X74_RS|258|2|3482517|AA|Headrest Outer level 4 RH|Assy|右外侧头枕 level 4
+X74_RS|259|3|3482614|AA|headrest rod outer|Frame|两侧头枕杆
+X74_RS|260|3|3668020|3|headrest foam RH|Foam|右侧头枕发泡
+X74_RS|261|3|3666583|5|headrest trim cover  level 1 RH|Cover|右侧头枕面套 level 1
+X74_RS|262|3|4804254|AA|headrest trim cover  level 1+ RH PVC|Cover|右侧头枕面套 level 1+ PVC
+X74_RS|263|3|3715282|AA|headrest trim cover  level 1+ RH|Cover|右侧头枕面套 level 1+
+X74_RS|264|3|3715285|5|headrest trim cover  level 2 RH|Cover|右侧头枕面套 level 2
+X74_RS|265|3|3715286|5|headrest trim cover  level 3 RH|Cover|右侧头枕面套 level 3
+X74_RS|266|3|3753302|5|headrest trim cover  level 3+ RH|Cover|右侧头枕面套 level 3+
+X74_RS|267|3|3715288|AA|headrest trim cover  level 4 RH|Cover|右侧头枕面套 level 4
+X74_RS|268|2|3482536|5|RSB 40 foam assy level 1|Assy|40靠背发泡总成 level 1
+X74_RS|269|2|3482537|AB|RSB 40 foam assy level 2|Assy|40靠背发泡总成 level 2
+X74_RS|270|3|3482762|4|RSB 40 foam level 1|Foam|40靠背泡沫 level 1
+X74_RS|271|3|3482763|AB|RSB 40 foam level 2|Foam|40靠背泡沫 level 2
+X74_RS|272|3|3482750|2|back trimming wire 1|Wire|靠背面套钢丝 1
+X74_RS|273|3|3592309|2|back trimming wire 2|Wire|靠背面套钢丝 2
+X74_RS|274|3|3592310|1|velcro 530mm|Fastener|velcro 530mm
+X74_RS|275|3|1749039|1|velcro 50mm|Fastener|velcro 50mm
+X74_RS|276|2|3482538|AB|RSC 40 foam assy level 1|Assy|40坐垫发泡总成 level 1
+X74_RS|277|2|3482539|AB|RSC 40 foam assy level 2|Assy|40坐垫发泡总成 level 2
+X74_RS|278|3|3482765|AB|RSC 40 foam level 1|Foam|40坐垫泡沫 level 1
+X74_RS|279|3|3482770|AB|RSC 40 foam level 2|Foam|40坐垫泡沫 level 2
+X74_RS|280|3|3482759|1|cushion trimming wire 1|Wire|坐垫面套钢丝 1
+X74_RS|281|3|3482760|1|cushion trimming wire 2|Wire|坐垫面套钢丝 2
+X74_RS|282|3|3819076|1|straight wire 280mm|Wire|直钢丝 280mm
+X74_RS|283|3|3592314|1|velcro 380mm|Fastener|velcro 380mm
+X74_RS|284|3|3716338|1|40 RSC no-woven fabric_1|Other|40坐垫泡沫无纺布 1
+X74_RS|285|3|3716344|1|40 RSC no-woven fabric_2|Other|40坐垫泡沫无纺布 2
+X74_RS|286|3|3819067|1|straight wire 100mm|Wire|直钢丝100mm
+X74_RS|287|3|3942351|1|40 cushion wire U shape|Wire|40%坐垫U型钢丝
+X74_RS|288|2|3740024|2|RSB 40 trim level 1|Cover|40靠背面套 level 1
+X74_RS|289|2|4788138|AA|RSB 40 trim level 1+ PVC|Cover|40靠背面套 level 1+ PVC
+X74_RS|290|2|3740039|2|RSB 40 trim level 1+|Cover|40靠背面套 level 1+
+X74_RS|291|2|3740052|2|RSB 40 trim level 2|Cover|40靠背面套 level 2
+X74_RS|292|2|3740215|2|RSB 40 trim level 3|Cover|40靠背面套 level 3
+X74_RS|293|2|3740117|2|RSB 40 trim level 3+|Cover|40靠背面套 level 3
+X74_RS|294|2|3740227|2|RSB 40 trim level 4|Cover|40靠背面套 level 4
+X74_RS|295|2|3740027|2|RSC 40 trim level 1|Cover|40坐垫面套 level 1
+X74_RS|296|2|4788140|AA|RSC 40 trim level 1+ PVC|Cover|40坐垫面套 level 1+ PVC
+X74_RS|297|2|3740041|2|RSC 40 trim level 1+|Cover|40坐垫面套 level 1+
+X74_RS|298|2|3740056|2|RSC 40 trim level 2|Cover|40坐垫面套 level 2
+X74_RS|299|2|3740217|2|RSC 40 trim level 3|Cover|40坐垫面套 level 3
+X74_RS|300|2|3740121|2|RSC 40 trim level 3+|Cover|40坐垫面套 level 3+
+X74_RS|301|2|3740231|2|RSC 40 trim level 4|Cover|40坐垫面套 level 4
+X74_RS|302|2|3482550|AA|rear seat 40 back non-woven|Other|40靠背消音无纺布
+X74_RS|303|2|3482551|AA|rear seat 40 cushion non-woven|Other|40坐垫消音无纺布
+X74_RS|304|2|2411014|1|Latch right|Function|右侧锁
+X74_RS|305|2|3486806|2|cushon/backrest link screw M8|Fastener|坐靠连接螺栓M8
+X74_RS|306|2|3486757|5|back frame assy 40%|Frame|40靠背骨架总成
+X74_RS|307|3|3701997|1|Stepped rivet|Fastener|台阶铆钉
+X74_RS|308|3|3486708|3|External Axis|Frame|外侧销子
+X74_RS|309|3|3486759|2|back frame weld assy with panel|Assy|靠背骨架焊接总成
+X74_RS|310|4|3486761|3|back panel 40%|Frame|靠背背板40%
+X74_RS|311|4|3486673|1|top tether wire Ø6|Wire|toptether钢丝
+X74_RS|312|4|3486764|3|back frame welding bracket assy 40%|Assy|靠背骨架焊接支架总成40%
+X74_RS|313|5|3486767|3|backrest tube 40%|Frame|靠背圆管40%
+X74_RS|314|5|3486729|3|headrest sleeve right|Frame|头枕金属管-右
+X74_RS|315|5|3486728|3|headrest sleeve left|Frame|头枕金属管-左
+X74_RS|316|5|3486769|2|latch support 40%|Frame|锁支架50%
+X74_RS|317|5|3486774|1|Internal gusset 40% with bush|Assy|内侧支架总成40%
+X74_RS|318|6|3486775|3|Internal gusset 40%|Frame|内侧支架40%
+X74_RS|319|6|3486700|2|bush|Frame|轴套
+X74_RS|320|5|3486779|1|External gusset 40% with bush|Assy|外侧支架总成40%
+X74_RS|321|6|3486780|3|External gusset 40%|Frame|外侧支架40%
+X74_RS|322|6|3486700|2|bush|Frame|轴套
+X74_RS|323|3|3486785|5|isofix weld assy 40%|Frame|isofix焊接总成40%
+X74_RS|324|4|3486786|2|Tube _ ISOFIX 40%|Frame|isofix焊接圆管40%
+X74_RS|325|4|3486787|5|ISOFIX wire 40%|Wire|isofix钢丝 40%
+X74_RS|326|4|3486781|1|External floor bracket 40% with bush|Assy|外侧脚板支架总成40%
+X74_RS|327|5|3486782|5|External floor bracket 40%|Frame|外侧脚板支架40%
+X74_RS|328|5|3486700|2|bush|Frame|轴套
+X74_RS|329|3|3759893|1|central floor bracket nut weld assy 40%|Frame|中间脚板支架焊接螺母总成40%
+X74_RS|330|4|3486776|1|Central floor bracket 40% with bush|Assy|中间脚板支架总成40%
+X74_RS|331|5|3486777|4|Central floor bracket 40%|Frame|中间脚板支架40%
+X74_RS|332|5|3486700|2|bush|Frame|轴套
+X74_RS|333|4|2781576|B|M6 nut|Fastener|M6螺母
+X74_RS|334|2|3486788|2|cushion frame assy 40%|Frame|40坐垫骨架总成
+X74_RS|335|3|3486792|6|cushion upper frame 40%|Assy|坐垫上端骨架总成40%
+X74_RS|336|4|3486751|1|front rivet assy|Assy|前端铆接总成
+X74_RS|337|5|3486752|1|Bracket tube link|Frame|靠背连接管
+X74_RS|338|5|3486753|1|front link with bush|Assy|前端连接支架总成
+X74_RS|339|6|3486754|1|front link|Frame|前端连接支架
+X74_RS|340|6|3486700|2|bush|Frame|轴套
+X74_RS|341|5|3486755|2|Cushion floor bracket|Frame|坐垫脚板支架
+X74_RS|342|5|3486697|1|Stepped rivet|Fastener|台阶铆钉
+X74_RS|343|4|3486790|1|Front link tube 40%|Frame|前端连接圆管40%
+X74_RS|344|4|3486734|1|Cushion backrest link bracket-Right|Frame|坐靠连接支架-右
+X74_RS|345|4|3486735|2|Cushion backrest link bracket-Left|Frame|坐靠连接支架-坐
+X74_RS|346|4|3486796|2|Tube _ Front cushion 40%|Frame|坐垫前端圆管40%
+X74_RS|347|4|3486797|1|Rear cushion tube 40%|Frame|坐垫后端圆管40%
+X74_RS|348|4|3486798|2|Cushion tube 40%|Frame|坐垫圆管40%
+X74_RS|349|3|3486747|1|Internal trimming wire Ø4|Wire|内侧面套钢丝
+X74_RS|350|3|3486799|1|Internal trimming wire _ 40%|Wire|内侧面套钢丝40%
+X74_RS|351|3|3486800|2|Front_Internal trimming wire _ 40%|Wire|前端内侧面套钢丝40%
+X74_RS|352|3|3486801|1|Central trimming wire _ 40%|Wire|中间面套钢丝40%
+X74_RS|353|3|3486802|1|Front_external trimming wire _ 40%|Wire|前端外侧面套钢丝40%
+X74_RS|354|3|3486804|1|External trimming wire long _ 40%|Wire|外侧面套长钢丝 40%
+X74_RS|355|2|2004770|3|self tapping M8*30|Fastener|螺栓M8*30
+X74_RS|356|2|3592317|2|bumper|Plastic|缓冲垫
+X74_RS|357|2|3482460|3|Spring with rubber 40%|Assy|40侧回复弹簧带橡胶
+X74_RS|358|3|3482580|1|spring 40%|Spring|40回复弹簧
+X74_RS|359|3|3482581|1|rubber|Rubber|橡胶垫
+X74_RS|360|2|3482464|2|Spring screw withy flange|Fastener|弹簧固定法兰螺栓
+X74_RS|361|2|3592318|AA|rear seat shipping bag 40 back|Package bag|40靠背包装袋
+X74_RS|362|2|3714147|AA|rear seat shipping bag 40 cushion|Package bag|40坐垫包装袋
+X74_RS|363|2|4067870|AA|felt （85*85mm）|Other|毛毡布（120*110mm） 毛毡布（85*85mm）
+X74_RS|364|1|3481985|AB|Central bracket cover|Plastic|中间支架罩盖
+X74_RS|365|1|3592319|1|Bolt|Fastener|40和60靠背连接螺栓
+X74_RS|366|1|3187533|2|Screw ST 4.8×13|Fastener|螺钉 ST4.8×13
+X74_RS|367|0|3481961|AA|Foot cover|Plastic|脚盖板
+X74_RS|368|0|3482496|AB|Lateral bracket cover 40|Plastic|40外侧罩盖
+X74_RS|369|0|3482497|AB|Lateral bracket cover 60|Plastic|60外侧罩盖
+X74_RS|370|0|3481997|1|bolster assy level 2 LH|Assy|左侧侧翼总成 level 2
+X74_RS|371|0|3482023|1|bolster assy level 3 LH|Assy|左侧侧翼总成 level 3
+X74_RS|372|0|3482034|1|bolster assy level 4 LH|Assy|左侧侧翼总成 level 4
+X74_RS|373|0|3482001|1|bolster assy level 2 RH|Assy|右侧侧翼总成 level 2
+X74_RS|374|0|3482031|1|bolster assy level 3 RH|Assy|右侧侧翼总成 level 3
+X74_RS|375|0|3482038|1|bolster assy level 4 RH|Assy|右侧侧翼总成 level 4
+X74_RS|376|1|3482499|1|bolster foam pad LH|Foam|左侧bolster泡沫
+X74_RS|377|1|3482501|1|bolster foam pad RH|Foam|右侧bolster泡沫
+X74_RS|378|1|3482500|1|Side bolster frame assy  LH|Assy|左侧bolster骨架总成
+X74_RS|379|1|3482502|1|Side bolster frame assy  RH|Assy|右侧bolster骨架总成
+X74_RS|380|2|3482591|1|supporting wire 1 LH|Wire|支撑钢丝 1 LH
+X74_RS|381|2|3482607|1|supporting wire 1 RH|Wire|支撑钢丝 1 RH
+X74_RS|382|2|3482598|1|supporting wire 2 LH|Wire|支撑钢丝 2 LH
+X74_RS|383|2|3482611|1|supporting wire 2 RH|Wire|支撑钢丝 2 RH
+X74_RS|384|2|3482601|2|shaft|Frame|安装轴
+X74_RS|385|2|3482603|1|bush|Frame|安装轴套
+X74_RS|386|2|3741313|1|Pin wire|Wire|定位钢丝
+X74_RS|387|1|3740214|1|bolster trim cover LH level 2|Cover|左侧bolster面套总成 level 2
+X74_RS|388|1|3740241|1|bolster trim cover RH level 2|Cover|右侧bolster面套总成 level 2
+X74_RS|389|1|3740225|1|bolster trim cover LH level 3|Cover|左侧bolster面套总成 level 3
+X74_RS|390|1|3740244|1|bolster trim cover RH level 3|Cover|右侧bolster面套总成 level 3
+X74_RS|391|1|3740238|AB|bolster trim cover LH level 4|Cover|左侧bolster面套总成 level 4
+X74_RS|392|1|3740249|AB|bolster trim cover RH level 4|Cover|右侧bolster面套总成 level 4
+XiaoPeng_F1|1|0|6800002-1800|03|NA|Plastic|前端脚护罩
+XiaoPeng_F1|2|0|6800000-1800|03|NA|Assy|驾驶员座总成低配
+XiaoPeng_F1|3|0|4951031|AA|NA|Assy|主驾驶座椅总成低配（仿皮）
+XiaoPeng_F1|4|0|6800000-1810|02|NA|Assy|驾驶员座总成中配（米色）
+XiaoPeng_F1|5|0|6800000-1811|02|NA|Assy|驾驶员座总成中配（黑色）
+XiaoPeng_F1|6|0|4933700|AB|NA||驾驶员座椅总成中配（米色）
+XiaoPeng_F1|7|0|4933702|AB|NA||驾驶员座椅总成中配（黑色）
+XiaoPeng_F1|8|0|6800000-1820|02|NA|Assy|驾驶员座总成高配（米色）
+XiaoPeng_F1|9|0|6800000-1821|02|NA|Assy|驾驶员座总成高配（黑色）
+XiaoPeng_F1|10|0|4933706|AB|||驾驶员座椅总成高配（米色）
+XiaoPeng_F1|11|0|4933708|AB|||驾驶员座椅总成高配（黑色）
+XiaoPeng_F1|12|1|6805000-1800|01|NA|Assy|主驾驶靠背总成低配（PU+PVC）
+XiaoPeng_F1|13|1|4951035|AA|NA|Cover|主驾驶靠背总成低配（仿皮+PVC）
+XiaoPeng_F1|14|1|6805000-1810|01|NA|Assy|主驾驶靠背总成中配（真皮）（浅米色）
+XiaoPeng_F1|15|1|6805000-1810|01|NA|Assy|主驾驶靠背总成中配（真皮）（黑色）
+XiaoPeng_F1|16|1|4933709|AB|NA||主驾驶靠背总成中配（真皮）（浅米色）
+XiaoPeng_F1|17|1|4933710|AB|NA||主驾驶靠背总成中配（真皮）（黑色）
+XiaoPeng_F1|18|1|6805000-1820|01|NA|Assy|主驾驶靠背总成高配（NANNP）（浅米色）
+XiaoPeng_F1|19|1|6805000-1820|01|NA|Assy|主驾驶靠背总成高配（NANNP）（黑色）
+XiaoPeng_F1|20|1|4933711|AB|NA||主驾驶靠背总成高配（NANNP）（浅米色）
+XiaoPeng_F1|21|1|4933714|AB|NA||主驾驶靠背总成高配（NANNP）（黑色）
+XiaoPeng_F1|22|1|6805100-1800|01|NA|Cover|6W电动主驾靠背面套总成-低配
+XiaoPeng_F1|23|2|4951036|AA|NA|Cover|主驾驶靠背面套总成（仿皮+PVC）
+XiaoPeng_F1|24|1|6805100-1810|01|NA|Cover|6W电动主驾靠背面套总成（中配真皮）
+XiaoPeng_F1|25|1|6805100-1810|01|NA|Cover|6W电动主驾靠背面套总成（中配真皮）
+XiaoPeng_F1|26|2|4951037|AA|NA|Cover|主驾驶靠背面套总成（真皮）
+XiaoPeng_F1|27|2|4951040|AA|NA|Cover|主驾驶靠背面套总成（真皮）
+XiaoPeng_F1|28|1|6805100-1820|01|NA|Cover|6W电动主驾靠背面套总成（高配Nappa）
+XiaoPeng_F1|29|1|6805100-1820|01|NA|Cover|6W电动主驾靠背面套总成（高配Nappa）
+XiaoPeng_F1|30|2|4951042|AA|NA|Cover|主驾驶靠背面套总成（NAPPA）
+XiaoPeng_F1|31|2|4951043|AA|NA|Cover|主驾驶靠背面套总成（NAPPA）
+XiaoPeng_F1|32|1|6805200-1800|04|NA|Foam|6W电动主驾靠背泡沫总成（低配）
+XiaoPeng_F1|33|1|6805200-1810|04|NA|Foam|6W电动主驾靠背泡沫总成（中高配）
+XiaoPeng_F1|34|2|6805201-1800|03|NA|Foam|6W电动主驾靠背泡沫（低配）
+XiaoPeng_F1|35|2|6805201-1810|03|NA|Foam|6W电动主驾靠背泡沫（中高配）
+XiaoPeng_F1|36|2|6805202-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝1
+XiaoPeng_F1|37|2|6805203-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝2
+XiaoPeng_F1|38|2|6805204-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝3
+XiaoPeng_F1|39|2|6805205-1800|01|NA|Cover|6W电动主驾靠背泡沫气囊布
+XiaoPeng_F1|40|2|6805206-1800|01|NA|Cover|6W电动主驾靠背泡沫支撑布
+XiaoPeng_F1|41|2|A200200|01|NA|Wire|直钢丝200mm
+XiaoPeng_F1|42|2|4071229|01|NA|Other|刺毛带50mm
+XiaoPeng_F1|43|2|4076254|01|NA|Other|刺毛带180mm
+XiaoPeng_F1|44|2|4081560|01|NA|Other|刺毛带200mm
+XiaoPeng_F1|45|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_F1|46|1|6805300-1800|04|NA|Frame|6W电动主驾靠背骨架总成（带记忆）
+XiaoPeng_F1|47|2|2514001|01|NA|Function|电动调角器花键驱动轴
+XiaoPeng_F1|48|2|2774902|01|NA|Function|靠背驱动电机组件(MEM)
+XiaoPeng_F1|49|2|2486418|01|NA|Fastener|电动调角器驱动轴卡圈
+XiaoPeng_F1|50|2|3397729|01|NA|Fastener|电机装配螺钉
+XiaoPeng_F1|51|2|6805310-1800|07|NA|Frame|电动主驾靠背骨架焊接总成
+XiaoPeng_F1|52|3|6805311-1800|01|NA|Frame|靠背上弯管
+XiaoPeng_F1|53|3|6805312-1800|01|NA|Frame|头枕杆
+XiaoPeng_F1|55|3|6805313-1800|01|NA|Frame|背板下支撑钢丝
+XiaoPeng_F1|56|3|6805314-1800|01|NA|Frame|靠背中间面套拉型钢丝
+XiaoPeng_F1|57|3|6805315-1800|01|NA|Frame|面套拉型钢丝
+XiaoPeng_F1|58|3|6805316-1800|01|NA|Frame|侧翼支撑钢丝-LH
+XiaoPeng_F1|59|3|6805317-1800|01|NA|Frame|侧翼支撑钢丝-RH
+XiaoPeng_F1|60|3|6805318-1800|01|NA|Frame|头枕钢丝
+XiaoPeng_F1|61|3|6805319-1800|01|NA|Frame|主驾气囊安装支架
+XiaoPeng_F1|62|3|6805342-1800|01|NA|Frame|侧翼支撑钢丝
+XiaoPeng_F1|63|3|6805345-1800|03|NA|Frame|旁侧板支撑钢丝（左）
+XiaoPeng_F1|64|3|6805346-1800|03|NA|Frame|旁侧板支撑钢丝（右）
+XiaoPeng_F1|65|3|3179545|AA|NA|Frame|靠背下横板
+XiaoPeng_F1|66|3|6805361-1800|02|NA|Frame|背板下安装支架
+XiaoPeng_F1|67|3|6805340-1800|04|NA|Frame|电动外侧靠背边板总成-LH
+XiaoPeng_F1|68|4|4157913|AA|NA|Frame|电动外侧靠背边板分总成-LH
+XiaoPeng_F1|69|5|4157680|AA|NA|Frame|电动外侧靠背边板-LH
+XiaoPeng_F1|70|5|4134038|AA|NA|Frame|螺旋弹簧上挂钩
+XiaoPeng_F1|71|4|6805343-1800|03|NA|Frame|电动外侧调角器组件-LH
+XiaoPeng_F1|72|5|2774897|01|NA|Function|调角器核心件（T3000）
+XiaoPeng_F1|73|5|6805344-1800|03|NA|Frame|电动调角器外侧连接板-LH
+XiaoPeng_F1|74|3|6805350-1800|04|NA|Frame|电动内侧靠背边板总成-LH
+XiaoPeng_F1|75|4|4157917|AA|NA|Frame|电动内侧靠背边板组件-LH
+XiaoPeng_F1|76|5|4157681|AA|NA|Frame|电动内侧靠背边板-LH
+XiaoPeng_F1|77|5|4134038|AA|NA|Frame|螺旋弹簧上挂钩
+XiaoPeng_F1|78|4|6805334-1800|03|NA|Frame|电动内侧调角器组件-LH
+XiaoPeng_F1|79|5|2774897|01|NA|Function|调角器核心件（T3000）
+XiaoPeng_F1|80|5|6805335-1800|03|NA|Frame|电动调角器内侧连接板
+XiaoPeng_F1|81|1|6805002-1800|02|NA|Other|靠背防噪音无纺布
+XiaoPeng_F1|82|1|2776532|AA|NA|Fastener|曲簧安装卡扣
+XiaoPeng_F1|83|1|6804520-614|03|NA|Spring|靠背曲簧组件
+XiaoPeng_F1|84|1|6805501-1800|02|NA|Foam|前排头枕EPP
+XiaoPeng_F1|85|1|6805322-1800|02|NA|SAB|正驾安全气囊总成
+XiaoPeng_F1|86|1|1693808|01|NA|Fastener|M6 - 8 NUT FLANGE, PREVAILING TORQUE ISO 2320(气囊总成安装螺母)
+XiaoPeng_F1|87|1|6805309-1810|03|NA|Power|4向腰托
+XiaoPeng_F1|88|1|6805326-1810|02|NA|Power|前排座椅靠背通风袋（中高配）
+XiaoPeng_F1|89|1|6805327-1810|03|NA|Power|前排坐椅靠背风扇总成（中高配）
+XiaoPeng_F1|90|1|4826835|AA|NA|Cable|线束总成主驾(靠背)低配
+XiaoPeng_F1|91|2|4885503|AA|NA|Cable|线束总成主驾(靠背)中配
+XiaoPeng_F1|92|1|4885490|AA|NA|Cable|线束总成主驾(靠背)高配
+XiaoPeng_F1|93|1|6800010-1800|07|NA|Plastic|背板组件
+XiaoPeng_F1|94|2|6800011-1800|03|NA|Plastic|背板
+XiaoPeng_F1|95|2|6800012-1800|02|NA|Plastic|地图袋组件
+XiaoPeng_F1|96|3|6800015-1800|01|NA|Package bag|地图袋蒙皮
+XiaoPeng_F1|97|3|6800016-1800|05|NA|Plastic|地图袋骨架
+XiaoPeng_F1|98|3|6800017-1800|02|NA|Plastic|地图袋压条
+XiaoPeng_F1|99|3|6800018-1800|02|NA|Other|拉带总成
+XiaoPeng_F1|100|5|6800027-1800|01|NA|Other|松紧带
+XiaoPeng_F1|101|5|6800028-1800|01|NA|Other|拉带（涤纶）
+XiaoPeng_F1|102|3|6800019-1800|01|NA|Other|地图袋蒙皮粘粘胶水
+XiaoPeng_F1|103|3|6800020-1800|02|NA|Cover|遮羞帘
+XiaoPeng_F1|104|4|6800021-1800|01|NA|Plastic|20mm J型条
+XiaoPeng_F1|105|4|6800022-1800|02|NA|Cover|484mm*100mm塑料板
+XiaoPeng_F1|106|4|6800023-1800|02|NA|Plastic|480mmJ型条
+XiaoPeng_F1|107|4|6800024-1800|01|NA|Cover|黑色PVC
+XiaoPeng_F1|108|4|6800025-1800|02|NA|Other|150mm松紧带
+XiaoPeng_F1|109|4|6800026-1800|01|NA|Other|20#缝纫线
+XiaoPeng_F1|110|1|2410680|01|NA|Fastener|ST4.8*13自攻钉 安装螺钉（记忆盒和背板）
+XiaoPeng_F1|111|1|4826178|AA|NA|Package bag|毛毡布20*10
+XiaoPeng_F1|112|1|4951949|AA|NA|Cover|毛毡布40*18*1mm
+XiaoPeng_F1|113|1|6803000-1800|01|NA|Assy|主驾驶坐垫总成低配（PU+PVC）
+XiaoPeng_F1|114|1|4951044|AA|NA|Assy|主驾驶坐垫总成低配（仿皮+PVC）
+XiaoPeng_F1|115|1|6803000-1810|01|NA|Assy|主驾驶坐垫总成中配（真皮）（浅米色）
+XiaoPeng_F1|116|1|6803000-1810|01|NA|Assy|主驾驶坐垫总成中配（真皮）（黑色）
+XiaoPeng_F1|117|1|4933715|AB|NA||主驾驶坐垫总成中配（真皮）（浅米色）
+XiaoPeng_F1|118|1|4933716|AB|NA||主驾驶坐垫总成中配（真皮）（黑色）
+XiaoPeng_F1|119|1|6803000-1820|01|NA|Assy|主驾驶坐垫总成高配（NANNP）（浅米色）
+XiaoPeng_F1|120|1|6803000-1820|01|NA|Assy|主驾驶坐垫总成高配（NANNP）（黑色）
+XiaoPeng_F1|121|1|4933717|AB|NA||主驾驶坐垫总成高配（NANNP）（浅米色）
+XiaoPeng_F1|122|1|4933719|AB|NA||主驾驶坐垫总成高配（NANNP）（黑色）
+XiaoPeng_F1|123|1|6803100-1800|01|NA|Cover|坐垫面套总成左（低配）仿皮
+XiaoPeng_F1|124|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F1|125|2|4951045|AA|NA|Assy|主驾驶坐垫面套总成（仿皮+PVC）
+XiaoPeng_F1|126|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F1|127|1|6803100-1810|01|NA|Cover|坐垫面套总成左（中配真皮）
+XiaoPeng_F1|128|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F1|129|1|6803100-1810|01|NA|Cover|坐垫面套总成左（中配真皮）
+XiaoPeng_F1|130|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F1|131|2|4951047|AA|NA|Cover|主驾驶坐垫面套总成（真皮）
+XiaoPeng_F1|132|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F1|133|2|4951048|AA|NA|Cover|主驾驶坐垫面套总成（真皮）
+XiaoPeng_F1|134|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F1|135|1|6803100-1820|01|NA|Cover|坐垫面套总成左（高配NAPPA皮）
+XiaoPeng_F1|136|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F1|137|1|6803100-1820|01|NA|Cover|坐垫面套总成左（高配NAPPA皮）
+XiaoPeng_F1|138|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F1|139|2|4951049|AA|NA|Cover|主驾驶坐垫面套总成（NAPPA）
+XiaoPeng_F1|140|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F1|141|2|4951050|AA|NA|Cover|主驾驶坐垫面套总成（NAPPA）
+XiaoPeng_F1|142|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F1|143|1|4885456|AA|NA|Power|加热垫总成
+XiaoPeng_F1|144|1|6803200-1800|04|NA|Foam|前排主驾坐垫泡沫总成（低配）
+XiaoPeng_F1|145|1|6803200-1810|04|NA|Foam|前排主驾坐垫泡沫总成（中高配带通风加热）
+XiaoPeng_F1|146|2|6803201-1800|02|NA|Foam|前排主驾坐垫泡沫（低配）
+XiaoPeng_F1|147|2|6803201-1810|02|NA|Foam|前排主驾坐垫泡沫（中高配带通风加热）
+XiaoPeng_F1|148|2|6803202-1800|01|NA|Wire|前排主驾坐垫泡沫折弯钢丝1
+XiaoPeng_F1|149|2|6803203-1800|01|NA|Wire|前排主驾坐垫泡沫折弯钢丝2
+XiaoPeng_F1|150|2|6803204-1800|01|NA|Cover|前排主驾坐垫泡沫支撑布
+XiaoPeng_F1|151|2|A200220|01|NA|Wire|直钢丝220mm
+XiaoPeng_F1|152|2|A200200|01|NA|Wire|直钢丝200mm
+XiaoPeng_F1|153|2|4081548|01|NA|Other|刺毛带160mm
+XiaoPeng_F1|154|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_F1|155|1|6803002-1800|03|NA|Other|座垫防噪音无纺布
+XiaoPeng_F1|156|1|3308157|02|NA|Spring|坐垫曲簧组件
+XiaoPeng_F1|157|1|6803300-1800|03|NA|Frame|主驾驶坐框总成
+XiaoPeng_F1|158|2|6803310-1800|02|NA|Frame|镁合金座框主驾组件
+XiaoPeng_F1|159|3|6803311-1800|01|NA|Frame|镁合金座框焊接主驾组件
+XiaoPeng_F1|160|4|3308256|01|NA|Frame|镁合金座框带衬套组件
+XiaoPeng_F1|161|5|3308263|04|NA|Frame|镁合金坐框
+XiaoPeng_F1|162|5|3308290|01|NA|Fastener|自润滑衬套φ22
+XiaoPeng_F1|163|5|4103363|01|NA||镁合金金属衬套
+XiaoPeng_F1|164|4|3308292|01|NA|Frame|后横管
+XiaoPeng_F1|165|4|3308299|01|NA|Frame|后提升连杆组件
+XiaoPeng_F1|166|5|3308285|01|NA|Fastener|自润滑衬套φ15.4
+XiaoPeng_F1|167|5|3308301|01|NA|Frame|后提升连杆
+XiaoPeng_F1|168|4|6803312-1800|02|NA|Assy|主驾高调齿板组件
+XiaoPeng_F1|169|5|6803313-1800|02|NA|Frame|加强齿板
+XiaoPeng_F1|170|5|6803314-1800|02|NA|Frame|主驾高调齿板
+XiaoPeng_F1|171|5|3308285|01|NA|Fastener|自润滑衬套φ15.4
+XiaoPeng_F1|172|3|2778675|01|NA|Frame|止推卡圈
+XiaoPeng_F1|173|3|3308283|01|NA|Fastener|D11.5 Rivet
+XiaoPeng_F1|174|3|3308284|01|NA|Frame|前提升连杆组件
+XiaoPeng_F1|175|4|3308285|01|NA|Fastener|自润滑衬套φ15.4
+XiaoPeng_F1|176|4|3308286|01|NA|Frame|前提升连杆
+XiaoPeng_F1|177|4|3308288|01|NA|Fastener|自润滑衬套φ12.42
+XiaoPeng_F1|178|3|3487734|01|NA|Function|高调电机总成 左侧
+XiaoPeng_F1|179|3|3308137|01|NA|Frame|高调防撞支架组件
+XiaoPeng_F1|180|4|3308187|01|NA|Frame|高调防撞支架
+XiaoPeng_F1|181|4|4103364|01|NA|Frame|高调间隔衬套
+XiaoPeng_F1|182|3|1693808|01|NA|Fastener|M6 - 8 NUT FLANGE, PREVAILING TORQUE
+XiaoPeng_F1|183|2|6804300-1800|08|NA|Function|主驾电动外侧滑道总成
+XiaoPeng_F1|184|2|6804400-1800|08|NA|Function|主驾电动内侧滑道总成
+XiaoPeng_F1|185|2|4362149|01|NA|Motor|滑轨电机
+XiaoPeng_F1|186|2|6804455-719|06|NA|Plastic|电机马达支架
+XiaoPeng_F1|187|2|6804454-719|02|NA|Frame|电动传动短软轴
+XiaoPeng_F1|188|2|4284691|AB|NA|Plastic|电动传动长软轴组件
+XiaoPeng_F1|189|2|3308126|01|NA|Fastener|滑槽螺栓
+XiaoPeng_F1|190|2|6803320-1800|02 03|NA|Assy|主驾旁侧板支撑焊接组件
+XiaoPeng_F1|191|3|6803321-1800|01|NA|Fastener|正驾旁侧板支撑前支架
+XiaoPeng_F1|192|3|6803322-1800|01|NA|Fastener|正驾旁侧板支撑后支架
+XiaoPeng_F1|193|3|6803323-1800|01|NA|Fastener|正驾旁侧板支撑上钢丝
+XiaoPeng_F1|194|3|6803324-1800|01|NA|Fastener|正驾旁侧板支撑下钢丝
+XiaoPeng_F1|195|3|6803325-1800|02|NA|Fastener|正驾旁侧板支撑后钢丝
+XiaoPeng_F1|196|2|6803301-1800|01|NA|Frame|正驾线束安装支架
+XiaoPeng_F1|197|2|6803302-1800|04|NA|Frame|电器盒安装支架
+XiaoPeng_F1|198|2|6803330-1800|01|NA|Assy|坐垫前端面套固定钢丝组件
+XiaoPeng_F1|199|3|6803371-1401|01|NA|Fastener|坐垫前端面套固定钢丝
+XiaoPeng_F1|200|3|6803331-1800|01|NA|Fastener|坐垫前端泡沫支撑钢丝
+XiaoPeng_F1|201|3|3308617|01|NA|Fastener|焊接螺栓
+XiaoPeng_F1|202|2|3308155|01|NA|Fastener|D5拉铆钉
+XiaoPeng_F1|203|2|1693808|01|NA|Fastener|M6法兰盘锁紧螺母
+XiaoPeng_F1|204|2|348734|01|NA|Other|润滑脂
+XiaoPeng_F1|205|2|3834686|01|NA|Other|扎带
+XiaoPeng_F1|206|1|6800009-1810|02|NA|Switch|腰托开关
+XiaoPeng_F1|207|1|6805320-1810|04 05|NA|Memory|记忆盒
+XiaoPeng_F1|208|1|3326926|01|NA|Fastener|ST4.8*9.5自攻钉
+XiaoPeng_F1|209|1|4885485|AA|NA|Cable|线束总成主驾(座垫)低配
+XiaoPeng_F1|210|1|6805330-1810|05|NA|Cable|线束总成主驾(座垫)中配
+XiaoPeng_F1|211|1|6805330-1820|07|NA|Cable|线束总成主驾(座垫)高配
+XiaoPeng_F1|212|2|4885481|AA|||线束总成主驾(座垫)中配
+XiaoPeng_F1|213|2|4885476|AA|||线束总成主驾(座垫)高配
+XiaoPeng_F1|214|1|6800003-1800|06|NA|Plastic|主驾6向电动内旁侧板
+XiaoPeng_F1|215|1|6800004-1800|03|NA|Plastic|主驾6向电动外旁侧板内罩盖
+XiaoPeng_F1|216|1|6800005-1800|03|NA|Plastic|主驾6向电动内旁侧板内罩盖
+XiaoPeng_F1|217|1|6800006-1800|02 03|NA|Plastic|主驾6向电动外旁侧板（低配）组件
+XiaoPeng_F1|218|1|6800006-1810|06|NA|Plastic|主驾6向电动外旁侧板（中高配）组件
+XiaoPeng_F1|219|2|6800007-1810|07|NA|Plastic|主驾6向电动外旁侧板（中高配）
+XiaoPeng_F1|220|2|6800007-1800|02 03|NA|Plastic|主驾6向电动外旁侧板（低配）
+XiaoPeng_F1|221|2|6800008-1800|02|NA|Plastic|主驾6向电动外旁侧板镀铬装饰条
+XiaoPeng_F1|222|1|3326926|01|NA|Fastener|ST4.8*9.5 HF型GB845-84  （旁侧板和开关盒安装）
+XiaoPeng_F1|223|2|2410680|01|NA|Fastener|ST4.8*13自攻钉
+XiaoPeng_F1|224|1|6800010-614|01|NA|Switch|6向电动座椅控制开关盒(主驾)
+XiaoPeng_F1|225|1|6800013-1800|02|NA|Switch|6向调节按钮1(主驾)
+XiaoPeng_F1|226|1|6800014-1800|02|NA|Switch|6向调节按钮2(正驾）
+XiaoPeng_F1|227|1|6805324-1810|02|NA|Power|前排座椅坐垫通风袋（中高配）
+XiaoPeng_F1|228|1|6805325-1810|03|NA|Power|前排坐椅坐垫风扇总成（中高配）
+XiaoPeng_F1|229|1|6805331-1810|05|NA|Power|前排座椅通风ECU（中高配）
+XiaoPeng_F1|230|2|4885507|AA|||前排座椅通风ECU（中高配）
+XiaoPeng_F1|231|1|6805328-1800|01|NA|Other|主驾驶安全带带扣
+XiaoPeng_F1|232|1|6805329-1800|01|NA|Other|安全带未系提醒 SBR
+XiaoPeng_F1|233|1|3308632|01|NA|Fastener|靠背调角器连接螺栓M10×1.0×20
+XiaoPeng_F1|234|1|6800001-1800|01|NA|Package bag|座椅包装袋
+XiaoPeng_F1|236|1|6804370-1800|01|Track cover|Plastic|滑轨后端盖
+XiaoPeng_F2|1|0|6800002-1800||NA|Plastic|前端脚护罩
+XiaoPeng_F2|2|0|6910000-1800|03|NA|Assy|副驾驶总成（带气囊）低配
+XiaoPeng_F2|3|0|4951051|AA|NA|Assy|副驾驶总成（带气囊）低配
+XiaoPeng_F2|4|0|6910000-1810|02|NA|Assy|副驾驶总成（带气囊）中配
+XiaoPeng_F2|5|0|6910000-1811|02|NA|Assy|副驾驶总成（带气囊）中配
+XiaoPeng_F2|6|0|4933968|AB|NA|Assy|副驾驶总成（带气囊）中配
+XiaoPeng_F2|7|0|4933971|AB|NA|Assy|副驾驶总成（带气囊）中配
+XiaoPeng_F2|8|0|6910000-1820|02|NA|Assy|副驾驶总成（带气囊）高配
+XiaoPeng_F2|9|0|6910000-1821|02|NA|Assy|副驾驶总成（带气囊）高配
+XiaoPeng_F2|10|0|4933974|AB|NA|Assy|副驾驶总成（带气囊）高配
+XiaoPeng_F2|11|0|4933976|AB|NA|Assy|副驾驶总成（带气囊）高配
+XiaoPeng_F2|12|1|6905000-1800|01|NA|Assy|副驾驶靠背总成（PU+PVC）(黑色）
+XiaoPeng_F2|13|1|4951053|AA|NA|Assy|副驾驶靠背总成（仿皮+PVC）(黑色）
+XiaoPeng_F2|14|1|6905000-1810|01|NA|Assy|副驾驶靠背总成（真皮）（浅米色）
+XiaoPeng_F2|15|1|6905000-1810|01|NA|Assy|副驾驶靠背总成（真皮）（黑色）
+XiaoPeng_F2|16|1|4933979|AB|NA||副驾驶靠背总成（真皮）（浅米色）
+XiaoPeng_F2|17|1|4933981|AB|NA||副驾驶靠背总成（真皮）（黑色）
+XiaoPeng_F2|18|1|6905000-1820|01|NA|Assy|副驾驶靠背总成高配（NANNP）（浅米色）
+XiaoPeng_F2|19|1|6905000-1820|01|NA|Assy|副驾驶靠背总成高配（NANNP）（黑色）
+XiaoPeng_F2|20|1|4933982|AB|NA||副驾驶靠背总成高配（NANNP）（浅米色）
+XiaoPeng_F2|21|1|4933984|AB|NA||副驾驶靠背总成高配（NANNP）（黑色）
+XiaoPeng_F2|22|1|6905100-1800|01|NA|Cover|4W电动副驾靠背面套总成-仿皮
+XiaoPeng_F2|23|2|4951054|AA|NA|Cover|4W电动副驾靠背面套总成-仿皮
+XiaoPeng_F2|24|1|6905100-1810|01|NA|Cover|4W电动副驾靠背面套总成-真皮
+XiaoPeng_F2|25|1|6905100-1810|01|NA|Cover|4W电动副驾靠背面套总成-真皮
+XiaoPeng_F2|26|2|4951055|AA|NA|Cover|副驾驶靠背面套总成（真皮）
+XiaoPeng_F2|27|2|4951056|AA|NA|Cover|副驾驶靠背面套总成（真皮）
+XiaoPeng_F2|28|1|6905100-1820|01|NA|Cover|4W电动副驾靠背面套总成-NAPPA皮
+XiaoPeng_F2|29|1|6905100-1820|01|NA|Cover|4W电动副驾靠背面套总成-NAPPA皮
+XiaoPeng_F2|30|2|4951057|AA|NA|Cover|副驾驶靠背面套总成（NAPPA）
+XiaoPeng_F2|31|2|4951060|AA|NA|Cover|副驾驶靠背面套总成（NAPPA）
+XiaoPeng_F2|32|1|6905200-1800|04|NA|Foam|4W电动副驾靠背泡沫总成
+XiaoPeng_F2|33|2|6905201-1800|03|NA|Foam|4W电动副驾靠背泡沫
+XiaoPeng_F2|34|2|6805202-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝1
+XiaoPeng_F2|35|2|6805203-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝2
+XiaoPeng_F2|36|2|6805204-1800|01|NA|Wire|6W电动主驾靠背泡沫折弯钢丝3
+XiaoPeng_F2|37|2|6905202-1800|01|NA|Cover|4W电动副驾靠背泡沫气囊布
+XiaoPeng_F2|38|2|6805206-1800|01|NA|Cover|4W电动副驾靠背泡沫支撑布
+XiaoPeng_F2|39|2|A200200|01|NA|Wire|直钢丝200mm
+XiaoPeng_F2|40|2|4071229|01|NA|Other|刺毛带50mm
+XiaoPeng_F2|41|2|4076254|01|NA|Other|刺毛带180mm
+XiaoPeng_F2|42|2|4081560|01|NA|Other|刺毛带200mm
+XiaoPeng_F2|43|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_F2|44|1|6905300-1800|01   04|NA|Frame|4W电动副驾靠背骨架总成（不带记忆）
+XiaoPeng_F2|45|2|2514001|01|NA|Function|电动调角器花键驱动轴
+XiaoPeng_F2|46|2|2774906|01|NA|Function|靠背驱动电机组件(NO MEM)
+XiaoPeng_F2|47|2|2486418|01|NA|Fastener|电动调角器驱动轴卡圈
+XiaoPeng_F2|48|2|3397729|01|NA|Fastener|电机装配螺钉
+XiaoPeng_F2|49|2|6905310-1800||NA|Frame|电动副驾靠背骨架焊接总成
+XiaoPeng_F2|50|3|6905311-1800|01|NA|Frame|副驾气囊安装支架
+XiaoPeng_F2|51|3|6805311-1800|01|NA|Frame|靠背上弯管
+XiaoPeng_F2|52|3|6805312-1800|01|NA|Frame|头枕杆
+XiaoPeng_F2|54|3|6805313-1800|01|NA|Fastener|背板下支撑钢丝
+XiaoPeng_F2|55|3|6805314-1800|01|NA|Fastener|靠背中间面套拉型钢丝
+XiaoPeng_F2|56|3|6805315-1800|01|NA|Fastener|面套拉型钢丝
+XiaoPeng_F2|57|3|6805316-1800|01|NA|Fastener|侧翼支撑钢丝-LH
+XiaoPeng_F2|58|3|6805317-1800|01|NA|Fastener|侧翼支撑钢丝-RH
+XiaoPeng_F2|59|3|6805342-1800|01|NA|Frame|侧翼支撑钢丝
+XiaoPeng_F2|60|3|6805318-1800|01|NA|Fastener|头枕钢丝
+XiaoPeng_F2|61|3|6805345-1800||NA|Frame|旁侧板支撑钢丝（左）
+XiaoPeng_F2|62|3|6805346-1800||NA|Frame|旁侧板支撑钢丝（右）
+XiaoPeng_F2|63|3|3179545|AA|NA|Frame|靠背下横板
+XiaoPeng_F2|64|3|6805361-1800|01|NA|Frame|背板下安装支架
+XiaoPeng_F2|65|3|6805340-1800||NA|Frame|电动外侧靠背边板总成-LH
+XiaoPeng_F2|66|4|4157913|AA|NA|Frame|电动外侧靠背边板分总成-LH
+XiaoPeng_F2|67|5|4157680|AA|NA|Frame|电动外侧靠背边板-LH
+XiaoPeng_F2|68|5|4134038|AA|NA|Frame|螺旋弹簧上挂钩
+XiaoPeng_F2|69|4|6805343-1800|02|NA|Frame|电动外侧调角器组件-LH
+XiaoPeng_F2|70|5|2774897|01|NA|Function|调角器核心件（T3000）
+XiaoPeng_F2|71|5|6805344-1800||NA|Frame|电动调角器外侧连接板-LH
+XiaoPeng_F2|72|3|6805350-1800||NA|Frame|电动内侧靠背边板总成-LH
+XiaoPeng_F2|73|4|4157917|AA|NA|Frame|电动内侧靠背边板组件-LH
+XiaoPeng_F2|74|5|4157681|AA|NA|Frame|电动内侧靠背边板-LH
+XiaoPeng_F2|75|5|4134038|AA|NA|Frame|螺旋弹簧上挂钩
+XiaoPeng_F2|76|4|6805334-1800||NA|Frame|电动内侧调角器组件-LH
+XiaoPeng_F2|77|5|2774897|01|NA|Function|调角器核心件（T3000）
+XiaoPeng_F2|78|5|6805335-1800||NA|Frame|电动调角器内侧连接板
+XiaoPeng_F2|79|1|6805002-1800|02|NA|Other|靠背防噪音无纺布
+XiaoPeng_F2|80|1|2776532|AA|NA|Fastener|曲簧安装卡扣
+XiaoPeng_F2|81|1|6804520-614|03|NA|Spring|靠背曲簧组件
+XiaoPeng_F2|82|1|6905322-1800|02|NA|SAB|副驾安全气囊总成
+XiaoPeng_F2|83|1|1693808|01|NA|Fastener|M6 - 8 NUT FLANGE, PREVAILING TORQUE ISO 2320(气囊总成安装螺母)
+XiaoPeng_F2|84|1|4885473|AA|NA|Cable|电动线束总成 副驾(靠背)
+XiaoPeng_F2|85|1|6800010-1800|07|NA|Plastic|背板组件
+XiaoPeng_F2|86|2|6800011-1800|03|NA|Plastic|背板
+XiaoPeng_F2|87|2|6800012-1800|02|NA|Plastic|地图袋组件
+XiaoPeng_F2|88|3|6800015-1800|01|NA|Package bag|地图袋蒙皮
+XiaoPeng_F2|89|3|6800016-1800|05|NA|Plastic|地图袋骨架
+XiaoPeng_F2|90|3|6800017-1800|02|NA|Plastic|地图袋压条
+XiaoPeng_F2|91|3|6800018-1800|02|NA|Other|拉带总成
+XiaoPeng_F2|92|5|6800027-1800|01|NA|Other|松紧带
+XiaoPeng_F2|93|5|6800028-1800|01|NA|Other|拉带（涤纶）
+XiaoPeng_F2|94|3|6800019-1800|01|NA|Other|地图袋蒙皮粘粘胶水
+XiaoPeng_F2|95|3|6800020-1800|02|NA|Cover|遮羞帘
+XiaoPeng_F2|96|4|6800021-1800|01|NA|Plastic|20mm J型条
+XiaoPeng_F2|97|4|6800022-1800|02|NA|Cover|484mm*100mm塑料板
+XiaoPeng_F2|98|4|6800023-1800|02|NA|Plastic|480mmJ型条
+XiaoPeng_F2|99|4|6800024-1800|01|NA|Cover|黑色PVC
+XiaoPeng_F2|100|4|6800025-1800|02|NA|Other|150mm松紧带
+XiaoPeng_F2|101|4|6800026-1800|01|NA|Other|20#缝纫线
+XiaoPeng_F2|102|1|2410680|01|NA|Fastener|ST4.8*13自攻钉 背板固定螺钉
+XiaoPeng_F2|103|1|6903000-1800|01|NA|Assy|副驾驶坐垫总成低配（PU+PVC）
+XiaoPeng_F2|104|1|4951061|AA|NA|Assy|副驾驶坐垫总成低配（仿皮+PVC）
+XiaoPeng_F2|105|1|6903000-1810|01|NA|Assy|副驾驶坐垫总成中配（真皮）（浅米色）
+XiaoPeng_F2|106|1|6903000-1810|01|NA|Assy|副驾驶坐垫总成中配（真皮）（黑色）
+XiaoPeng_F2|107|1|4933986|AB|NA||副驾驶坐垫总成中配（真皮）（浅米色）
+XiaoPeng_F2|108|1|4933987|AB|NA||副驾驶坐垫总成中配（真皮）（黑色）
+XiaoPeng_F2|109|1|6903000-1820|01|NA|Assy|副驾驶坐垫总成高配（NANNP）（浅米色）
+XiaoPeng_F2|110|1|6903000-1820|01|NA|Assy|副驾驶坐垫总成高配（NANNP）（黑色）
+XiaoPeng_F2|111|1|4933988|AB|NA||副驾驶坐垫总成高配（NANNP）（浅米色）
+XiaoPeng_F2|112|1|4933990|AB|NA||副驾驶坐垫总成高配（NANNP）（黑色）
+XiaoPeng_F2|113|1|4826178|AA|NA|Package bag|毛毡布20*10
+XiaoPeng_F2|114|1|6903100-1800|01|NA|Cover|坐垫面套总成右-仿皮
+XiaoPeng_F2|115|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F2|116|2|4951062|AA|NA|Cover|副驾驶坐垫面套总成（仿皮+PVC）
+XiaoPeng_F2|117|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F2|118|1|6903100-1810|01|NA|Cover|坐垫面套总成右-真皮
+XiaoPeng_F2|119|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F2|120|1|6903100-1810|01|NA|Cover|坐垫面套总成右-真皮
+XiaoPeng_F2|121|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F2|122|2|4951063|AA|NA|Cover|副驾驶坐垫面套总成（真皮）
+XiaoPeng_F2|123|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F2|124|2|4951064|AA|NA|Cover|副驾驶坐垫面套总成（真皮）
+XiaoPeng_F2|125|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F2|126|1|6903100-1820|01|NA|Cover|坐垫面套总成右-NAPPA皮
+XiaoPeng_F2|127|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F2|128|1|6903100-1820|01|NA|Cover|坐垫面套总成右-NAPPA皮
+XiaoPeng_F2|129|3|2615698|02|3C label|Other|3C标签
+XiaoPeng_F2|130|2|4951065|AA|NA|Cover|副驾驶坐垫面套总成（NAPPA）
+XiaoPeng_F2|131|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F2|132|2|4951068|AA|NA|Cover|副驾驶坐垫面套总成（NAPPA）
+XiaoPeng_F2|133|3|2615698|AA|3C label|Other|3C标签
+XiaoPeng_F2|134|1|6903200-1800|04|NA|Foam|前排副驾坐垫泡沫总成
+XiaoPeng_F2|135|2|6903201-1800|02|NA|Foam|前排副驾坐垫泡沫
+XiaoPeng_F2|136|2|6803204-1800|01|NA|Cover|前排主驾坐垫泡沫支撑布
+XiaoPeng_F2|137|2|4081548|01|NA|Other|刺毛带160mm
+XiaoPeng_F2|138|2|A200200|01|NA|Wire|直钢丝200mm
+XiaoPeng_F2|139|2|A200320|01|NA|Wire|直钢丝320mm
+XiaoPeng_F2|140|2|6803202-1800|01|NA|Wire|前排副驾坐垫泡沫折弯钢丝1
+XiaoPeng_F2|141|2|6803203-1800|01|NA|Wire|前排副驾坐垫泡沫折弯钢丝2
+XiaoPeng_F2|142|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_F2|143|1|6803002-1800|03|NA|Other|座垫防噪音无纺布
+XiaoPeng_F2|144|1|3308157|02|NA|Spring|坐垫曲簧组件
+XiaoPeng_F2|145|1|6903300-1800|03|NA|Assy|副驾驶坐框总成
+XiaoPeng_F2|146|2|6903301-1401|02|NA|Frame|副驾镁合金座框
+XiaoPeng_F2|147|2|6904300-1800||NA|Function|副驾电动外侧滑道总成
+XiaoPeng_F2|148|2|6904400-1800||NA|Function|副驾电动内侧滑道总成
+XiaoPeng_F2|149|2|4362146|01|NA|Motor|滑轨电机
+XiaoPeng_F2|150|2|6804455-719|06|NA|Plastic|电机马达支架
+XiaoPeng_F2|151|2|6804454-719|02|NA|Plastic|电动传动短软轴
+XiaoPeng_F2|152|2|4284691|AB|NA|Plastic|电动传动长软轴组件
+XiaoPeng_F2|153|2|6903310-1800||NA|Frame|副驾旁侧板支撑焊接组件
+XiaoPeng_F2|154|3|6903311-1800|01|NA|Fastener|副驾旁侧板支撑前支架
+XiaoPeng_F2|155|3|6903314-1600|01|NA|Fastener|副驾旁侧板支撑后支架
+XiaoPeng_F2|156|3|6903312-1800|01|NA|Frame|副驾旁侧板支撑上钢丝
+XiaoPeng_F2|157|3|6903313-1800|01|NA|Frame|副驾旁侧板支撑下钢丝
+XiaoPeng_F2|158|2|6903301-1800|03|NA|Frame|副驾线束安装支架
+XiaoPeng_F2|159|2|6803330-1800|01|NA|Assy|坐垫前端面套固定钢丝组件
+XiaoPeng_F2|160|3|6803371-1401|01|NA|Frame|坐垫前端面套固定钢丝
+XiaoPeng_F2|161|3|6803331-1800|01|NA|Frame|坐垫前端泡沫支撑钢丝
+XiaoPeng_F2|162|3|3308617|01|NA|Fastener|焊接螺栓
+XiaoPeng_F2|163|2|3308155|01|NA|Fastener|D5拉铆钉
+XiaoPeng_F2|164|2|1693808|01|NA|Fastener|M6法兰盘锁紧螺母
+XiaoPeng_F2|165|2|GBLM010-2|01|NA|Fastener|M8法兰盘锁紧螺母
+XiaoPeng_F2|166|2|3834686|01|NA|Other|扎带
+XiaoPeng_F2|167|1|4885457|AA|NA|Cable|电动线束总成 副驾(座垫)低配
+XiaoPeng_F2|168|2|4826843|AA|NA||电动线束总成 副驾(座垫) 中高配
+XiaoPeng_F2|169|2|4885456|AA|NA||加热垫总成
+XiaoPeng_F2|170|1|6900003-1800||NA|Plastic|副驾4向电动内旁侧板
+XiaoPeng_F2|171|1|6800004-1800||NA|Plastic|主驾6向电动外旁侧板内罩盖
+XiaoPeng_F2|172|1|6800005-1800||NA|Plastic|主驾6向电动内旁侧板内罩盖
+XiaoPeng_F2|173|1|6900006-1800||NA|Assy|副驾4向电动外旁侧板组件
+XiaoPeng_F2|174|2|6900007-1800||NA|Plastic|副驾4向电动外旁侧板
+XiaoPeng_F2|175|2|6900008-1800||NA|Plastic|副驾4向电动外旁侧板镀铬装饰条
+XiaoPeng_F2|176|1|3326926|01|NA|Fastener|ST4.8*9.5 HF型GB845-84  （旁侧板和开关盒安装）
+XiaoPeng_F2|177|2|2410680|01|NA|Fastener|ST4.8*13自攻钉
+XiaoPeng_F2|178|1|6907110-BH04|01|NA|Power|4向电动座椅控制开关盒(副驾)
+XiaoPeng_F2|179|1|6900013-1800|02|NA|Plastic|4向调节按钮1(副驾)
+XiaoPeng_F2|180|1|6900014-1800|02|NA|Plastic|4向调节按钮2(副驾)
+XiaoPeng_F2|181|1|6905325-1800|01|NA|Other|副驾驶安全带带扣
+XiaoPeng_F2|182|1|6805329-1800|01|NA|Other|安全带未系提醒 SBR
+XiaoPeng_F2|183|1|3308632|01|NA|Fastener|靠背调角器连接螺栓M10×1.0×20
+XiaoPeng_F2|184|1|6800001-1800|01|NA|Package bag|座椅包装袋(与主驾件号相同）
+XiaoPeng_F2|186|1|6804370-1800|01|Track cover|Plastic|滑轨后端盖
+XiaoPeng_RS|1|0|B007000012|02|NA|Plastic|塑料卡扣
+XiaoPeng_RS|2|0|7303000-1800|02|NA|Assy|后座椅坐垫总成（低配）
+XiaoPeng_RS|3|0|4951070|AA|NA|Assy|后座椅坐垫总成（低配）
+XiaoPeng_RS|4|0|7303000-1810|02|NA|Assy|后座椅坐垫总成（中配）
+XiaoPeng_RS|5|0|7303000-1811|02|NA|Assy|后座椅坐垫总成（中配）
+XiaoPeng_RS|6|0|4951073|AA|NA|Assy|后排坐垫总成（中配）
+XiaoPeng_RS|7|0|4951075|AA|NA|Assy|后排坐垫总成（中配）
+XiaoPeng_RS|8|0|7303000-1820|02|NA|Assy|后座椅坐垫总成（高配）
+XiaoPeng_RS|9|0|7303000-1821|02|NA|Assy|后座椅坐垫总成（高配）
+XiaoPeng_RS|10|0|4951076|AA|NA|Assy|后排坐垫总成（高配）
+XiaoPeng_RS|11|0|4951077|AA|NA|Assy|后排坐垫总成（高配）
+XiaoPeng_RS|12|1|7303001-1800|01|NA|Plastic|后排座垫包装袋
+XiaoPeng_RS|16|1|7303100-1800|02|NA|Cover|后排坐垫面套总成-仿皮
+XiaoPeng_RS|17|1|4951080|AA|NA|Cover|后排坐垫面套总成(仿皮+PVC）
+XiaoPeng_RS|18|1|7303100-1810|02|NA|Cover|后排坐垫面套总成-真皮
+XiaoPeng_RS|19|1|7303100-1810|02|NA|Cover|后排坐垫面套总成-真皮
+XiaoPeng_RS|20|1|4951081|AA|NA|Cover|后排坐垫面套总成(真皮）
+XiaoPeng_RS|21|1|4951082|AA|NA|Cover|后排坐垫面套总成(真皮）
+XiaoPeng_RS|22|1|7303100-1820|02|NA|Cover|后排坐垫面套总成-NAPPA皮
+XiaoPeng_RS|23|1|7303100-1820|02|NA|Cover|后排坐垫面套总成-NAPPA皮
+XiaoPeng_RS|24|1|4951083|AA|NA|Cover|后排坐垫面套总成（Nappa）
+XiaoPeng_RS|25|1|4951085|AA|NA|Cover|后排坐垫面套总成（Nappa）
+XiaoPeng_RS|26|1|7303200-1800|04|NA|Foam|后排坐垫泡沫总成
+XiaoPeng_RS|27|2|7303201-1800|02|NA|Foam|后排坐垫泡沫
+XiaoPeng_RS|28|2|7303202-1800|02|NA|Wire|后排坐垫泡沫折弯钢丝1
+XiaoPeng_RS|29|2|7303203-1800|02|NA|Wire|后排坐垫泡沫折弯钢丝2
+XiaoPeng_RS|30|2|A200220|01|NA|Wire|直钢丝220mm
+XiaoPeng_RS|31|2|4097020|01|NA|Other|刺毛带150mm
+XiaoPeng_RS|32|2|7303300-1800|02|NA|Assy|后排坐垫钢丝骨架总成
+XiaoPeng_RS|33|3|7303302-1800|02|NA|Wire|座垫右侧发泡支撑钢丝
+XiaoPeng_RS|34|3|7303303-1800|02|NA|Wire|座垫右侧吊紧钢丝
+XiaoPeng_RS|35|3|7303398-1800|01|NA|Wire|坐垫前端右侧泡沫支撑钢丝
+XiaoPeng_RS|36|3|7303399-1800|01|NA|Wire|坐垫前端左侧泡沫支撑钢丝
+XiaoPeng_RS|37|3|7303304-1800|01|NA|Wire|座垫右后端安装钢丝
+XiaoPeng_RS|38|3|7303305-1800|01|NA|Wire|座垫前端发泡支撑钢丝
+XiaoPeng_RS|39|3|7303306-1800|02|NA|Wire|座垫中间发泡支撑钢丝
+XiaoPeng_RS|40|3|7303307-1800|02|NA|Wire|SBR安装钢丝
+XiaoPeng_RS|41|3|7303309-1800|02|NA|Wire|座垫左侧发泡支撑钢丝
+XiaoPeng_RS|42|3|7303391-1800|02|NA|Wire|座垫左侧吊紧钢丝
+XiaoPeng_RS|43|3|7303392-1800|01|NA|Wire|座垫左后端安装钢丝
+XiaoPeng_RS|44|3|7303308-1800|01|NA|Wire|座垫前端安装钢丝
+XiaoPeng_RS|45|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_RS|46|0|7305000-1800|02|NA|Assy|后座椅4分靠背总成（低配）
+XiaoPeng_RS|47|0|4951087|AA|NA|Assy|后排左侧靠背总成(低配）
+XiaoPeng_RS|48|0|7305000-1810|02|NA|Assy|后座椅4分靠背总成（中配）
+XiaoPeng_RS|49|0|7305000-1811|02|NA|Assy|后座椅4分靠背总成（中配）
+XiaoPeng_RS|50|0|4951089|AA|NA|Assy|后排左侧靠背总成（中配）
+XiaoPeng_RS|51|0|4951090|AA|NA|Assy|后排左侧靠背总成（中配）
+XiaoPeng_RS|52|0|7305000-1820|02|NA|Assy|后座椅4分靠背总成（高配）
+XiaoPeng_RS|53|0|7305000-1821|02|NA|Assy|后座椅4分靠背总成（高配）
+XiaoPeng_RS|54|0|4951091|AA|NA|Assy|后座椅4分靠背总成（高配）
+XiaoPeng_RS|55|0|4951093|AA|NA|Assy|后座椅4分靠背总成（高配）
+XiaoPeng_RS|56|1|7305001-1800|01|NA|Plastic|后排座椅4分靠背包装套
+XiaoPeng_RS|57|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_RS|58|1|3326926|01|NA|Fastener|安装螺钉（四分蜂窝板和解锁手柄）
+XiaoPeng_RS|59|1|7300003-1800|03|NA|Plastic|后40%靠背蜂窝板
+XiaoPeng_RS|60|1|7105300-1800||NA|Frame|4分靠背骨架焊接总成
+XiaoPeng_RS|61|2|7105301-1800|01|NA|Wire|4分靠背弯管
+XiaoPeng_RS|62|2|7105302-1800|02|NA|Wire|4分靠背下横管
+XiaoPeng_RS|63|2|7105303-1800|01|NA|Wire|4分靠背TOPTHER横支撑钢丝
+XiaoPeng_RS|64|2|7105304-1800|03|NA|Frame|4分肩部解锁支架
+XiaoPeng_RS|65|2|7105306-1800|01|NA|Frame|6分头枕支撑支架
+XiaoPeng_RS|66|2|7105307-1800|01|NA|Wire|4分外侧BOISTER支撑钢丝
+XiaoPeng_RS|67|2|7105308-1800|01|NA|Wire|4分外侧泡沫支撑钢丝
+XiaoPeng_RS|68|2|7105309-1800|01|NA|Wire|4分外侧顶端泡沫支撑钢丝
+XiaoPeng_RS|69|2|7105311-1800|01|NA|Wire|4分靠背下端泡沫支撑钢丝
+XiaoPeng_RS|70|2|7105312-1800|02|NA|Frame|4分头枕支撑导管
+XiaoPeng_RS|71|2|7105313-1800|01|NA|Wire|4分靠背TOPTHER竖支架支撑钢丝
+XiaoPeng_RS|72|2|7105314-1800|01|NA|Frame|靠背背板支撑支架
+XiaoPeng_RS|73|2|7105315-1800|01|NA|Wire|4分肩部解锁支架支撑钢丝
+XiaoPeng_RS|74|2|7105316-1800|01|NA|Frame|4分内侧弯管连接支架
+XiaoPeng_RS|75|2|7205397-1800|01|NA|Frame|6分左侧下端加强支架
+XiaoPeng_RS|76|2|7103394-711|01|NA|Frame|TOPTETHER 安装板
+XiaoPeng_RS|77|2|7103395-711|01|NA|Wire|TOPTETHER挂钩
+XiaoPeng_RS|78|2|7105317-1800|01|NA|Wire|4分内侧泡沫支撑钢丝
+XiaoPeng_RS|79|2|7105318-1800|01|NA|Wire|4分解锁保护钢丝
+XiaoPeng_RS|80|2|7105330-1800|01|NA|Assy|4分左侧铰链支架总成
+XiaoPeng_RS|81|3|7105331-1800|01|NA|Frame|4分左侧铰链支架
+XiaoPeng_RS|82|3|GBLM003|01|NA|Fastener|M10凸焊螺母
+XiaoPeng_RS|83|2|7105340-1800|01|NA|Frame|4分右侧铰链支架总成
+XiaoPeng_RS|84|3|7105341-1800|01|NA|Frame|4分右侧铰链支架
+XiaoPeng_RS|85|3|GBLM003|01|NA|Fastener|M10凸焊螺母
+XiaoPeng_RS|86|2|7105350-1800|02|NA|Frame|4分高位锁安装支架总成
+XiaoPeng_RS|87|3|7105351-1800|02|NA|Frame|4分高位锁安装支架
+XiaoPeng_RS|88|3|114017|01|NA|Fastener|M8凸焊螺母
+XiaoPeng_RS|89|1|7305002-1800|01|NA|Cover|后排头枕消音布
+XiaoPeng_RS|90|1|7105012-1101|15|NA|Plastic|后排靠背解锁罩盖(黑色)
+XiaoPeng_RS|91|1|7105012-1101|15|NA|Plastic|后排靠背解锁罩盖(米色)
+XiaoPeng_RS|92|1|7105010-1101|09|NA|Plastic|后排靠背解锁手柄组件(黑色)
+XiaoPeng_RS|93|1|7105010-1101|09|NA|Plastic|后排靠背解锁手柄组件(米色)
+XiaoPeng_RS|94|2|7105011-1101|08|NA|Plastic|后排靠背解锁本体
+XiaoPeng_RS|96|2|7105013-1101|24|NA|Plastic|后排靠背解锁按钮(黑色)
+XiaoPeng_RS|97|2|7105013-1101|24|NA|Plastic|后排靠背解锁按钮（米色）
+XiaoPeng_RS|98|2|7105014-1101|01|NA|Spring|后排靠背解锁回位弹簧
+XiaoPeng_RS|100|1|7305100-1800|01|NA|Cover|后排4分靠背面套总成（仿皮）
+XiaoPeng_RS|101|1|4951095|AA|NA|Cover|后排左侧靠背面套总成(仿皮+PVC）
+XiaoPeng_RS|102|1|7305100-1810|01|NA|Cover|后排4分靠背面套总成-真皮
+XiaoPeng_RS|103|1|7305100-1810|01|NA|Cover|后排4分靠背面套总成-真皮
+XiaoPeng_RS|104|1|4951097|AA|NA|Cover|后排左侧靠背面套总成(真皮）
+XiaoPeng_RS|105|1|4951099|AA|NA|Cover|后排左侧靠背面套总成(真皮）
+XiaoPeng_RS|106|1|7305100-1820|01|NA|Cover|后排4分靠背面套总成-NAPPA皮
+XiaoPeng_RS|107|1|7305100-1820|01|NA|Cover|后排4分靠背面套总成-NAPPA皮
+XiaoPeng_RS|108|1|4951102|AA|NA|Cover|后排坐垫面套总成(Nappa皮）
+XiaoPeng_RS|109|1|4951105|AA|NA|Cover|后排坐垫面套总成(Nappa皮）
+XiaoPeng_RS|110|1|7307200-1800|03|NA|Foam|后排4分靠背泡沫总成
+XiaoPeng_RS|111|2|7307201-1800|01|NA|Foam|后排4分靠背泡沫
+XiaoPeng_RS|112|2|A200160|01|NA|Wire|直钢丝160mm
+XiaoPeng_RS|113|2|A200220|01|NA|Wire|直钢丝220mm
+XiaoPeng_RS|114|2|A200300|01|NA|Wire|直钢丝300mm
+XiaoPeng_RS|115|2|4071229|01|NA|Other|刺毛带50mm
+XiaoPeng_RS|116|2|4081540|01|NA|Other|刺毛带380mm
+XiaoPeng_RS|117|2|4067804|01|NA|Other|刺毛带120mm
+XiaoPeng_RS|118|2|4097016|01|NA|Other|刺毛带100mm
+XiaoPeng_RS|119|1|7305337-1800|02 03|NA|Function|后靠背锁（华远锁X系列左））
+XiaoPeng_RS|120|1|GBLS027|01|NA|Fastener|后排靠背锁组件安装螺栓
+XiaoPeng_RS|121|0|7307000-1800|02|NA|Assy|后座椅六分靠背总成（低配）
+XiaoPeng_RS|122|0|4951107|AA|NA|Assy|后排右侧靠背总成(低配）
+XiaoPeng_RS|123|0|7307000-1810|02|NA|Assy|后座椅六分靠背总成（中配）
+XiaoPeng_RS|124|0|7307000-1811|02|NA|Assy|后座椅六分靠背总成（中配）
+XiaoPeng_RS|125|0|4951108|AA|NA|Assy|后排右侧靠背总成（中配）
+XiaoPeng_RS|126|0|4951113|AA|NA|Assy|后排右侧靠背总成（中配）
+XiaoPeng_RS|127|0|7307000-1820|02|NA|Assy|后座椅六分靠背总成（高配）
+XiaoPeng_RS|128|0|7307000-1821|02|NA|Assy|后座椅六分靠背总成（高配）
+XiaoPeng_RS|129|0|4951114|AA|NA|Assy|后排右侧靠背总成（高配）
+XiaoPeng_RS|130|0|4951115|AA|NA|Assy|后排右侧靠背总成（高配）
+XiaoPeng_RS|131|1|7307001-1800|01|NA|Plastic|后排座椅6分靠背包装套
+XiaoPeng_RS|132|1|7305323-1800|01|NA|Function|卷收器总成
+XiaoPeng_RS|133|1|09103-11002|01|NA|Fastener|卷收器安装螺栓
+XiaoPeng_RS|134|1|N0152612|01|NA|Fastener|C型钉
+XiaoPeng_RS|135|1|7300004-1800|02|NA|Plastic|安全带出口罩壳（黑色）
+XiaoPeng_RS|136|1|7300004-1800|02|NA|Plastic|安全带出口罩壳（米色）
+XiaoPeng_RS|137|1|7300002-1800|03|NA|Plastic|后60%靠背蜂窝板
+XiaoPeng_RS|138|1|3326926|01|NA|Fastener|安装螺钉（六分蜂窝板和解锁手柄）
+XiaoPeng_RS|139|1|7205300-1800||NA|Frame|6分靠背骨架焊接总成
+XiaoPeng_RS|140|2|7205389-1800|01|NA|Wire|安全带织带保护钢丝
+XiaoPeng_RS|141|2|7105314-1800|01|NA|Frame|靠背背板支撑支架
+XiaoPeng_RS|142|2|7205301-1800|02|NA|Frame|6分靠背弯管
+XiaoPeng_RS|143|2|7205302-1800|01|NA|Frame|6分靠背下横管
+XiaoPeng_RS|144|2|7205303-1800|01|NA|Frame|6分靠背竖支撑管
+XiaoPeng_RS|145|2|7205304-1800||NA|Frame|6分卷收器支撑支架
+XiaoPeng_RS|146|2|7205305-1800|01|NA|Frame|6分TOPTHER横支撑钢丝
+XiaoPeng_RS|147|2|7205306-1800|01|NA|Frame|6分卷收器出带口支架
+XiaoPeng_RS|148|2|7205308-1800||NA|Frame|6分肩部解锁支架
+XiaoPeng_RS|149|2|7105312-1800|02|NA|Frame|4分头枕支撑导管
+XiaoPeng_RS|150|2|7105306-1800|01|NA|Frame|6分头枕支撑支架
+XiaoPeng_RS|151|2|7105313-1800|01|NA|Wire|TOPTHER竖支架支撑钢丝
+XiaoPeng_RS|152|2|7205312-1800|02|NA|Wire|6分外侧BOISTER支撑钢丝
+XiaoPeng_RS|153|2|7205313-1800|01|NA|Wire|6分外侧泡沫支撑钢丝
+XiaoPeng_RS|154|2|7205314-1800|01|NA|Wire|6分外侧顶端泡沫支撑钢丝
+XiaoPeng_RS|155|2|7205315-1800|01|NA|Wire|6分靠背下端泡沫支撑钢丝
+XiaoPeng_RS|156|2|7205392-1800|01|NA|Wire|肩部解锁支架支撑钢丝
+XiaoPeng_RS|157|2|7205394-1800|01|NA|Wire|6分左侧泡沫支撑钢丝
+XiaoPeng_RS|158|2|7205395-1800|01|NA|Frame|6分右侧竖管
+XiaoPeng_RS|159|2|7205396-1800|01|NA|Frame|6分右侧下端加强支架
+XiaoPeng_RS|160|2|7205397-1800|01|NA|Frame|6分左侧下端加强支架
+XiaoPeng_RS|161|2|7205398-1800|01|NA|Frame|6分上横管加强支架
+XiaoPeng_RS|162|2|7205399-1800|02|NA|Frame|6分右侧弯管连接支架
+XiaoPeng_RS|163|2|7103394-711|01|NA|Frame|TOPTETHER 安装板
+XiaoPeng_RS|164|2|7103395-711|01|NA|Wire|TOPTETHER挂钩
+XiaoPeng_RS|165|2|7205393-1800|01|NA|Wire|6分解锁保护钢丝
+XiaoPeng_RS|166|2|7205340-1800|01|NA|Assy|6分右侧铰链支架总成
+XiaoPeng_RS|167|3|7205341-1800|01|NA|Frame|6分右侧铰链支架总成
+XiaoPeng_RS|168|3|GBLM003|01|NA|Fastener|M10凸焊螺母
+XiaoPeng_RS|169|2|7105330-1800|01|NA|Assy|4分左侧铰链支架总成
+XiaoPeng_RS|170|3|7105331-1800|01|NA|Assy|4分左侧铰链支架
+XiaoPeng_RS|171|3|GBLM003|01|NA|Fastener|M10凸焊螺母
+XiaoPeng_RS|172|2|7205350-1800|02|NA|Frame|6分高位锁安装支架总成
+XiaoPeng_RS|173|3|7205351-1800|02|NA|Frame|6分高位锁安装支架
+XiaoPeng_RS|174| |114017|01|NA|Fastener|M8凸焊螺母
+XiaoPeng_RS|175|1|7305002-1800|01|NA|Cover|后排头枕消音布
+XiaoPeng_RS|176|1|7105012-1101|15|NA|Plastic|后排靠背解锁罩盖（黑色）
+XiaoPeng_RS|177|1|7105012-1101|15|NA|Plastic|后排靠背解锁罩盖（米色）
+XiaoPeng_RS|178|1|7105010-1101|09|NA|Plastic|后排靠背解锁手柄组件(黑色)
+XiaoPeng_RS|179|1|7105010-1101|09|NA|Plastic|后排靠背解锁手柄组件(米色)
+XiaoPeng_RS|180|2|7105011-1101|08|NA|Plastic|后排靠背解锁本体
+XiaoPeng_RS|182|2|7105013-1101|24|NA|Plastic|后排靠背解锁按钮(黑色)
+XiaoPeng_RS|183|2|7105013-1101|24|NA|Plastic|后排靠背解锁按钮（米色）
+XiaoPeng_RS|184|2|7105014-1101|01|NA|Spring|后排靠背解锁回位弹簧
+XiaoPeng_RS|186|1|7307100-1800|01|NA|Cover|后排6分靠背面套总成（仿皮）
+XiaoPeng_RS|187|2|2615698|02|3C label|Other|3C标签
+XiaoPeng_RS|188|1|4951117|AA|NA|Cover|后排右侧靠背面套总成(仿皮+PVC）
+XiaoPeng_RS|189|2|2615698|AA|3C label|Other|3C标签
+XiaoPeng_RS|190|1|7307100-1810|01|NA|Cover|后排6分靠背面套总成（真皮）
+XiaoPeng_RS|191|2|2615698|02|3C label|Other|3C标签
+XiaoPeng_RS|192|1|7307100-1810|01|NA|Cover|后排6分靠背面套总成（真皮）
+XiaoPeng_RS|193|2|2615698|02|3C label|Other|3C标签
+XiaoPeng_RS|194|1|4951118|AA|NA|Cover|后排右侧靠背面套总成(真皮）
+XiaoPeng_RS|195|2|2615698|AA|3C label|Other|3C标签
+XiaoPeng_RS|196|1|4951119|AA|NA|Cover|后排右侧靠背面套总成(真皮）
+XiaoPeng_RS|197|2|2615698|AA|3C label|Other|3C标签
+XiaoPeng_RS|198|1|7307100-1820|01|NA|Cover|后排6分靠背面套总成（NAPPA皮）
+XiaoPeng_RS|199|2|2615698|02|3C label|Other|3C标签
+XiaoPeng_RS|200|1|7307100-1820|01|NA|Cover|后排6分靠背面套总成（NAPPA皮）
+XiaoPeng_RS|201|2|2615698|02|3C label|Other|3C标签
+XiaoPeng_RS|202|1|4951120|AA|NA|Cover|后排6分靠背面套总成（NAPPA皮）
+XiaoPeng_RS|203|2|2615698|AA|3C label|Other|3C标签
+XiaoPeng_RS|204|1|4951122|AA|NA|Cover|后排6分靠背面套总成（NAPPA皮）
+XiaoPeng_RS|205|2|2615698|AA|3C label|Other|3C标签
+XiaoPeng_RS|206|1|7305200-1800|03|NA|Assy|后排6分靠背泡沫总成
+XiaoPeng_RS|207|2|7305201-1800|01|NA|Foam|后排6分靠背泡沫
+XiaoPeng_RS|208|2|7305202-1800|01|NA|Wire|后排靠背泡沫折弯钢丝
+XiaoPeng_RS|209|2|A200160|01|NA|Wire|直钢丝160mm
+XiaoPeng_RS|210|2|A200220|01|NA|Wire|直钢丝220mm
+XiaoPeng_RS|211|2|A200300|01|NA|Wire|直钢丝300mm
+XiaoPeng_RS|212|2|4071229|01|NA|Other|刺毛带50mm
+XiaoPeng_RS|213|2|4081540|01|NA|Other|刺毛带380mm
+XiaoPeng_RS|214|1|7305336-1800|03|NA|Function|后靠背锁（华远锁X系列右）
+XiaoPeng_RS|215|1|GBLS027|01|NA|Fastener|后排靠背锁组件安装螺栓
+XiaoPeng_RS|216|0|7305310-1800|04|NA|Assy|4分座椅靠背边铰链总成
+XiaoPeng_RS|217|1|7305311-1800|01|NA|Frame|靠背蝴蝶板
+XiaoPeng_RS|218|1|7305312-1800|03|NA|Frame|靠背边铰链支架左
+XiaoPeng_RS|219|1|7307614-820|02|NA|Frame|40% 铰链铆钉
+XiaoPeng_RS|220|1|7307615-820|03|NA|Fastener|衬套
+XiaoPeng_RS|221|0|7305330-1800||NA|Assy|座椅靠背中铰链总成
+XiaoPeng_RS|222|1|7305335-1800|02|NA|Frame|脚板焊接总成
+XiaoPeng_RS|223|2|7305331-1800|01|NA|Frame|靠背中间安装点右侧支架
+XiaoPeng_RS|224|2|7305332-1800|02|NA|Frame|靠背中间安装点左侧支架
+XiaoPeng_RS|225|1|7305333-1800|02|NA|Frame|靠背边铰链支架
+XiaoPeng_RS|226|1|7307524-820|01|NA|Fastener|铆钉
+XiaoPeng_RS|227|1|7307615-820|03|NA|Fastener|衬套
+XiaoPeng_RS|228|1|7307525-820|01|NA|Fastener|垫片
+XiaoPeng_RS|229|0|7305325-1800||NA|Assy|后靠背锁闩（左）
+XiaoPeng_RS|230|1|7305326-1800|01|NA|Frame|后靠背锁闩支架（左）
+XiaoPeng_RS|231|1|7305327-1800|01|NA|Frame|后靠背锁闩钢丝（左）

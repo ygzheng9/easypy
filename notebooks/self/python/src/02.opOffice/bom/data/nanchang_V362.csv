@@ -1,0 +1,1538 @@
+bom_id|seq_num|level|part_num|part_version|part_name|part_family|part_name_zh
+V362C_2Row_43|1|99|2776616|1|ASM 2nd ROW CAPTAIN SEAT LH Captain座椅总成  左||
+V362C_2Row_43|2|99|2776620|1|ASM 2nd ROW CAPTAIN SEAT RH Captain座椅总成 右||
+V362C_2Row_43|3|1|2776635|1 2 3|ASM BACK FRAM LH 靠背总成 左||
+V362C_2Row_43|4|1|2776638|1 2 3|ASM BACK FRAM RH 靠背总成 右||
+V362C_2Row_43|5|2|2833161|1 2|Sub-ASM BACK FRAME 靠背骨架焊接总成||
+V362C_2Row_43|6|3|2833212|2 3 4 5|ASM SIDE PIECE LH 靠背边板焊接总成 左||
+V362C_2Row_43|7|4|2776526|1  2|RECLINER_V362C_CAPTAIN_FA_LH 调角器焊接总成 左||
+V362C_2Row_43|8|5|2776518|1 2|LOWER_BRACKET_WELDING_ASSY_LH 调角器下边板焊接总成 左||
+V362C_2Row_43|9|6|2776517|1 2|BUSH 回位弹簧套管||
+V362C_2Row_43|10|6|2776511|1|LOWER_BRACKET_LH 调角器下边板 左||
+V362C_2Row_43|11|5|3243410|1|ASM UPPER_BRACKET LH 调角器上边板焊接总成 左||
+V362C_2Row_43|12|5|2776589|1|UPPER_BRACKET LH 调角器上边板 左||
+V362C_2Row_43|13|6|3228898|1|Recliner connect pin  调角器连接销||
+V362C_2Row_43|14|5|2545976|1|L2000D LH 调角器核心件 左||
+V362C_2Row_43|15|4|2774937|2 3|SIDE PIECE BACKREST LH 靠背边板 左||
+V362C_2Row_43|16|4|3228943|1|SIDE PIECE BACKREST LH 靠背边板 左||
+V362C_2Row_43|17|4|2946804|1 2 3|backrest side member reinforcement bracket LH 靠背边板加强支架 左||
+V362C_2Row_43|18|4|3015328|1|Armrest reinforcement bracket LH  扶手加强支架 左||
+V362C_2Row_43|19|3|2833278|2 3 4 5|ASM SIDE PIECE RH 靠背边板焊接总成 右||
+V362C_2Row_43|20|4|2776527|1 2|RECLINER_V362C_CAPTAIN_FA_RH 调角器焊接总成 右||
+V362C_2Row_43|21|5|2776519|1 2|LOWER_BRACKET_WELDING_ASSY_RH 调角器下边板焊接总成 右||
+V362C_2Row_43|22|6|2776517|1 2|BUSH 回位弹簧套管||
+V362C_2Row_43|23|6|2776514|1|LOWER_BRACKET_RH 调角器下边板 右||
+V362C_2Row_43|24|5|3243411|1|RECLINER_V362C_CAPTAIN_FA_RH 调角器焊接总成 右||
+V362C_2Row_43|25|5|3156117|1|UPPER_BRACKET RH 调角器上边板 右||
+V362C_2Row_43|26|6|3228898|1|Recliner connect pin  调角器连接销||
+V362C_2Row_43|27|5|2545978|1|L2000D RH 调角器核心件 右||
+V362C_2Row_43|28|4|2774923|2 3|SIDE PIECE BACKREST RH 靠背边板 右||
+V362C_2Row_43|29|4|3228944|1|SIDE PIECE BACKREST RH 靠背边板 右||
+V362C_2Row_43|30|4|2946805|1 2 3|backrest side member reinforcement bracket RH 靠背边板加强支架 右||
+V362C_2Row_43|31|4|3015332|1|Armrest reinforcement bracket RH  扶手加强支架 右||
+V362C_2Row_43|32|3|3048815|1|Cross tube for armrest strength  扶手强度横管||
+V362C_2Row_43|33|3|2774916|2|REINFORCEMENT BACKREST(LH) 靠背上横板加强支架 左||
+V362C_2Row_43|34|3|2774894|2|REINFORCEMENT BACKREST(RH) 靠背上横板加强支架 右||
+V362C_2Row_43|35|3|2774870|2 3|BACK FRAME CROSS MEMBER UPPER 靠背上横板||
+V362C_2Row_43|36|3|2833243|1 2|BACK FRAME CROSS MEMBER LOWER 靠背下横板||
+V362C_2Row_43|37|3|2776229|2|BRACKET (RH) 靠背下横板支撑支架 左||
+V362C_2Row_43|38|3|2776231|2|BRACKET (LH) 靠背下横板支撑支架 右||
+V362C_2Row_43|39|2|2776640|1|TRANS_TUBE_WELDING_ASSY 调角器连杆总成||
+V362C_2Row_43|40|3|2776648|1|TRANS_TUBE_KN161 连杆||
+V362C_2Row_43|41|3|2868766|1|SHAFT_HANDLE 手柄把手||
+V362C_2Row_43|42|3|2776652|1|RETURN_SPRING_LIMITER 回位弹簧限位支架||
+V362C_2Row_43|43|2|2776507|1|CLOCK SPRING 卷簧||
+V362C_2Row_43|44|2|2776641|1|HOLDER_RETURN_SPRING 回位弹簧支撑塑料件||
+V362C_2Row_43|45|2|2776642|1|RETURN_SPRING_LH 回位弹簧 左||
+V362C_2Row_43|46|2|2776647|1|RETURN_SPRING_RH 回位弹簧 右||
+V362C_2Row_43|47|2|2776236|2|retainer 卡圈||
+V362C_2Row_43|48|2|2776540|2|suspension 靠背腰托||
+V362C_2Row_43|49|2|2776532|1|FIX CLIP LB 腰托挂接卡子||
+V362C_2Row_43|50|2|3263518|1|MASS DAMPER 减震器||
+V362C_2Row_43|51|2|3263675|1|K50 taping screw自攻螺钉||
+V362C_2Row_43|52|2|3123739|1|ASM BACK FRAM label LH 靠背骨架标签 左||
+V362C_2Row_43|53|2|3123740|1|ASM BACK FRAM label RH 靠背骨架标签 右||
+V362C_2Row_43|54|1|2835162|1 2 3|ASM CUSHION FRAME LH 座骨架总成 左||
+V362C_2Row_43|55|2|2956460|1 2 3 4 5|ASM CUSHION FRAME W/O TRACK LH 座骨架装配分总成 左||
+V362C_2Row_43|56|3|2835200|1 2 3|ASM TUBE FRAME W/O ISOFIX LH  座骨架焊接总成 左||
+V362C_2Row_43|57|4|2952637|1 2 3|ASM TUBE FRAME W/O Top tether LH 座骨架焊接分总成 左||
+V362C_2Row_43|58|5|2852347|1 2 3|SUB ASM TUBE FRAME W/O Top tether LH 下座框焊接总成 左||
+V362C_2Row_43|59|6|2874232|1 2 3 4|Left seat ASM SIDE TUBE FRAME LH 左椅横管焊接总成 左||
+V362C_2Row_43|60|7|2874309|1 2|REAR TUBE 后横管||
+V362C_2Row_43|61|7|2874313|1 2|FRONT TUBE 前横管||
+V362C_2Row_43|62|7|2874325|1|side bracket_valance OB  外侧边板支架||
+V362C_2Row_43|63|7|2874359|1|FRONT BRACKET  前脚板支架||
+V362C_2Row_43|64|7|2874362|1|FRONT REINFORCEMENT LH 前侧加强支架 左||
+V362C_2Row_43|65|7|2874368|1 2|REAR REINFORCEMENT BRACKET LH 后侧加强支架 左||
+V362C_2Row_43|66|7|2874418|1|side bracket_valance IB  后护板支撑支架||
+V362C_2Row_43|67|6|2874250|1 2 3 4|Left seat ASM SIDE TUBE FRAME RH 左椅横管焊接总成 右||
+V362C_2Row_43|68|7|2874309|1 2|REAR TUBE 后横管||
+V362C_2Row_43|69|7|2874313|1 2|FRONT TUBE 前横管||
+V362C_2Row_43|70|7|2874410|1|SIDE BRACKET IB  内侧边板支架||
+V362C_2Row_43|71|7|2874359|1|FRONT BRACKET  前脚板支架||
+V362C_2Row_43|72|7|2874413|1|FRONT REINFORCEMENT RH 前侧加强支架 右||
+V362C_2Row_43|73|7|2874415|1 2|REAR REINFORCEMENT BRACKET RH 后侧加强支架 右||
+V362C_2Row_43|74|7|2874418|1|side bracket_valance IB  后护板支撑支架||
+V362C_2Row_43|75|6|2952648|1|Sub-ASM tube with buckle bracket  LH 后侧下横管焊接总成 左||
+V362C_2Row_43|76|7|2874264|1|buckle bracket with welding nut LH 安全带锁扣支架焊接总成 左||
+V362C_2Row_43|77|8|2874295|1|welding nut 内六角凸焊螺母||
+V362C_2Row_43|78|8|2874284|1|buckle bracket LH 安全带锁扣支架 左||
+V362C_2Row_43|79|7|2874262|1|rear cross tube  后侧下横管||
+V362C_2Row_43|80|6|2874260|1|FRONT CROSS MEMBER  前横板||
+V362C_2Row_43|81|6|2852350|1|REAR CROSS MEMBER LH 后侧加强横管 左||
+V362C_2Row_43|82|5|2852351|1 2|ASM SIDE PIECE WITH CROSS TUBE LH 上座框焊接总成 左||
+V362C_2Row_43|83|6|3228901|1|Upper cushion reinforcement between cross tube and sidemember 上座框加强件||
+V362C_2Row_43|84|6|2920263|1|SIDE MEMBER LH 座边板 左||
+V362C_2Row_43|85|6|2920303|1|SIDE MEMBER RH 座边板 右||
+V362C_2Row_43|86|6|2920264|1|SUPPORT BKT LH 线束支撑支架 左||
+V362C_2Row_43|87|6|2920261|1|REAR UPPER CROSS TUBE CUSHION  上座框后横管||
+V362C_2Row_43|88|6|2920262|1|FRONT STRENGTH TUBE  上座框前横管||
+V362C_2Row_43|89|5|2852348|1 2|FRONT REINFORCEMENT BRACKET 前侧上加强支架||
+V362C_2Row_43|90|5|2852349|1|REAR SUPPORT BRACKET 后侧支撑支架||
+V362C_2Row_43|91|4|2874210|1 2|REAR bracket_valance 儿童座椅下固定点支撑支架||
+V362C_2Row_43|92|4|2851355|1|strength wire LH 座骨架加强钢丝 左||
+V362C_2Row_43|93|3|2851360|1 2|ASM TOWELBAR WITH TWO WIRE LH 滑轨解锁机构总成 左||
+V362C_2Row_43|94|4|2920357|1 2|TOWEL BAR WELD ASM LH 滑轨解锁机构焊接总成 左||
+V362C_2Row_43|95|5|2970324|1|ASM LEVER OPERATE WITH CABLE RIVET LH 滑轨解锁支架铆接总成 左||
+V362C_2Row_43|96|6|2920463|1|LEVER OPERATE(TOWEL BAR) 滑轨解锁支架||
+V362C_2Row_43|97|6|2920466|1|CABLE RIVET 铆接钉||
+V362C_2Row_43|98|5|2920465|1 2|LEVER ACTUATING  解锁横管||
+V362C_2Row_43|99|5|2920463|1|LEVER OPERATE(TOWEL BAR) 滑轨解锁支架||
+V362C_2Row_43|100|4|2920358|1|CAP  解锁端盖||
+V362C_2Row_43|101|3|2921033|1 2 3 4|ASM Left seat track upper reinforcement LH 左椅L板总成 左||
+V362C_2Row_43|102|4|2921094|1 2 3|track upper reinforcement with welding nut LH L板凸焊总成 左||
+V362C_2Row_43|103|5|2921254|1 2 3|track upper reinforcement LH L板 左||
+V362C_2Row_43|104|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|105|4|2921095|1|LEVER ACTUATING BRACKET LH 解锁横管支架 左||
+V362C_2Row_43|106|4|2921130|1|CABLE BRACKET LH 线束接头支撑支架 左||
+V362C_2Row_43|107|4|2921098|1|FRONT LOWER BRACKET LH OB 前外侧支架 左||
+V362C_2Row_43|108|4|3228902|1|L bracket rear reinforcement LH L板后侧加强支架 左||
+V362C_2Row_43|109|3|2921065|1 2 3 4|ASM Left seat track upper reinforcement RH 左椅L板总成 右||
+V362C_2Row_43|110|4|2921101|1 2 3|track upper reinforcement with welding nut RH L板凸焊总成 右||
+V362C_2Row_43|111|5|2921269|1 2 3|track upper reinforcement RH L板 右||
+V362C_2Row_43|112|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|113|4|2970348|1|LEVER ACTUATING BRACKET RH 解锁横管支架 右||
+V362C_2Row_43|114|4|2921132|1|FRONT LOWER BRACKET LH IB 前内侧支架 左||
+V362C_2Row_43|115|4|3228903|1|L bracket rear reinforcement RH L板后侧加强支架 右||
+V362C_2Row_43|116|3|2970338|1 2|TOWEL BAR TORSION SPRING LH 解锁扭力弹簧 左||
+V362C_2Row_43|117|3|2970343|1 2|TOWEL BAR TORSION SPRING RH 解锁扭力弹簧 右||
+V362C_2Row_43|118|3|2920672|1|BUSHING CLIP 解锁衬套||
+V362C_2Row_43|119|3|2775360|1|CABLE RELEASE MECHANISIM FIXED SCREW 线束固定螺钉(M6)||
+V362C_2Row_43|120|3|2835543|1 2|CABLE RELEASE MECHANISIM LH 线束 左||
+V362C_2Row_43|121|3|380114|1|TIE WRAP 扎带（沿用Y483项目上的）||
+V362C_2Row_43|122|3|2093138|1|CABLE TIE  扎带（沿用U375项目上的）||
+V362C_2Row_43|123|3|2835218|1 2|SCREW PAN HEAD (M8) 螺栓M8||
+V362C_2Row_43|124|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|125|2|2835201|1|ASM CUSHION PAN WITH CROSS MEMBER 座盘焊接总成||
+V362C_2Row_43|126|3|2920321|1|ASM CROSSMEMBER 座盘下支撑板总成||
+V362C_2Row_43|127|4|2920330|1|SUB ASM CROSSMEMBER 座盘下支撑板凸焊总成||
+V362C_2Row_43|128|5|2920342|1|CROSS MEMBER 座盘下支撑板||
+V362C_2Row_43|129|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|130|4|2920337|1|FRONT VALANCE BRACKET LH 前护板支撑支架 左||
+V362C_2Row_43|131|4|2920340|1|FRONT VALANCE BRACKET RH 前护板支撑支架 右||
+V362C_2Row_43|132|3|2920319|1|CUSHION PAN 座盘||
+V362C_2Row_43|133|2|2835546|1 2 3|Left seat ASM TRACK MANUAL LH 左椅滑轨总成 左||
+V362C_2Row_43|134|3|3104638|1 2 3|Left seat sub-ASM TRACK MANUAL LH 左椅滑轨分总成 左||
+V362C_2Row_43|135|4|2920677|1 2 3 4|ASM FLOOR BRACKET FRONT OUTBOARD LH  SEAT 左椅外侧脚板总成||
+V362C_2Row_43|136|5|2921026|1 2|FLOATING WASHER 脚板浮动垫片||
+V362C_2Row_43|137|5|2921027|1 2|CLIP LOCKING 浮动垫片固定塑料件||
+V362C_2Row_43|138|5|2921339|1|COVER BRKT RIVET   滑轨盖板支架铆接钉||
+V362C_2Row_43|139|5|2921286|1 2 3 4|FLOOR BRACKET FRONT OUTBOARD LH SEAT 左椅外侧前脚板||
+V362C_2Row_43|140|5|2921294|1 2 3|Small cover bracket LH 滑轨盖板支撑小支架 左||
+V362C_2Row_43|141|5|2921332|1 2 3|Small cover bracket RH 滑轨盖板支撑小支架 右||
+V362C_2Row_43|142|5|2921333|1 2 3|Cover bracket for hook LH 滑轨盖板卡扣支撑支架 左||
+V362C_2Row_43|143|5|2921335|1 2 3|Cover bracket for hook RH 滑轨盖板卡扣支撑支架 右||
+V362C_2Row_43|144|4|2920679|1 2 3 4|ASM FLOOR BRACKET REAR OUTBOARD LH SEAT 左椅外侧后脚板总成||
+V362C_2Row_43|145|5|2921026|1 2|FLOATING WASHER 脚板浮动垫片||
+V362C_2Row_43|146|5|2921027|1 2|CLIP LOCKING 浮动垫片固定片||
+V362C_2Row_43|147|5|2921339|1|FLOATING WASHER RIVET   脚板浮动垫片铆接钉||
+V362C_2Row_43|148|5|2921351|1 2 3 4|FLOOR BRACKET REAR OUTBOARD LH SEAT 左椅外侧后脚板||
+V362C_2Row_43|149|5|2921353|1 2 3|Big cover bracket LH 滑轨盖板支撑大支架 左||
+V362C_2Row_43|150|5|2921364|1 2 3|Big cover bracket RH 滑轨盖板支撑大支架 右||
+V362C_2Row_43|151|4|3098119|1|ASM REINFORCEMENT COMPLETE LH 滑轨下加强件总成 左||
+V362C_2Row_43|152|5|3104884|1|ASM REINFORCEMENT WELDED WITH MIDDLE BRKT LH 滑轨下加强件焊接总成 左||
+V362C_2Row_43|153|6|3098116|1|REINFORCEMENT LH 滑轨下加强件 左||
+V362C_2Row_43|154|6|3098112|1|MIDDLE BRKT LH 中间滑轨盖板支撑支架 左||
+V362C_2Row_43|155|6|3098113|1|MIDDLE BRKT RH 中间滑轨盖板支撑支架 右||
+V362C_2Row_43|156|5|3104873|1|FELT TAPE (12,5x50x0,3)                                                   粘布(12,5x50x0,3)||
+V362C_2Row_43|157|5|3104878|1|FELT TAPE (25x50x0,3)                                                 粘布 (25x50x0,3)||
+V362C_2Row_43|158|5|3104881|1|FELT TAPE (12,5x100x03)         粘布 (12,5x100x03)||
+V362C_2Row_43|159|4|3098121|1|MA SLIDE  LH 滑轨核心件 左||
+V362C_2Row_43|160|4|2920686|1 2|TRACK RISER RIVET 滑轨铆接钉||
+V362C_2Row_43|161|3|3098109|1|ENGAGEMENT LH 滑轨上加强件 左||
+V362C_2Row_43|162|3|3104794|1|UNLOCKING DAMPER 滑轨解锁片||
+V362C_2Row_43|163|3|3104801|1|SPRING TORSION LH 扭力弹簧 左||
+V362C_2Row_43|164|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|165|2|2835548|1 2 3|Left seat ASM TRACK MANUAL RH 左椅滑轨总成 右||
+V362C_2Row_43|166|3|3104641|1 2 3|Left seat sub-ASM TRACK MANUAL RH 左椅滑轨分总成 右||
+V362C_2Row_43|167|4|2921052|1 2 3 4|ASM FLOOR BRACKET FRONT INBOARD LH  SEAT 左椅内侧前脚板总成||
+V362C_2Row_43|168|5|2921385|1 2 3 4|FLOOR BRACKET FRONT INBOARD LH SEAT 左椅内侧前脚板||
+V362C_2Row_43|169|5|2921294|1 2 3|Small cover bracket LH 滑轨盖板支撑小支架 左||
+V362C_2Row_43|170|5|2921333|1 2 3|Cover bracket for hook LH 滑轨盖板卡扣支撑支架 左||
+V362C_2Row_43|171|5|2921353|1 2 3|Big cover bracket LH 滑轨盖板支撑大支架 左||
+V362C_2Row_43|172|4|2921056|1 2 3 4|ASM FLOOR BRACKET REAR INBOARD LH SEAT 左椅内侧后脚板总成||
+V362C_2Row_43|173|5|3104814|1 2|WELD ASM FLOOR BRACKET REAR INBOARD LH SEAT 左椅内侧后脚板滑轨盖板支架焊接总成||
+V362C_2Row_43|174|6|3104821|1 2|FLAT BRACKET 平支架||
+V362C_2Row_43|175|6|2921332|1 2 3|Small cover bracket RH 滑轨盖板支撑小支架 右||
+V362C_2Row_43|176|6|2921335|1 2 3|Cover bracket for hook RH 滑轨盖板卡扣支撑支架 右||
+V362C_2Row_43|177|5|2921428|1 2 3 4|FLOOR BRACKET REAR INBOARD LH SEAT 左椅内侧后脚板||
+V362C_2Row_43|178|5|2921364|1 2 3|Big cover bracket RH 滑轨盖板支撑大支架 右||
+V362C_2Row_43|179|4|3098120|1|ASM REINFORCEMENT COMPLETE RH 滑轨下加强件总成 右||
+V362C_2Row_43|180|5|3104894|1|ASM REINFORCEMENT WELDED WITH MIDDLE BRKT RH 滑轨下加强件焊接总成 右||
+V362C_2Row_43|181|6|3098118|1|REINFORCEMENT RH 滑轨下加强件 右||
+V362C_2Row_43|182|6|3098112|1|MIDDLE BRKT LH 中间滑轨盖板支撑支架 左||
+V362C_2Row_43|183|6|3098113|1|MIDDLE BRKT RH 中间滑轨盖板支撑支架 右||
+V362C_2Row_43|184|5|3104873|1|FELT TAPE (12,5x50x0,3)                                                   粘布(12,5x50x0,3)||
+V362C_2Row_43|185|5|3104878|1|FELT TAPE (25x50x0,3)                                                 粘布 (25x50x0,3)||
+V362C_2Row_43|186|5|3104881|1|FELT TAPE (12,5x100x03)         粘布 (12,5x100x03)||
+V362C_2Row_43|187|4|2920686|1 2|TRACK RISER RIVET 滑轨铆接钉||
+V362C_2Row_43|188|4|3098122|1|MA SLIDE  RH 滑轨核心件 右||
+V362C_2Row_43|189|4|2921431|1|REAR STRENGTH WASHER 后侧脚板浮动垫片||
+V362C_2Row_43|190|3|2921028|1|Location pin slot plastic clip 椭圆形定位销塑料卡子||
+V362C_2Row_43|191|3|2921030|1|Location pin plastic clip 圆形定位销卡子||
+V362C_2Row_43|192|3|3098110|1|ENGAGEMENT RH 滑轨上加强件 右||
+V362C_2Row_43|193|3|3104794|1|UNLOCKING DAMPER 滑轨解锁片||
+V362C_2Row_43|194|3|3104805|1|SPRING TORSION RH 扭力弹簧 右||
+V362C_2Row_43|195|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|196|2|2835218|1 2|SCREW PAN HEAD (M8) 螺栓M8||
+V362C_2Row_43|197|2|2778674|1|BEARING CUSHION PAN 座盘支撑塑料件||
+V362C_2Row_43|198|2|2835306 2778671|1|SCREW fixing PLASTIC 座盘支撑件紧固螺钉||
+V362C_2Row_43|199|2|2921041|1|SCREW SELF LOCKING M9 滑轨固定螺栓 M9||
+V362C_2Row_43|200|2|2921045|1|NUT SQUARE STANDARD M9 滑轨固定螺母||
+V362C_2Row_43|201|2|3123742|1|ASM CUSHION FRAME label LH 座骨架总成标签 左||
+V362C_2Row_43|202|1|2835164|1 2 3|ASM CUSHION FRAME RH 座骨架总成 右||
+V362C_2Row_43|203|2|2956463|1 2 3 4 5|ASM CUSHION FRAME W/O TRACK RH 座骨架装配分总成 右||
+V362C_2Row_43|204|3|2851891|1 2 3|ASM TUBE FRAME W ISOFIX RH 座骨架焊接总成 右||
+V362C_2Row_43|205|4|2952642|1 2 3|ASM TUBE FRAME W Top tether RH 座骨架焊接分总成 右||
+V362C_2Row_43|206|5|2852354|1 2 3|SUB ASM TUBE FRAME W Top tether RH 下座框焊接总成 右||
+V362C_2Row_43|207|6|2874253|1 2 3 4|Right seat ASM SIDE TUBE FRAME LH 右椅横管焊接总成 左||
+V362C_2Row_43|208|7|2874309|1 2|REAR TUBE 后横管||
+V362C_2Row_43|209|7|2874313|1 2|FRONT TUBE 前横管||
+V362C_2Row_43|210|7|2874410|1|SIDE BRACKET IB  内侧边板支架||
+V362C_2Row_43|211|7|2874359|1|FRONT BRACKET  前脚板支架||
+V362C_2Row_43|212|7|2874362|1|FRONT REINFORCEMENT LH 前侧加强支架 左||
+V362C_2Row_43|213|7|2874368|1 2|REAR REINFORCEMENT BRACKET LH 后侧加强支架 左||
+V362C_2Row_43|214|7|2874418|1|side bracket_valance IB  后护板支撑支架||
+V362C_2Row_43|215|6|2874255|1 2 3 4|Right seat ASM SIDE TUBE FRAME RH 右椅横管焊接总成 右||
+V362C_2Row_43|216|7|2874309|1 2|REAR TUBE 后横管||
+V362C_2Row_43|217|7|2874313|1 2|FRONT TUBE 前横管||
+V362C_2Row_43|218|7|2874325|1|side bracket_valance OB  外侧边板支架||
+V362C_2Row_43|219|7|2874359|1|FRONT BRACKET  前脚板支架||
+V362C_2Row_43|220|7|2874413|1|FRONT REINFORCEMENT RH 前侧加强支架 右||
+V362C_2Row_43|221|7|2874415|1 2|REAR REINFORCEMENT BRACKET RH 后侧加强支架 右||
+V362C_2Row_43|222|7|2874418|1|side bracket_valance IB  后护板支撑支架||
+V362C_2Row_43|223|6|2952654|1|Sub-ASM tube with buckle bracket and Top tether RH 后侧下横管焊接总成 右||
+V362C_2Row_43|224|7|2874271|1|buckle bracket with welding nut RH 安全带锁扣支架焊接总成 右||
+V362C_2Row_43|225|8|2874295|1|welding nut 内六角凸焊螺母||
+V362C_2Row_43|226|8|2874299|1|buckle bracket RH 安全带锁扣支架 右||
+V362C_2Row_43|227|7|2874262|1|rear cross tube  后侧下横管||
+V362C_2Row_43|228|7|2920260|1|Top tether 儿童座椅上固定点支架||
+V362C_2Row_43|229|6|2874260|1|FRONT CROSS MEMBER  前横板||
+V362C_2Row_43|230|6|2852355|1|REAR CROSS MEMBER RH 后侧加强横管 右||
+V362C_2Row_43|231|5|2852356|1 2|ASM SIDE PIECE WITH CROSS TUBE RH 上座框焊接总成 右||
+V362C_2Row_43|232|6|3228901|1|Upper cushion reinforcement between cross tube and sidemember 上座框加强件||
+V362C_2Row_43|233|6|2920263|1|SIDE MEMBER LH 座边板 左||
+V362C_2Row_43|234|6|2920303|1|SIDE MEMBER RH 座边板 右||
+V362C_2Row_43|235|6|2920305|1|SUPPORT BKT RH 线束支撑支架 右||
+V362C_2Row_43|236|6|2920261|1|REAR UPPER CROSS TUBE CUSHION  上座框后横管||
+V362C_2Row_43|237|6|2920262|1|FRONT STRENGTH TUBE  上座框前横管||
+V362C_2Row_43|238|5|2852348|1 2|FRONT REINFORCEMENT BRACKET 前侧上加强支架||
+V362C_2Row_43|239|5|2852349|1|REAR SUPPORT BRACKET 后侧支撑支架||
+V362C_2Row_43|240|4|2874192|1 2|WG Ibracket isofix 儿童座椅下固定点支架焊接总成||
+V362C_2Row_43|241|5|2874210|1 2|REAR bracket_valance 儿童座椅下固定点支撑支架||
+V362C_2Row_43|242|5|2874211|1|ISOFIX 儿童座椅下固定点支架||
+V362C_2Row_43|243|4|2852323|1|strength wire RH 座骨架加强钢丝 右||
+V362C_2Row_43|244|3|2852329|1 2|ASM TOWELBAR WITH TWO WIRE RH 滑轨解锁机构总成 右||
+V362C_2Row_43|245|4|2920472|1 2|TOWEL BAR WELD ASM RH 滑轨解锁机构焊接总成 右||
+V362C_2Row_43|246|5|2970329|1|ASM LEVER OPERATE WITH CABLE RIVET RH 滑轨解锁支架铆接总成 右||
+V362C_2Row_43|247|6|2920463|1|LEVER OPERATE(TOWEL BAR) 滑轨解锁支架||
+V362C_2Row_43|248|6|2920466|1|CABLE RIVET 铆接钉||
+V362C_2Row_43|249|5|2920465|1 2|LEVER ACTUATING  解锁横管||
+V362C_2Row_43|250|5|2920463|1|LEVER OPERATE(TOWEL BAR) 滑轨解锁支架||
+V362C_2Row_43|251|4|2920358|1|CAP  解锁端盖||
+V362C_2Row_43|252|3|2921078|1 2 3 4|ASM Right seat track upper reinforcement LH 右椅L板总成 左||
+V362C_2Row_43|253|4|2921094|1 2 3|track upper reinforcement with welding nut LH L板凸焊总成 左||
+V362C_2Row_43|254|5|2921254|1 2 3|track upper reinforcement LH L板 左||
+V362C_2Row_43|255|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|256|4|2921095|1|LEVER ACTUATING BRACKET LH 解锁横管支架 左||
+V362C_2Row_43|257|4|2921145|1|FRONT LOWER BRACKET RH IB 前内侧支架 右||
+V362C_2Row_43|258|4|3228902|1|L bracket rear reinforcement LH L板后侧加强支架 左||
+V362C_2Row_43|259|3|2921093|1 2 3 4|ASM Right seat track upper reinforcement RH 右椅L板总成 右||
+V362C_2Row_43|260|4|2921101|1 2 3|track upper reinforcement with welding nut RH L板凸焊总成 右||
+V362C_2Row_43|261|5|2921269|1 2 3|track upper reinforcement RH L板 右||
+V362C_2Row_43|262|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|263|4|2970348|1|LEVER ACTUATING BRACKET RH 解锁横管支架 右||
+V362C_2Row_43|264|4|2921144|1|CABLE BRACKET RH 线束接头支撑支架 右||
+V362C_2Row_43|265|4|2921146|1|FRONT LOWER BRACKET RH OB 前外侧支架 右||
+V362C_2Row_43|266|4|3228903|1|L bracket rear reinforcement RH L板后侧加强支架 右||
+V362C_2Row_43|267|3|2775360|1|CABLE RELEASE MECHANISIM FIXED SCREW 线束固定螺钉||
+V362C_2Row_43|268|3|2970338|1 2|TOWEL BAR TORSION SPRING LH 解锁扭力弹簧 左||
+V362C_2Row_43|269|3|2970343|1 2|TOWEL BAR TORSION SPRING RH 解锁扭力弹簧 右||
+V362C_2Row_43|270|3|2920672|1|BUSHING CLIP 解锁衬套||
+V362C_2Row_43|271|3|2852326|1 2|CABLE RELEASE MECHANISIM RH 线束 右||
+V362C_2Row_43|272|3|380114|1|TIE WRAP 扎带（沿用Y483项目上的）||
+V362C_2Row_43|273|3|2093138|1|CABLE TIE  扎带（沿用U375项目上的）||
+V362C_2Row_43|274|3|2835218|1 2|SCREW PAN HEAD (M8) 螺栓M8||
+V362C_2Row_43|275|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|276|2|2835201|1|ASM CUSHION PAN WITH CROSS MEMBER 座盘焊接总成||
+V362C_2Row_43|277|3|2920321|1|ASM CROSSMEMBER 座盘下支撑板总成||
+V362C_2Row_43|278|4|2920330|1|SUB ASM CROSSMEMBER 座盘下支撑板凸焊总成||
+V362C_2Row_43|279|5|2920342|1|CROSS MEMBER 座盘下支撑板||
+V362C_2Row_43|280|5|2920348|1|NUT WELDING (M8 ) 凸焊方螺母||
+V362C_2Row_43|281|4|2920337|1|FRONT VALANCE BRACKET LH 前护板支撑支架 左||
+V362C_2Row_43|282|4|2920340|1|FRONT VALANCE BRACKET RH 前护板支撑支架 右||
+V362C_2Row_43|283|3|2920319|1|CUSHION PAN 座盘||
+V362C_2Row_43|284|2|2852332|1 2 3|Right seat ASM TRACK MANUAL LH 右椅滑轨总成 左||
+V362C_2Row_43|285|3|3104642|1 2 3|Right seat sub-ASM TRACK MANUAL LH 右椅滑轨分总成 左||
+V362C_2Row_43|286|4|2921070|1 2 3 4|ASM FLOOR BRACKET FRONT INBOARD RH  SEAT 右椅内侧前脚板总成||
+V362C_2Row_43|287|5|2921400|1 2 3 4|FLOOR BRACKET FRONT INBOARD RH SEAT 右椅内侧前脚板||
+V362C_2Row_43|288|5|2921332|1 2 3|Small cover bracket RH 滑轨盖板支撑小支架 右||
+V362C_2Row_43|289|5|2921335|1 2 3|Cover bracket for hook RH 滑轨盖板卡扣支撑支架 右||
+V362C_2Row_43|290|5|2921364|1 2 3|Big cover bracket RH 滑轨盖板支撑大支架 右||
+V362C_2Row_43|291|4|2921073|1 2 3 4|ASM FLOOR BRACKET REAR INBOARD RH SEAT 右椅内侧后脚板总成||
+V362C_2Row_43|292|5|3104818|1 2|WELD ASM FLOOR BRACKET REAR INBOARDRH SEAT 右椅内侧后脚板滑轨盖板支架焊接总成||
+V362C_2Row_43|293|6|3104821|1 2|FLAT BRACKET 平支架||
+V362C_2Row_43|294|6|2921294|1 2 3|Small cover bracket LH 滑轨盖板支撑小支架 左||
+V362C_2Row_43|295|6|2921333|1 2 3|Cover bracket for hook LH 滑轨盖板卡扣支撑支架 左||
+V362C_2Row_43|296|5|2921432|1 2 3 4|FLOOR BRACKET REAR INBOARD RH SEAT 右椅内侧后脚板||
+V362C_2Row_43|297|5|2921353|1 2 3|Big cover bracket LH 滑轨盖板支撑大支架 左||
+V362C_2Row_43|298|4|3098119|1|ASM REINFORCEMENT COMPLETE LH 滑轨下加强件总成 左||
+V362C_2Row_43|299|5|3104884|1|ASM REINFORCEMENT WELDED WITH MIDDLE BRKT LH 滑轨下加强件焊接总成 左||
+V362C_2Row_43|300|6|3098116|1|REINFORCEMENT LH 滑轨下加强件 左||
+V362C_2Row_43|301|6|3098112|1|MIDDLE BRKT LH 中间滑轨盖板支撑支架 左||
+V362C_2Row_43|302|6|3098113|1|MIDDLE BRKT RH 中间滑轨盖板支撑支架 右||
+V362C_2Row_43|303|5|3104873|1|FELT TAPE (12,5x50x0,3)                                                   粘布(12,5x50x0,3)||
+V362C_2Row_43|304|5|3104878|1|FELT TAPE (25x50x0,3)                                                 粘布 (25x50x0,3)||
+V362C_2Row_43|305|5|3104881|1|FELT TAPE (12,5x100x03)         粘布 (12,5x100x03)||
+V362C_2Row_43|306|4|2920686|1 2|TRACK RISER RIVET 滑轨铆接钉||
+V362C_2Row_43|307|4|3098121|1|MA SLIDE  LH 滑轨核心件 左||
+V362C_2Row_43|308|4|2921431|1|REAR STRENGTH WASHER 后侧脚板浮动垫片||
+V362C_2Row_43|309|3|2921028|1|Location pin slot plastic clip 定位销椭圆塑料卡子||
+V362C_2Row_43|310|3|2921030|1|Location pin plastic clip 定位销圆形卡子||
+V362C_2Row_43|311|3|3098109|1|ENGAGEMENT LH 滑轨上加强件 左||
+V362C_2Row_43|312|3|3104794|1|UNLOCKING DAMPER 滑轨解锁片||
+V362C_2Row_43|313|3|3104801|1|SPRING TORSION LH 扭力弹簧 左||
+V362C_2Row_43|314|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|315|2|2852338|1 2 3|Right seat ASM TRACK MANUAL RH 右椅滑轨总成 右||
+V362C_2Row_43|316|3|3104643|1 2 3|Right seat sub-ASM TRACK MANUAL RH 右椅滑轨分总成 右||
+V362C_2Row_43|317|4|2921090|1 2 3 4|ASM FLOOR BRACKET FRONT OUTBOARD RH SEAT 右椅外侧前脚板总成||
+V362C_2Row_43|318|5|2921026|1 2|FLOATING WASHER 脚板浮动垫片||
+V362C_2Row_43|319|5|2921027|1 2|CLIP LOCKING 浮动垫片固定塑料件||
+V362C_2Row_43|320|5|2921339|1|COVER BRKT RIVET   滑轨盖板支架铆接钉||
+V362C_2Row_43|321|5|2921420|1 2 3 4|FLOOR BRACKET FRONT OUTBOARD RH SEAT 右椅外侧前脚板||
+V362C_2Row_43|322|5|2921294|1 2 3|Small cover bracket LH 滑轨盖板支撑小支架 左||
+V362C_2Row_43|323|5|2921332|1 2 3|Small cover bracket RH 滑轨盖板支撑小支架 右||
+V362C_2Row_43|324|5|2921333|1 2 3|Cover bracket for hook LH 滑轨盖板卡扣支撑支架 左||
+V362C_2Row_43|325|5|2921335|1 2 3|Cover bracket for hook RH 滑轨盖板卡扣支撑支架 右||
+V362C_2Row_43|326|4|2921091|1 2 3 4|ASM FLOOR BRACKET REAR OUTBOARD RH SEAT 右椅外侧后脚板总成||
+V362C_2Row_43|327|5|2921026|1 2|FLOATING WASHER 脚板浮动垫片||
+V362C_2Row_43|328|5|2921027|1 2|CLIP LOCKING 浮动垫片固定塑料件||
+V362C_2Row_43|329|5|2921339|1|COVER BRKT RIVET   滑轨盖板支架铆接钉||
+V362C_2Row_43|330|5|2921424|1 2 3 4|FLOOR BRACKET REAR OUTBOARD RH SEAT 右椅外侧后脚板||
+V362C_2Row_43|331|5|2921353|1 2 3|Big cover bracket LH 滑轨盖板支撑大支架 左||
+V362C_2Row_43|332|5|2921364|1 2 3|Big cover bracket RH 滑轨盖板支撑大支架 右||
+V362C_2Row_43|333|4|3098120|1|ASM REINFORCEMENT COMPLETE RH 滑轨下加强件总成 右||
+V362C_2Row_43|334|5|3104894|1|ASM REINFORCEMENT WELDED WITH MIDDLE BRKT RH 滑轨下加强件焊接总成 右||
+V362C_2Row_43|335|6|3098118|1|REINFORCEMENT RH 滑轨下加强件 右||
+V362C_2Row_43|336|6|3098112|1|MIDDLE BRKT LH 中间滑轨盖板支撑支架 左||
+V362C_2Row_43|337|6|3098113|1|MIDDLE BRKT RH 中间滑轨盖板支撑支架 右||
+V362C_2Row_43|338|5|3104873|1|FELT TAPE (12,5x50x0,3)                                                   粘布(12,5x50x0,3)||
+V362C_2Row_43|339|5|3104878|1|FELT TAPE (25x50x0,3)                                                 粘布 (25x50x0,3)||
+V362C_2Row_43|340|5|3104881|1|FELT TAPE (12,5x100x03)         粘布 (12,5x100x03)||
+V362C_2Row_43|341|4|2920686|1 2|TRACK RISER RIVET 滑轨铆接钉||
+V362C_2Row_43|342|4|3098122|1|MA SLIDE  RH 滑轨核心件 右||
+V362C_2Row_43|343|3|3098110|1|ENGAGEMENT RH 滑轨上加强件 右||
+V362C_2Row_43|344|3|3104794|1|UNLOCKING DAMPER 滑轨解锁片||
+V362C_2Row_43|345|3|3104805|1|SPRING TORSION RH 扭力弹簧 右||
+V362C_2Row_43|346|3|348734|1|GREASE / KLUBBER ISOFLEX L32 油脂||
+V362C_2Row_43|347|2|2835218|1 2|SCREW PAN HEAD (M8) 螺栓M8||
+V362C_2Row_43|348|2|2778674|1|BEARING CUSHION PAN 座盘支撑塑料件||
+V362C_2Row_43|349|2|2835306 2778671|1|SCREW fixing PLASTIC 座盘支撑件紧固螺钉||
+V362C_2Row_43|350|2|2921041|1|SCREW SELF LOCKING M9 滑轨固定螺栓 M9||
+V362C_2Row_43|351|2|2921045|1|NUT SQUARE STANDARD M9 滑轨固定螺母||
+V362C_2Row_43|352|2|3123744|1|ASM CUSHION FRAME label RH 座骨架总成标签 右||
+V362c_2Row_46|4|1|2776638|4|ASM BACK FRAM RH 靠背总成 右||
+V362c_2Row_46|5|2|2833161|3|Sub-ASM BACK FRAME 靠背骨架焊接总成||
+V362c_2Row_46|6|3|2833212|5|ASM SIDE PIECE LH 靠背边板焊接总成 左||
+V362c_2Row_46|7|4|2776526|2|RECLINER_V362C_CAPTAIN_FA_LH 调角器焊接总成 左||
+V362c_2Row_46|8|5|2776518|2|LOWER_BRACKET_WELDING_ASSY_LH 调角器下边板焊接总成 左||
+V362c_2Row_46|10|6|2776511|1|LOWER_BRACKET_LH 调角器下边板 左||
+V362c_2Row_46|11|5|3243410||ASM UPPER_BRACKET LH 调角器上边板焊接总成 左||
+V362c_2Row_46|12|5|3243410|1|UPPER_BRACKET LH 调角器上边板 左||
+V362c_2Row_46|14|5|2545976|1|L2000D LH 调角器核心件 左||
+V362c_2Row_46|15|4|2774937|3|SIDE PIECE BACKREST LH 靠背边板 左||
+V362c_2Row_46|17|4|2946804|3|backrest side member reinforcement bracket LH 靠背边板加强支架 左||
+V362c_2Row_46|18|4|3015328|1|Armrest reinforcement bracket LH  扶手加强支架 左||
+V362c_2Row_46|19|3|2833278|5|ASM SIDE PIECE RH 靠背边板焊接总成 右||
+V362c_2Row_46|20|4|2776527|2|RECLINER_V362C_CAPTAIN_FA_RH 调角器焊接总成 右||
+V362c_2Row_46|21|5|2776519|2|LOWER_BRACKET_WELDING_ASSY_RH 调角器下边板焊接总成 右||
+V362c_2Row_46|22|6|2776517|2|BUSH 回位弹簧套管||
+V362c_2Row_46|23|6|2776514|1|LOWER_BRACKET_RH 调角器下边板 右||
+V362c_2Row_46|24|5|3243411||RECLINER_V362C_CAPTAIN_FA_RH 调角器焊接总成 右||
+V362c_2Row_46|25|5|3156117|1|UPPER_BRACKET RH 调角器上边板 右||
+V362c_2Row_46|26|6|3228898|1|Recliner connect pin  调角器连接销||
+V362c_2Row_46|27|5|2545978|1|L2000D RH 调角器核心件 右||
+V362c_2Row_46|28|4|2774923|3|SIDE PIECE BACKREST RH 靠背边板 右||
+V362c_2Row_46|30|4|2946805|3|backrest side member reinforcement bracket RH 靠背边板加强支架 右||
+V362c_2Row_46|31|4|3015332|1|Armrest reinforcement bracket RH  扶手加强支架 右||
+V362c_2Row_46|32|3|3048815|1|Cross tube for armrest strength  扶手强度横管||
+V362c_2Row_46|33|3|2774916|2|REINFORCEMENT BACKREST(LH) 靠背上横板加强支架 左||
+V362c_2Row_46|34|3|2774894|2|REINFORCEMENT BACKREST(RH) 靠背上横板加强支架 右||
+V362c_2Row_46|35|3|2774870|7|BACK FRAME CROSS MEMBER UPPER 靠背上横板||
+V362c_2Row_46|36|3|2833243|2|BACK FRAME CROSS MEMBER LOWER 靠背下横板||
+V362c_2Row_46|37|3|2776229|2|BRACKET (RH) 靠背下横板支撑支架 左||
+V362c_2Row_46|38|3|2776231|2|BRACKET (LH) 靠背下横板支撑支架 右||
+V362c_2Row_46|39|2|2776640|1|TRANS_TUBE_WELDING_ASSY 调角器连杆总成||
+V362c_2Row_46|40|3|2776648|1|TRANS_TUBE_KN161 连杆||
+V362c_2Row_46|41|3|2868766|1|SHAFT_HANDLE 手柄把手||
+V362c_2Row_46|42|3|2776652|1|RETURN_SPRING_LIMITER 回位弹簧限位支架||
+V362c_2Row_46|43|2|2776507|1|CLOCK SPRING 卷簧||
+V362c_2Row_46|44|2|2776641|1|HOLDER_RETURN_SPRING 回位弹簧支撑塑料件||
+V362c_2Row_46|45|2|2776642|1|RETURN_SPRING_LH 回位弹簧 左||
+V362c_2Row_46|46|2|2776647|1|RETURN_SPRING_RH 回位弹簧 右||
+V362c_2Row_46|47|2|2776236|2|retainer 卡圈||
+V362c_2Row_46|48|2|2776540|3|suspension 靠背腰托||
+V362c_2Row_46|49|2|2776532|1|FIX CLIP LB 腰托挂接卡子||
+V362c_2Row_46|50|2|3263518|3|MASS DAMPER 减震器||
+V362c_2Row_46|51|2|3263675|2|K50 taping screw自攻螺钉||
+V362C_Kombi|2|1|W1100|4|BACK WELD ASSY|assy|靠背焊接总成
+V362C_Kombi|3|2|7305304-V362|A|HR supporting bezel-RH|metal|头枕支撑架右
+V362C_Kombi|4|2|T0025|01|Guide_Headrest|metal|头枕管
+V362C_Kombi|5|2|7305303-V362|A|HR supporting bezel-Middle|metal|头枕支撑架中
+V362C_Kombi|6|2|7305302-V362|A|HR supporting bezel-LH|metal|头枕支撑架左
+V362C_Kombi|7|2|7305301-V363|A|Reinforce|metal|加强件
+V362C_Kombi|8|2|W1150||BACK WELD ASSY WITHOUT WIRE|assy|靠背焊接分总成无钢丝
+V362C_Kombi|9|3|W1110||Left Back girder welding assy|assy|靠背纵梁焊接总成左
+V362C_Kombi|10|4|M0021||Sheet metal for back girder|metal|靠背纵梁加强件
+V362C_Kombi|11|4|M0023||Back girder L|metal|靠背纵梁左
+V362C_Kombi|12|4|M0204|2|M0204_sleeve_0506|metal|靠背转轴轴套
+V362C_Kombi|14|3|W1120||Right Back girder welding assy|assy|靠背纵梁焊接总成右
+V362C_Kombi|15|4|M0021||Sheet metal for back girder|metal|靠背纵梁加强件
+V362C_Kombi|16|4|M0024||Back girder R|metal|靠背纵梁右
+V362C_Kombi|17|4|M0204|2|M0204_sleeve_0506|metal|靠背转轴轴套
+V362C_Kombi|19|3|W1130||single belt support weld assy|assy|单卷收器安装骨架总成
+V362C_Kombi|20|4|W1131||single nut weld assy|assy|底部支撑板焊接总成右
+V362C_Kombi|21|5|M0017|2|Button support R|metal|底部支撑板右
+V362C_Kombi|22|5|M0181||QC-T-2004 6/17 -20UNF-2B ANSIB1.1|metal|7/16英寸凸点焊接螺母
+V362C_Kombi|24|4|M0013||Furl device support R|metal|单卷收器支撑板
+V362C_Kombi|25|4|M0026|2|The right furl device support L|metal|单卷收器支撑板左
+V362C_Kombi|26|4|M0096|2|The right furl device support R|metal|单卷收器支撑板右
+V362C_Kombi|28|3|W1140||double belt support weld assy|assy|双卷收器安装骨架总成
+V362C_Kombi|29|4|W1190||double nut weld assy with wire|assy|底部支撑板焊接总成左
+V362C_Kombi|30|5|W1141||double nut weld assy|assy|底部支撑板左螺母焊接总成
+V362C_Kombi|31|6|M0019|3|Button support L|metal|底部支撑板左
+V362C_Kombi|32|6|M0181||QC-T-2004 6/17 -20UNF-2B ANSIB1.1|metal|7/16英寸凸点焊接螺母
+V362C_Kombi|33|5|M0099||Steel wire|metal|安全带防割钢筋
+V362C_Kombi|35|4|M0097||The left furl containers right side support plate|metal|双卷收器支撑板右
+V362C_Kombi|36|4|M0098||The left furl containers left side support plate|metal|双卷收器支撑板左
+V362C_Kombi|37|4|M0015|4|Furl device support L|metal|双卷收器支撑板
+V362C_Kombi|38|4|w1142||middle support of double belt support device assy|assy|双卷收器中间支撑板总成
+V362C_Kombi|39|5|M0102||Right part of middle support|metal|双卷收器中间支撑板右
+V362C_Kombi|40|5|M0103|2|Left part of middle support|metal|双卷收器中间支撑板左
+V362C_Kombi|42|3|M0003||Back tube|metal|靠背主体管
+V362C_Kombi|43|3|M0005||Back tube MID|metal|靠背连接管
+V362C_Kombi|44|3|W1143||Lagging fixed support ASSY|assy|靠背木板安装支架总成
+V362C_Kombi|45|4|M0007||Lagging fixed support|metal|靠背木板安装支架
+V362C_Kombi|46|4|M0008||GB-T13680-92 M6|metal|M6凸焊螺母
+V362C_Kombi|48|3|M0209||TOP_TETHER|metal|儿童座椅上固定钢丝
+V362C_Kombi|49|3|M0231||reinforce tube of  backrest|metal|靠背加强管
+V362C_Kombi|50|3|W1160||Back lock support  assy|assy|靠背锁安装支架焊接总成
+V362C_Kombi|51|4|M0036||Back lock support to strengthen the sheet metal  upper|metal|靠背锁安装支架上加强板
+V362C_Kombi|52|4|M0035||Back lock support to strengthen the sheet metal  lower|metal|靠背锁安装支架下加强板
+V362C_Kombi|53|4|W1161||Back lock support  with weld nut|assy|靠背锁安装支架螺母焊接总成
+V362C_Kombi|54|5|M0011|3|Back lock support|metal|靠背锁安装支架
+V362C_Kombi|55|5|M0441||GB-T13680-92 M10|metal|M10凸焊螺母
+V362C_Kombi|57|3|M0199|2|The upper connection plate  L|metal|座靠连接板左
+V362C_Kombi|58|3|M0200|2|Theupper connection plate  R|metal|座靠连接板右
+V362C_Kombi|59|2|M0104||Back wire|metal|靠背支撑钢丝
+V362C_Kombi|60|2|M0205||WIRE for trim|metal|靠背面套钢丝
+V362C_Kombi|63|2|M0119||trim support panel R|metal|面套撑板右
+V362C_Kombi|64|2|M0120|2|trim support panel L|metal|面套撑板左
+V362C_Kombi|66|1|W1200||Rotating shaft support weld assy  R|assy|转轴焊接总成右
+V362C_Kombi|67|2|M0171|3|Rotating shaft support R|metal|转轴支架右
+V362C_Kombi|68|2|M0113||Back axis|metal|转轴
+V362C_Kombi|69|1|W1300||Rotating shaft support weld assy  L|assy|转轴焊接总成左
+V362C_Kombi|70|2|M0172|3|Rotating shaft support  L|metal|转轴支架左
+V362C_Kombi|71|2|M0113||Back axis|metal|转轴
+V362C_Kombi|73|1|M0128||Plastic for pivot sleeve  for noise|Plastic|转轴塑料衬套
+V362C_Kombi|74|1|M0193||Back rotary bolt|metal|转轴连接螺钉
+V362C_Kombi|75|1|M0039|6|lock C （back latch）|metal|靠背锁
+V362C_Kombi|76|1|M0211||bolt M10 for back latch|metal|M10靠背锁螺钉
+V362C_Kombi|79|1|M0188||Label for ASM back frame||
+V362C_Kombi|81|99|A2000|23|ASM CUSHION FRAM|assy|座框装配总成
+V362C_Kombi|82|1|W2100|8|CUSHION FRAM  WELD ASSY|assy|座框焊接总成
+V362C_Kombi|83|2|M0229||cushion wire|metal|座框泡沫支撑钢丝
+V362C_Kombi|84|2|M0301||RAMP panel|metel|坐框泡沫支撑板
+V362C_Kombi|85|2|W2290|9|without ramp and cushion wire|assy|座框焊接分总成
+V362C_Kombi|86|3|M0248||strengthen the tube for Rotating shaft support (in the middle of the cushion )|metal|座框中间侧支撑管
+V362C_Kombi|88|3|W2124||bracket at bottom for wood panel ASSY|assy|座框木板下固定支架总成
+V362C_Kombi|89|4|M0224||bracket at bottom for wood panel|metal|座框木板下固定支架
+V362C_Kombi|90|4|M0008||GB-T13680-92 M6|metal|M6凸焊螺母
+V362C_Kombi|92|3|W2320|5|HOOK  CONNECT ASSY|assy|支撑臂安装支架总成
+V362C_Kombi|93|4|M0402|5|bracket  A|metal|支撑臂加强支架
+V362C_Kombi|94|4|W2330|5|reinforcing bracket on cushion WITH NUT|ASSY|支撑臂安装支架分总成
+V362C_Kombi|95|5|M0420|5|reinforcing bracket on cushion|metal|支撑臂安装支架
+V362C_Kombi|98|3|W2170||Main welding OF CUSHION FRAM|assy|座框主体焊接总成
+V362C_Kombi|99|4|M0063||tube a(in the middle bottom the cushion ）|metal|连接管
+V362C_Kombi|100|4|M0305||middle support tuble|metel|座框中间支撑管
+V362C_Kombi|101|4|M0169||strengthen the back tube (aside the cushion)|metal|座框侧支撑管
+V362C_Kombi|103|4|W2120||Cushion  up  assy|assy|上座框焊接总成
+V362C_Kombi|104|5|M0235||TRIM SUPPORT WIRE A|metal|座框面套钢丝 A
+V362C_Kombi|105|5|M0236||TRIM SUPPORT WIRE B|metal|座框面套钢丝 B
+V362C_Kombi|106|5|M0234||TRIM SUPPORT WIRE C|metal|座框面套钢丝 C
+V362C_Kombi|108|5|M0229||cushion wire|metal|座框泡沫支撑钢丝
+V362C_Kombi|109|5|W1180||ISOFIX assy|assy|儿童座椅下固定支架焊接总成
+V362C_Kombi|110|6|M0124||ISOFIX wire|metal|儿童座椅下固定钢丝
+V362C_Kombi|111|6|M0122||ISOFIX SUPPORT PART|metal|儿童座椅下固定支架
+V362C_Kombi|112|5|W2190||Cushion  up  assy without isofix and trim wire|assy|上座框焊接分总成
+V362C_Kombi|113|6|W2260||Seat cushion release lever support ASSY|assy|后地锁解锁手柄安装支架总成
+V362C_Kombi|114|7|M0109||Seat cushion release lever support|metal|后地锁解锁手柄安装支架
+V362C_Kombi|115|7|M0008||GB-T13680-92 M6|metal|M6凸焊螺母
+V362C_Kombi|116|6|M0165|2|Reinforcing sheet metal|metal|座框侧加强板
+V362C_Kombi|117|6|A2121||left side plate riveting  assy|assy|座框边板总成左
+V362C_Kombi|118|7|W21211||left side plate weld assy|assy|座框边板焊接分总成左
+V362C_Kombi|119|8|M0186||GB/T 13680-92  M10|metal|M10 凸焊螺母
+V362C_Kombi|120|8|M0197|3|The lower connection plate L|metal|座框边板左
+V362C_Kombi|121|7|M0228||The rivet|metal|边板铆钉
+V362C_Kombi|123|6|A2122||right side plate riveting  assy|assy|座框边板总成右
+V362C_Kombi|124|7|W21221||right side plate weld assy|assy|座框边板焊接分总成右
+V362C_Kombi|125|8|M0186||GB/T 13680-92  M10|metal|M10 凸焊螺母
+V362C_Kombi|126|8|M0198||The lower connection plate R|metal|座框边板右
+V362C_Kombi|127|7|M0228||The rivet|metal|边板铆钉
+V362C_Kombi|129|6|M0101||Cushion H tube|metal|
+V362C_Kombi|130|6|W3100||Reinforcing assy in middle|assy|座框加强板总成
+V362C_Kombi|131|7|M0246||Reinforce BRKT|metal|座框加强板连接板
+V362C_Kombi|132|7|M0249||Reinforce panel part|metal|座框加强板侧板
+V362C_Kombi|133|7|M0189||Pin for back latch|metal|靠背锁销
+V362C_Kombi|134|7|M0251|3|Reinforcing sheet metal in middle R|metal|座框加强板右
+V362C_Kombi|135|7|M0252|3|Reinforcing sheet metal in middle L|metal|座框加强板左
+V362C_Kombi|136|7|W2123||bracket and two nut weld assy|assy|座靠连接板总成
+V362C_Kombi|137|8|M0233|3|bracket|metal|座靠连接板
+V362C_Kombi|138|8|M0232||GB-T13680-92 M12|metal|M12凸焊螺母
+V362C_Kombi|140|6|M0175||Cushion front tube|metal|上座框前横管
+V362C_Kombi|141|6|M0201|3|INNER Strengthen  part L|metal|上座框内加强板左
+V362C_Kombi|142|6|M0202|3|INNER Strengthen  part R|metal|上座框内加强板右
+V362C_Kombi|144|4|W2110|5|BACK OF BOTTOM  ASSY|assy|座框后支撑总成
+V362C_Kombi|145|5|M0091||Bottom square tube|metal|座框后支撑主管
+V362C_Kombi|147|6|W2180||ASIDE REAR  LOCK  SUPPORT   ASSY|assy|后地锁侧安装支架焊接总成
+V362C_Kombi|148|7|M0085|3|connection  sheet metal for  lock  in  aside|metal|后地锁侧安装支架连接板
+V362C_Kombi|149|7|M0087|3|Rear lock support out L|metal|后地锁安装支架加强板左
+V362C_Kombi|150|7|M0075|2|Rear lock support R|metal|后地锁安装支架加强板右
+V362C_Kombi|151|6|M0247|2|Cushion BRKT|metal|座框后支撑侧支架
+V362C_Kombi|153|5|W2250|3|Rear middle safty latch fix  bracket frame|assy|后中间安全锁安装支架总成
+V362C_Kombi|154|6|M0105||connection  sheet metal for  lock in middle|metal|安全锁安装支架连接板
+V362C_Kombi|155|6|M0462||Rear middl esafety  lock support R assy|assy|安全锁安装支架加强板右螺母焊接总成
+V362C_Kombi|156|7|M0463|3|Rear middle safety lock support R|metal|安全锁安装支架加强板右
+V362C_Kombi|157|7|M0464||NUT  M10|metal|M10 螺钉
+V362C_Kombi|158|6|M0075|3|Rear middle safety  lock support L|metal|安全锁安装支架加强板左
+V362C_Kombi|160|5|W2150||MID buckle  Fixed bracket weld assy|assy|安全带下固定点安装支架总成
+V362C_Kombi|161|6|M0095|3|screened sheet metal|metal|安全带下固定点安装支架
+V362C_Kombi|162|6|M0181||QC-T-2004 6/17 -20UNF-2B ANSIB1.1|metal|7/16英寸凸焊螺母
+V362C_Kombi|164|5|W2210||RIGHT back  SUPPORT ASSY|assy|座框后支撑总成右
+V362C_Kombi|165|6|W2160||back  support weld assy|assy|座框后支撑分总成
+V362C_Kombi|166|7|M0115|2|Supporting plate|metal|座框后支撑支架
+V362C_Kombi|167|7|M0230||reinforcing plate|metal|座框后支撑加强板
+V362C_Kombi|168|6|W2125||Bracket at middle for fixation wood panel assy|assy|座框木板中间固定支架总成
+V362C_Kombi|169|7|M0259||Bracket at middle for fixation wood panel|metal|座框木板中间固定支架
+V362C_Kombi|170|7|M0008||GB-T13680-92 M6|metal|M6凸焊螺母
+V362C_Kombi|172|5|W2220||LEFT  back  SUPPORT ASSY|assy|座框后支撑总成左
+V362C_Kombi|173|6|W2160||back  support weld assy|assy|座框后支撑分总成
+V362C_Kombi|174|7|M0115||Supporting plate|metal|座框后支撑支架
+V362C_Kombi|175|7|M0230||reinforcing plate|metal|座框后支撑加强板
+V362C_Kombi|176|6|W2125||Bracket at middle for fixation wood panel assy|assy|座框木板中间固定支架总成
+V362C_Kombi|177|7|M0259||Bracket at middle for fixation wood panel|metal|座框木板中间固定支架
+V362C_Kombi|178|7|M0008||GB-T13680-92 M6|metal|M6凸焊螺母
+V362C_Kombi|179|5|W2461||hook storage|assy|存放支架底座焊接总成
+V362C_Kombi|180|6|M0454||Storage  bracket|metal|存放支架底座
+V362C_Kombi|181|6|M0455||Storage striker|metal|存放销
+V362C_Kombi|183|4|W1210||cushion front support  assy|assy|座框前支撑总成
+V362C_Kombi|184|5|M0302|3|middle support sheet|metel|前支撑撑板连接支架
+V362C_Kombi|185|5|M0304||middle support bracket|metel|前支撑撑板
+V362C_Kombi|186|5|W2130||Left Front lock fixed support weld assy|assy|前地锁安装支架总成左
+V362C_Kombi|187|6|M0437||bolt restain plate|metal|螺母限位板
+V362C_Kombi|188|6|M0061|3|Front lock fixed support  L|metal|前地锁安装支架
+V362C_Kombi|190|5|W2140||Right  Front lock fixed support weld assy|assy|前地锁安装支架总成右
+V362C_Kombi|191|6|M0437||bolt restain plate|metal|螺母限位板
+V362C_Kombi|192|6|M0439|3|Front lock fixed support  R|metal|前地锁安装支架
+V362C_Kombi|194|5|M0123||front horizontal pipe|metal|座框前支撑横管
+V362C_Kombi|195|5|W1240||Turn over to support assy|assy|翻转支架总成
+V362C_Kombi|196|6|M0254||Turn over to support|metal|翻转支架
+V362C_Kombi|197|6|M0256||sheet metal  for TUMBLE bracket  jiont|metal|翻转支架连接板
+V362C_Kombi|199|5|M0159||tube d（in front of the cushion ）|metal|座框前支撑立管
+V362C_Kombi|201|1|M0453||RR  floor  latch indicator|Plastic|后地锁指示器
+V362C_Kombi|202|1|M0077|4|lock B (RR floor latch)|metal|后地锁
+V362C_Kombi|203|1|M0465|3|REAR  middle safty latch|assy|后中安全地锁
+V362C_Kombi|204|1|M0466||M10*55 for REAR  middle safty latch|metal|M10*55后中安全锁螺钉
+V362C_Kombi|205|1|M0083|7|ASM Front lock A|metal|前地锁
+V362C_Kombi|206|1|M0177||M10*45×1.0 for front floor latch and rear latch|metal|M10*45×1.0地锁安装螺钉
+V362C_Kombi|211|1|M0265||self-tapping screw （ST4.2x9.5 HF）|metal|ST4.2x9.5 HF平头自攻螺钉
+V362C_Kombi|213|1|M0262|2|PLASTIC for  pivot|Plastic|转轴防噪音塑料
+V362C_Kombi|214|1|M0438||floor latch assemble nut|metal|地锁安装螺母
+V362C_Kombi|215|1|M0238||M6 self-locking bolt|Fasteners|解锁手柄安装螺栓
+V362C_Kombi|216|1|M0239|4|Unlock the  handle|Plastic|解锁手柄
+V362C_Kombi|217|1|M0451|5|Out side manifold ASSY with clip|assy|后地锁解锁拉线（长）总成
+V362C_Kombi|218|2|M0240|5|Out side manifold  ASSY|assy|后地锁解锁拉线（长）
+V362C_Kombi|219|2|M0267||plastic clip|Plastic|拉线固定扣
+V362C_Kombi|220|1|M0241|5|MID manifold  ASSY|assy|后地锁解锁拉线（短）
+V362C_Kombi|222|1|M0242||Torsional spring|metal|手柄弹簧
+V362C_Kombi|223|1|M0004||Label for ASM seat  frame||座框装配总成标签
+V362C_Kombi|227|1|M0409|4|hook bolt|metal|支撑臂安装螺钉
+V362C_Kombi|228|1|A2400|11|hook|assy|支撑臂
+V362C_Kombi|230|2|M0416|3|rivet D|metel|支撑臂安装支架铆钉
+V362C_Kombi|231|2|W2410|5|CONNECT bracket assy|ASSY|支撑臂安装支架总成
+V362C_Kombi|232|3|M0403|3|bracket B|metal|支撑臂安装支架
+V362C_Kombi|233|3|M0404|2|bracket  C|metal|支撑臂安装支架加强板
+V362C_Kombi|234|2|A2420|9|hook-110|ASSY|支撑臂分总成
+V362C_Kombi|236|4|M0456||storage unlock tape|tape|解锁拉带
+V362C_Kombi|237|4|A2480|6|storage plate with plastic|ASSY|储存锁钩包塑总成
+V362C_Kombi|238|5|M0457|6|storage plate|metal|储存锁钩
+V362C_Kombi|239|3|M0460||Spacer|metal|垫圈
+V362C_Kombi|240|3|M0458||spiral spring|metal|螺旋弹簧
+V362C_Kombi|241|3|A2440|6|hook-120|assy|支撑臂分总成主体
+V362C_Kombi|242|4|W2450|3|support tuble WELD ASSY|assy|支撑臂焊接总成
+V362C_Kombi|243|5|M0405||bracket  D|metal|支撑臂连接支架
+V362C_Kombi|244|5|M0406|2|support tuble for stowe|metal|支撑臂管
+V362C_Kombi|245|5|M0410|2|bushing|metal|支撑臂衬套
+V362C_Kombi|246|4|A2460|6|hook with plastic|assy|锁钩包塑总成
+V362C_Kombi|247|5|A2490|5|hook assy|assy|锁钩铆接总成
+V362C_Kombi|248|6|M0459|5|Rivet for hook|metal|锁钩铆钉
+V362C_Kombi|249|6|M0408||hook|metal|锁钩
+V362C_Kombi|250|4|M0412||rivet B for hook  connect|metal|锁钩包塑总成连接铆钉
+V362C_Flamingo|1|0|T0214||Single Flamingo  Assy||单人座骨架总成
+V362C_Flamingo|2|1|T1090||BACKREST FRAME||单人座靠背总成
+V362C_Flamingo|3|2|T0030||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|4|2|T0028||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|5|2|T0027||BRACKET_FOR_COVER||后背板固定支架
+V362C_Flamingo|6|2|T1091||WIRE||钢丝
+V362C_Flamingo|7|2|T0054||WIRE SHAPE||钢丝
+V362C_Flamingo|8|2|T0031||WIRE SHAPE||泡沫支撑钢丝
+V362C_Flamingo|9|2|T0036||WIRE||安全带导向钢丝
+V362C_Flamingo|10|2|T1093||WSA BACKFRAME||单人座靠背分总成
+V362C_Flamingo|11|3|T0038||WIRE SHAPE||钢丝
+V362C_Flamingo|12|3|T0013||BELT_GUIDE_BACK||安全带导向支架
+V362C_Flamingo|13|3|T0024||REINFORCEMENT BACKREST||靠背加强内板
+V362C_Flamingo|14|3|T0033||WIRE||靠背钢丝
+V362C_Flamingo|15|3|T0032||WIRE||靠背钢丝
+V362C_Flamingo|16|3|T0035||WIRE||靠背钢丝
+V362C_Flamingo|17|3|T0011||BRACKET D RING||安全带支撑支架
+V362C_Flamingo|18|3|T0025||GUIDE_HEADREST||头枕管
+V362C_Flamingo|19|3|T0019||RSA SIDE PIECE||靠背支架分总成
+V362C_Flamingo|20|4|T0018||RIVET||铆钉
+V362C_Flamingo|21|4|T0020||SEATBACK_SIDEFRAME||靠背支架
+V362C_Flamingo|22|3|T0015||TUBE_FRAME||靠背钢管
+V362C_Flamingo|23|3|T1094||WSA_SIDE_PIECE||靠背边板分总成
+V362C_Flamingo|24|4|T0044||L85                            A RECLINER BACKREST CATCH||调角器
+V362C_Flamingo|25|4|T0042||RECLINER_BACKREST_OUTER_PART||调角器支架
+V362C_Flamingo|26|4|T0022||SIDEPANEL_BACKREST||靠背边板
+V362C_Flamingo|27|1|T0219||WSA FRAME SEAT||单人座座骨架总成
+V362C_Flamingo|28|2|T0063||CUSHION PAN||坐盆
+V362C_Flamingo|29|2|T1096||WS/A FRAME SEAT||座骨架分总成
+V362C_Flamingo|30|3|T0084||WIRE_TRIM_FIXING||面套固定钢丝
+V362C_Flamingo|31|3|T0227||WIRE SHAPE||钢丝
+V362C_Flamingo|32|3|T0089||WIRE||钢丝
+V362C_Flamingo|33|3|T0221||WIRE||解锁拉带导向钢丝
+V362C_Flamingo|34|3|T0222||WIRE||解锁拉带导向钢丝
+V362C_Flamingo|35|3|T0225||TRIM WIRE||面套固定钢丝
+V362C_Flamingo|36|3|T0085||SUPPORT WIRE||泡沫支撑钢丝
+V362C_Flamingo|37|3|T0074||WIRE_TRIM_FIXING||面套固定钢丝
+V362C_Flamingo|38|3|T0069||WSA_BRACKET_SEATBELT||卷收器支架分总成
+V362C_Flamingo|39|4|T0071||BRACKET_SEATBELT||卷收器支架
+V362C_Flamingo|40|4|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|41|3|T1097||WSA_WIRE_TRIM_FIXING||面套固定钢丝分总成
+V362C_Flamingo|42|4|T0092||ADAPTER||支架
+V362C_Flamingo|43|4|T1099||WIRE_TRIM_FIXING||面套钢丝
+V362C_Flamingo|44|4|T0103T0104||WIRE_TRIM_FIXING||面套钢丝
+V362C_Flamingo|45|3|T1051||WSA_WIRE_TRIM_FIXING||面套固定钢丝分总成
+V362C_Flamingo|46|4|T0092||ADAPTER||支架
+V362C_Flamingo|47|4|T0098||DAPTER||面套钢丝
+V362C_Flamingo|48|3|T1052||WSA FRAME SEAT||座骨架分总成
+V362C_Flamingo|49|4|T0075||CUSHION TUBE||座骨架上横管
+V362C_Flamingo|50|4|T0065||BRACKET_TUBE||钢管支撑支架
+V362C_Flamingo|51|4|T0083||CARRIER||支架
+V362C_Flamingo|52|4|T0067||BRACKET_TUBE||钢管支撑支架
+V362C_Flamingo|53|4|T0064||CROSS_TUBE||座骨架后下横管
+V362C_Flamingo|54|4|T1053||WSA CROSS TUBE||座骨架前横管分总成
+V362C_Flamingo|55|5|T0091||PA  CUSHION PAN SUPPORT||坐盆支撑支架
+V362C_Flamingo|56|5|T0088||CROSS_TUBE||座骨架前横管
+V362C_Flamingo|57|4|T0058||WSA SIDE PIECE||座骨架边板分总成
+V362C_Flamingo|58|5|T0196||WIRE||钢丝
+V362C_Flamingo|59|5|T0195||REINFORCEMENT_SIDE_PIECE||边板加强支架
+V362C_Flamingo|60|5|T0062||STUD WELD||焊接螺栓
+V362C_Flamingo|61|5|T1054||WSA SIDE PIECE||边板分总成
+V362C_Flamingo|63|6|T0060||SIDE PIECE||边板
+V362C_Flamingo|64|4|T1055||WSA BRACKET U FOAM||座骨架支架分总成
+V362C_Flamingo|65|5|T0134||STUD WELD||焊接螺栓
+V362C_Flamingo|66|5|T0128||BRACKET TUBE||座骨架支架
+V362C_Flamingo|67|4|T1056||WSA BRACKET U FOAM||座骨架支架分总成
+V362C_Flamingo|68|5|T0134||STUD WELD||焊接螺栓
+V362C_Flamingo|69|5|T0128||BRACKET TUBE||座骨架支架
+V362C_Flamingo|70|4|T0223||WSA CROSS TUBE||座骨架横管分总成
+V362C_Flamingo|71|5|T1058||WSA BRACKET||气动撑杆支架分总成
+V362C_Flamingo|72|6|T0192||BRACKET BEARING||托架轴承
+V362C_Flamingo|73|6|T0082||BRACKET_LEVER||气动撑杆支架
+V362C_Flamingo|74|5|T0078||WSA BRACKET LEVER||地脚解锁支架
+V362C_Flamingo|75|6|T0080||WELD_NUT_M6||M6焊接螺母
+V362C_Flamingo|76|6|T0079||BRACKET LEVER||地脚解锁支架
+V362C_Flamingo|77|5|T0064||CROSS_TUBE||座骨架横管
+V362C_Flamingo|78|5|T0064||CROSS_TUBE||座骨架横管（打扁）
+V362C_Flamingo|79|4|T0212||WSA SIDE PIECE||座骨架外边板分总成
+V362C_Flamingo|80|5|T0118||BRACKET_FOR_COVER||面套固定支架
+V362C_Flamingo|81|5|T0117||REINFORCEMENT SIDE PIECE||边板内加强板
+V362C_Flamingo|82|5|T0224||WAS SIDE PIECE||外边板分总成
+V362C_Flamingo|83|6|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|84|6|T1063||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|85|6|T0115||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|86|6|T0114||SIDEPANEL OUTBOARD||外边板
+V362C_Flamingo|87|1|T1064||WAS FOOT SEAT||单人座前地脚总成
+V362C_Flamingo|88|2|T1127||BRACKET_SUPPORT ASSY||地脚支架分总成
+V362C_Flamingo|89|3|T1111||single seat upper bracket||上支架
+V362C_Flamingo|90|3|T0186||BRACKET_SUPPORT||上支架支撑支架
+V362C_Flamingo|91|2|T0187||CROSS_TUBE_WELD ASSY||前地脚下横管分总成
+V362C_Flamingo|92|3|T0188||CROSS_TUBE||前地脚下横管
+V362C_Flamingo|93|3|T9001||valance support wire for single||单人座前护盖钢丝
+V362C_Flamingo|94|3|T1066||WSA BRACKET||气动撑杆支架分总成
+V362C_Flamingo|95|4|T0192||BRACKET BEARING||托架轴承
+V362C_Flamingo|96|4|T0189||BRACKET LEVER||气动撑杆支架
+V362C_Flamingo|97|2|T1067||WSA FOOT SEAT-LH||前地脚分总成-左
+V362C_Flamingo|98|3|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|99|3|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|100|3|T0168||PLATE REINFORCEMENT||地脚板
+V362C_Flamingo|101|3|T0165||REINFORCEMENT||地脚加强板
+V362C_Flamingo|102|3|T0157||REINFORCEMENT||地脚加强件
+V362C_Flamingo|103|3|T0163||WSA FOOT SEAT||前地脚
+V362C_Flamingo|104|4|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|105|4|T0164||FOOT_SEAT||地脚
+V362C_Flamingo|106|2|T1068||WSA FOOT SEAT-RH||前地脚分总成-RH
+V362C_Flamingo|107|3|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|108|3|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|109|3|T0168||PLATE REINFORCEMENT||地脚板
+V362C_Flamingo|110|3|T0156||REINFORCEMENT||地脚加强板
+V362C_Flamingo|111|3|T0166||REINFORCEMENT||地脚加强件
+V362C_Flamingo|112|3|T0151||WSA FOOT SEAT||前地脚
+V362C_Flamingo|113|4|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|114|4|T0152||FOOT_SEAT||地脚
+V362C_Flamingo|115|1|T0172||WAS FOOT SEAT||后地脚总成
+V362C_Flamingo|116|2|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|117|2|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|118|2|T0173||WSA FOOT SEAT||后地脚分总成
+V362C_Flamingo|119|3|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|120|3|T0174||FOOT_SEAT||后地脚
+V362C_Flamingo|121|1|T1069||WSA ROD—LH||地脚支撑杆总成
+V362C_Flamingo|122|2|T0183||WIRE SHAPE||钢丝
+V362C_Flamingo|123|2|T1070||PA ROD||地脚支撑杆分总成
+V362C_Flamingo|124|3|T0184||STUD_KNURL||螺栓
+V362C_Flamingo|125|3|T0182||STRUT||地脚支撑杆
+V362C_Flamingo|126|1|T0177||WAS FOOT SEAT||后地脚总成
+V362C_Flamingo|127|2|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|128|2|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|129|2|T0178||WSA FOOT SEAT||后地脚分总成
+V362C_Flamingo|130|3|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|131|3|T0179||FOOT_SEAT||后地脚
+V362C_Flamingo|132|1|T1071||WSA ROD—RH||地脚支撑杆总成
+V362C_Flamingo|133|2|T0183||WIRE SHAPE||钢丝
+V362C_Flamingo|134|2|T1070||PA ROD||地脚支撑杆分总成
+V362C_Flamingo|135|3|T0184||STUD_KNURL||螺栓
+V362C_Flamingo|136|3|T0182||STRUT||地脚支撑杆
+V362C_Flamingo|137|1|T1050||Label||标签
+V362C_Flamingo|138|1|T0004||BUSHING_CLIP||衬套
+V362C_Flamingo|139|1|T0005||LOCKNUT_FLANGE M8||M8螺母
+V362C_Flamingo|140|1|T0006||SPRING_SPIRAL||卷簧
+V362C_Flamingo|141|1|T0007||SCREW M10||M10螺栓
+V362C_Flamingo|142|1|T0203||STICKER||粘贴
+V362C_Flamingo|145|1|T0209||WASHER||垫圈
+V362C_Flamingo|146|1|T0140||HOOK_PLASTIC||挂钩
+V362C_Flamingo|147|2|T0131||LOCKING LEVER||挂钩
+V362C_Flamingo|148|1|T0132||HOOK_PLASTIC||挂钩
+V362C_Flamingo|149|2|T0139||LOCKING LEVER||挂钩
+V362C_Flamingo|150|1|T0133||SPRING_1||绞簧
+V362C_Flamingo|151|1|T0141||SPRING_2||绞簧
+V362C_Flamingo|152|1|T0143||BOLT||螺栓
+V362C_Flamingo|153|1|T0144||LOCKNUT_FLANGE M10||M10螺母
+V362C_Flamingo|154|1|T0145||BUCHSE_LAGER||轴套
+V362C_Flamingo|156|1|T0158||FLOOR_LATCH_FRONT_1-RH||前地锁-右
+V362C_Flamingo|157|1|T0167||FLOOR_LATCH_FRONT_1-LH||前地锁-左
+V362C_Flamingo|158|1|T0169||COVER||地脚盖
+V362C_Flamingo|159|1|T0170||SCREW||螺栓
+V362C_Flamingo|160|1|T0175||FLOOR_LATCH_REAR_STRAP-RH||后地锁-右
+V362C_Flamingo|161|1|T0180||FFLOOR_LATCH_REAR_STRAP-LH||后地锁-左
+V362C_Flamingo|162|1|T0159||SCREW||螺栓
+V362C_Flamingo|163|1|T0185||BUCHSE_LAGER||轴套
+V362C_Flamingo|164|1|T0191||GASDAMPER||气动撑杆
+V362C_Flamingo|166|1|T0193||SPACER||塑料卡子
+V362C_Flamingo|167|0|T0230||Dual Flamingo FRAME ASSY||双人座骨架总成
+V362C_Flamingo|168|1|T1072||MA BACKFRAME||双人座右靠背总成
+V362C_Flamingo|169|2|T0201||SPRING||绞簧
+V362C_Flamingo|170|2|T0200||WASHER_PLASTIC||轴套
+V362C_Flamingo|171|2|T0266||SCREW||螺钉
+V362C_Flamingo|172|2|T0267||WASHER||垫片
+V362C_Flamingo|173|2|T0268||BUSHING_DISTANCE||套筒
+V362C_Flamingo|174|2|T0256||LEVER_RELEASE||解锁拉带
+V362C_Flamingo|179|2|T1074||WSA BACKFRAME||双人座右靠背分总成
+V362C_Flamingo|180|3|T0218||BRACKET||支架
+V362C_Flamingo|181|3|T0029||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|182|3|T0028||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|183|3|T0027||BRACKET_FOR_COVER||后背板固定支架
+V362C_Flamingo|184|3|T0053||WIRE SHAPE||钢丝
+V362C_Flamingo|185|3|T0031||WIRE SHAPE||泡沫支撑钢丝
+V362C_Flamingo|186|3|T0265||LOOP TOP TETHER||儿童座椅上固定支架
+V362C_Flamingo|187|3|T1075||WSA BACKFRAME||双人座右靠背分总成
+V362C_Flamingo|188|4|T0217||WIRE||钢丝
+V362C_Flamingo|189|4|T0037||WIRE||钢丝
+V362C_Flamingo|190|4|T0012||BELT_GUIDE_BACK||安全带导向支架
+V362C_Flamingo|191|4|T0023||SIDEPANEL_BACKREST_3||靠背加强内板
+V362C_Flamingo|192|4|T0033||WIRE SHAPE||靠背钢丝
+V362C_Flamingo|193|4|T0032||WIRE SHAPE||靠背钢丝
+V362C_Flamingo|194|4|T0034||WIRE||靠背钢丝
+V362C_Flamingo|195|4|T0010||BELT_GUIDE_FR||安全带支撑支架
+V362C_Flamingo|196|4|T0025||HEADREST GUIDENCE||头枕管
+V362C_Flamingo|197|4|T0016||RS/ASIDEPANEL BACKREST||靠背支架分总成
+V362C_Flamingo|198|5|T0018||RIVET||铆钉
+V362C_Flamingo|199|5|T0017||SIDEPANEL_BACKREST||靠背支架
+V362C_Flamingo|200|4|T0014||TUBE_BACKREST||靠背钢管
+V362C_Flamingo|201|4|T1076||SIDE PANEL BACKREST||靠背边板分总成
+V362C_Flamingo|202|5|T0043||L85                            A RECLINER BACKREST CATCH||调角器
+V362C_Flamingo|203|5|T0041||RECLINER BACKREST OUTER PART||调角器支架
+V362C_Flamingo|204|5|T0021||SIDEPANEL_BACKREST||靠背边板
+V362C_Flamingo|205|1|T1077||MA BACKFRAME||双人座左靠背总成
+V362C_Flamingo|206|2|T0029||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|207|2|T0028||BRACKET BELT GUIDE||安全带导向支架
+V362C_Flamingo|208|2|T0027||BRACKET_FOR_COVER||后背板固定支架
+V362C_Flamingo|209|2|T1092||WIRE||钢丝
+V362C_Flamingo|210|2|T0053||WIRE SHAPE||钢丝
+V362C_Flamingo|211|2|T0031||WIRE SHAPE||泡沫支撑钢丝
+V362C_Flamingo|212|2|T0036||WIRE||安全带导向钢丝
+V362C_Flamingo|213|2|T1078||WSA BACKFRAME||双人座左靠背分总成
+V362C_Flamingo|214|3|T0037||WIRE||钢丝
+V362C_Flamingo|215|3|T0012||BELT_GUIDE_BACK||安全带导向支架
+V362C_Flamingo|216|3|T0023||SIDEPANEL_BACKREST_3||靠背加强内板
+V362C_Flamingo|217|3|T0033||WIRE SHAPE||靠背钢丝
+V362C_Flamingo|218|3|T0032||WIRE SHAPE||靠背钢丝
+V362C_Flamingo|219|3|T0034||WIRE||靠背钢丝
+V362C_Flamingo|220|3|T0010||BELT_GUIDE_FR||安全带支撑支架
+V362C_Flamingo|221|3|T0025||HEADREST GUIDENCE||头枕管
+V362C_Flamingo|222|3|T0016||RS/ASIDEPANEL BACKREST||靠背支架分总成
+V362C_Flamingo|223|4|T0018||RIVET||铆钉
+V362C_Flamingo|224|4|T0017||SIDEPANEL_BACKREST||靠背支架
+V362C_Flamingo|225|3|T0014||TUBE_BACKREST||靠背钢管
+V362C_Flamingo|226|3|T1076||SIDE PANEL BACKREST||靠背边板分总成
+V362C_Flamingo|227|4|T0043||L85                            A RECLINER BACKREST CATCH||调角器
+V362C_Flamingo|228|4|T0041||RECLINER BACKREST OUTER PART||调角器支架
+V362C_Flamingo|229|4|T0021||SIDEPANEL_BACKREST||靠背边板
+V362C_Flamingo|230|1|T0233||WSA FRAME SEAT||双人座座骨架总成
+V362C_Flamingo|231|2|T0236||CUSHION PAN SUPPORT||坐盆支撑支架
+V362C_Flamingo|232|2|T0063||CUSHION PAN||坐盆
+V362C_Flamingo|233|2|T1080||WSA FRAME SEAT||双人座骨架分总成
+V362C_Flamingo|234|3|T0227||WIRE||钢丝
+V362C_Flamingo|235|3|T0254||WIRE||钢丝
+V362C_Flamingo|236|3|T0248||WIRE||钢丝
+V362C_Flamingo|237|3|T0221||WIRE SHAPE||解锁拉带导向钢丝
+V362C_Flamingo|238|3|T0222||WIRE SHAPE||解锁拉带导向钢丝
+V362C_Flamingo|239|3|T0225||WIRE||面套固定钢丝
+V362C_Flamingo|240|3|T0244||WIRE||面套固定钢丝
+V362C_Flamingo|241|3|T0085||WIRE||泡沫支撑钢丝
+V362C_Flamingo|242|3|T0084||WIRE_TRIM_FIXING||面套固定钢丝
+V362C_Flamingo|243|3|T1098||WSA WIRE TRIM FIXING||面套固定钢丝分总成
+V362C_Flamingo|244|4|T0092||ADAPTER||支架
+V362C_Flamingo|245|4|T2001||TRIM WIRE_4||面套钢丝
+V362C_Flamingo|246|4|T0103||TRIM WIRE_6||面套钢丝
+V362C_Flamingo|247|3|T1081||WSA WIRE TRIM FIXING||面套固定钢丝分总成
+V362C_Flamingo|248|4|T0092||ADAPTER||支架
+V362C_Flamingo|249|4|T0097||TRIM WIRE_3||面套钢丝
+V362C_Flamingo|250|3|T0234||RSA BRACKET||靠背支架分总成
+V362C_Flamingo|251|4|T0062||RIVET PEEL||焊接螺栓
+V362C_Flamingo|252|4|T0235||BRACKET||靠背支架
+V362C_Flamingo|253|3|T0068||WSA BRACKET_SEATBELT  ASSY||卷收器支架分总成
+V362C_Flamingo|254|4|T0070||BRACKET_SEATBELT||卷收器支架
+V362C_Flamingo|255|4|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|256|3|T1082||WSA FRAME SEAT||双人座骨架分总成
+V362C_Flamingo|257|4|T0065||BRACKET TUBE||钢管支撑支架
+V362C_Flamingo|258|4|T0083||BRACKET_TUBE||支架
+V362C_Flamingo|259|4|T0243||REINFORCEMENT_TUBEFRAME||支架
+V362C_Flamingo|260|4|T0067||BRACKET_TUBE||钢管支撑支架
+V362C_Flamingo|261|4|T0066||BRACKET_TUBE||钢管支撑支架
+V362C_Flamingo|262|4|T1083||WSA CROSS TUBE||座骨架前横管分总成
+V362C_Flamingo|263|5|T0091||PA  CUSHION PAN SUPPORT||坐盆支撑支架
+V362C_Flamingo|264|5|T1084||WSA CROSS TUBE||前横管分总成
+V362C_Flamingo|265|6|T0253||CROSS_TUBE||前横管
+V362C_Flamingo|266|6|T2000||CROSS_TUBE||前横管
+V362C_Flamingo|267|4|T1060||WSA SIDE PIECE||座骨架外边板分总成
+V362C_Flamingo|268|5|T0250||BRACKET_TUBE||横管支架
+V362C_Flamingo|269|5|T0116||REINFORCEMENT SIDE PIECE||边板内加强板
+V362C_Flamingo|270|5|T0111||WAS SIDE PIECE||外边板分总成
+V362C_Flamingo|271|6|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|272|6|T1063||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|273|6|T0115||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|274|6|T0113||SIDEPANEL OUTBOARD||外边板
+V362C_Flamingo|275|4|T1055||WSA BRACKET U FOAM||座骨架支架分总成
+V362C_Flamingo|276|5|T0134||STUD WELD||焊接螺栓
+V362C_Flamingo|277|5|T0128||BRACKET TUBE||座骨架支架
+V362C_Flamingo|278|4|T1056||WSA BRACKET U FOAM||座骨架支架分总成
+V362C_Flamingo|279|5|T0134||STUD WELD||焊接螺栓
+V362C_Flamingo|280|5|T0128||BRACKET TUBE||座骨架支架
+V362C_Flamingo|281|4|T0237||WSA SIDE PIECE||座骨架外边板分总成
+V362C_Flamingo|282|5|T0118||BRACKET_FOR_COVER||面套固定支架
+V362C_Flamingo|283|5|T0116||REINFORCEMENT SIDE PIECE||边板内加强板
+V362C_Flamingo|284|5|T0111||WAS SIDE PIECE||外边板分总成
+V362C_Flamingo|285|6|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|286|6|T1063||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|287|6|T0115||NUT FLANGE WELDING M10||M10焊接螺母
+V362C_Flamingo|288|6|T0113||SIDEPANEL OUTBOARD||外边板
+V362C_Flamingo|289|4|T1085||WSA CROSS TUBE||座骨架横管分总成
+V362C_Flamingo|290|5|T0082||BRACKET_LEVER||拉簧支架
+V362C_Flamingo|291|5|T0081||FOOT_SEAT||拉簧支架
+V362C_Flamingo|292|5|T1058||WSA BRACKET||气动撑杆支架分总成
+V362C_Flamingo|293|6|T0192||BRACKET BEARING||托架轴承
+V362C_Flamingo|294|6|T0082||BRACKET_LEVER||气动撑杆支架
+V362C_Flamingo|295|5|T0078||WSA BRACKET LEVER||地脚解锁支架分总成
+V362C_Flamingo|296|6|T0080||WELD_NUT_M6||M6焊接螺母
+V362C_Flamingo|297|6|T0079||BRACKET LEVER||地脚解锁支架
+V362C_Flamingo|299|4|T1086||WSA CROSS TUBE||座骨架后下横管分总成
+V362C_Flamingo|300|5|T0241||WSA BRACKET SEATBELT BUCKLE||安全带固定点支架分总成
+V362C_Flamingo|301|6|T0242||BRACKET_SEATBELT_BUCKLE||安全带固定点支架
+V362C_Flamingo|302|6|T0072T0000||WELD_NUT_M12||M12焊接螺母
+V362C_Flamingo|303|5|T0240||CROSS_TUBE||座骨架后下横管
+V362C_Flamingo|304|4|T0057||WSA SIDE PIECE||座骨架边板分总成
+V362C_Flamingo|305|5|T0196||WIRE||钢丝
+V362C_Flamingo|306|5|T0195||REINFORCEMENT_SIDE_PIECE||边板加强支架
+V362C_Flamingo|307|5|T0062||STUD WELD||焊接螺栓
+V362C_Flamingo|308|5|T1087||WSA SIDE PIECE||边板分总成
+V362C_Flamingo|309|6|T0072||WELD_NUT_M10||M10焊接螺母
+V362C_Flamingo|311|6|T0059||SIDE PIECE||边板
+V362C_Flamingo|312|4|T0245||WSA CROSS TUBE||座骨架上横管分总成
+V362C_Flamingo|313|5|T0247||WIRE ISOFIX||儿童安全座椅固定点
+V362C_Flamingo|314|5|T0246||CUSHION TUBE||座骨架上横管
+V362C_Flamingo|315|1|T1089||WAS FOOT SEAT||双人座前地脚总成
+V362C_Flamingo|316|2|T1129||BRACKET_SUPPORT ASSY RH||右支架分总成
+V362C_Flamingo|317|3|T1113||dual seat upper bracket||上支架
+V362C_Flamingo|318|3|T0186||BRACKET_SUPPORT||上支架支撑支架
+V362C_Flamingo|319|2|T1130||BRACKET_SUPPORT ASSY LH||左支架分总成
+V362C_Flamingo|320|3|T1113||dual seat upper bracket||上支架
+V362C_Flamingo|321|3|T0186||BRACKET_SUPPORT||上支架支撑支架
+V362C_Flamingo|322|2|T0258||CROSS_TUBE_WELD ASSY||前地脚下横管分总成
+V362C_Flamingo|323|3|T0259||CROSS_TUBE||前地脚下横管
+V362C_Flamingo|324|3|T9002||valance support long wire for dual||双人座前护盖钢丝
+V362C_Flamingo|325|3|T9003||valance support short wire for dual||双人座前护盖钢丝
+V362C_Flamingo|326|3|T1066||WSA BRACKET||气动撑杆支架分总成
+V362C_Flamingo|327|4|T0192||BRACKET BEARING||托架轴承
+V362C_Flamingo|328|4|T0189||BRACKET LEVER||气动撑杆支架
+V362C_Flamingo|329|2|T1067||WSA FOOT SEAT-LH||前地脚分总成-左
+V362C_Flamingo|330|3|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|331|3|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|332|3|T0168||PLATE REINFORCEMENT||地脚板
+V362C_Flamingo|333|3|T0165||REINFORCEMENT||地脚加强板
+V362C_Flamingo|334|3|T0157||REINFORCEMENT||地脚加强件
+V362C_Flamingo|335|3|T0163||WSA FOOT SEAT||前地脚
+V362C_Flamingo|336|4|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|337|4|T0164||FOOT_SEAT||地脚
+V362C_Flamingo|338|2|T1068||WSA FOOT SEAT-RH||前地脚分总成-右
+V362C_Flamingo|339|3|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|340|3|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|341|3|T0168||PLATE REINFORCEMENT||地脚板
+V362C_Flamingo|342|3|T0156||REINFORCEMENT||地脚加强板
+V362C_Flamingo|343|3|T0166||REINFORCEMENT||地脚加强件
+V362C_Flamingo|344|3|T0151||WSA FOOT SEAT||前地脚
+V362C_Flamingo|345|4|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|346|4|T0152||FOOT_SEAT||地脚
+V362C_Flamingo|347|1|T0172||WAS FOOT SEAT||后地脚总成
+V362C_Flamingo|348|2|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|349|2|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|350|2|T0173||WSA FOOT SEAT||后地脚分总成
+V362C_Flamingo|351|3|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|352|3|T0174||FOOT_SEAT||后地脚
+V362C_Flamingo|353|1|T1071||WSA ROD—RH||地脚支撑杆总成
+V362C_Flamingo|354|2|T0183||WIRE SHAPE||钢丝
+V362C_Flamingo|355|2|T1070||PA ROD||地脚支撑杆分总成
+V362C_Flamingo|356|3|T0184||STUD_KNURL||螺栓
+V362C_Flamingo|357|3|T0182||STRUT||地脚支撑杆
+V362C_Flamingo|358|1|T0177||WAS FOOT SEAT||后地脚总成
+V362C_Flamingo|359|2|T0154||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|360|2|T0155||SLEEVE_BEARING||地脚套筒
+V362C_Flamingo|361|2|T0178||WSA FOOT SEAT||后地脚分总成
+V362C_Flamingo|362|3|T0153||BUSHING_WELD||焊接套管
+V362C_Flamingo|363|3|T0179||FOOT_SEAT||后地脚
+V362C_Flamingo|364|1|T1040||WSA ROD-LH||地脚支撑杆总成
+V362C_Flamingo|365|2|T0270||BOLT||螺栓
+V362C_Flamingo|366|2|T1069||WSA ROD-LH||地脚支撑杆分总成
+V362C_Flamingo|367|3|T0183||WIRE SHAPE||钢丝
+V362C_Flamingo|368|3|T1070||PA ROD||地脚支撑杆分总成
+V362C_Flamingo|369|4|T0184||STUD_KNURL||螺栓
+V362C_Flamingo|370|4|T0182||STRUT||地脚支撑杆
+V362C_Flamingo|371|1|T1010||Label||标签
+V362C_Flamingo|372|1|T0004||BUSHING_CLIP||衬套
+V362C_Flamingo|373|1|T0005||LOCKNUT_FLANGE M8||M8螺母
+V362C_Flamingo|374|1|T0006||SPRING_SPIRAL||卷簧
+V362C_Flamingo|375|1|T0007||SCREW M10||M10螺栓
+V362C_Flamingo|376|1|T0140||HOOK_PLASTIC||挂钩
+V362C_Flamingo|377|2|T0131||LOCKING LEVER||挂钩
+V362C_Flamingo|378|1|T0132||HOOK_PLASTIC||挂钩
+V362C_Flamingo|379|2|T0139||LOCKING LEVER||挂钩
+V362C_Flamingo|380|1|T0133||SPRING_1||绞簧
+V362C_Flamingo|381|1|T0141||SPRING_2||绞簧
+V362C_Flamingo|382|1|T0143||BOLT||螺栓
+V362C_Flamingo|383|1|T0144||LOCKNUT_FLANGE M10||M10螺母
+V362C_Flamingo|384|1|T0145||BUCHSE_LAGER||轴套
+V362C_Flamingo|386|1|T0158||FLOOR_LATCH_FRONT_1-RH||前地锁-右
+V362C_Flamingo|387|1|T0167||FLOOR_LATCH_FRONT_1-LH||前地锁-左
+V362C_Flamingo|388|1|T0169||COVER||地脚盖
+V362C_Flamingo|389|1|T0170||SCREW||螺栓
+V362C_Flamingo|390|1|T0175||FLOOR_LATCH_REAR_STRAP-RH||后地锁-右
+V362C_Flamingo|391|1|T0180||FLOOR_LATCH_REAR_STRAP-LH||后地锁-左
+V362C_Flamingo|392|1|T0159||SCREW||螺栓
+V362C_Flamingo|393|1|T0257||SLEEVE_BEARING||轴套
+V362C_Flamingo|394|1|T0185||BUCHSE_LAGER||轴套
+V362C_Flamingo|395|1|T0261||GASDAMPER FOR DUAL||气动撑杆
+V362C_Flamingo|396|1|T0262||SPRING_TENSION||拉簧
+V362C_Flamingo|397|1|T0263||WASHER_RETAINING_STAR||垫片
+V362C_Flamingo|398|1|T0264||PIN_CYLINDER_WITH_HEAD||螺钉
+V362C_Flamingo|399|1|T0193||SPACER||塑料卡子
+V362C_Flamingo|400|1|T0203||STICKER||粘贴
+V362C_Flamingo|403|1|T0209||WASHER||垫圈
+V362C_Flamingo|405|1|T0269||BINDER||扎带
+V362_DualCo|1|99|DP-0000||DUAL PASSENGER WELDING ASSY||骨架焊接总成
+V362_DualCo|2|1|DP-0075||BACKFRAME TOTAL WELDING ASSY||靠背焊接总成
+V362_DualCo|3|2|DP-0079||BACKFRAME WELDING ASSY||靠背框架焊接总成
+V362_DualCo|4|3|DP-0092||MOUNTING BRACKET  LH ASSY||靠背左边板焊接总成
+V362_DualCo|5|4|DP-0093||MOUNTING BRACKET LH||靠背左边板
+V362_DualCo|6|4|DP-0116||MOUNTING BRKT WELDING NUT||靠背边板焊接螺母
+V362_DualCo|7|3|DP-0126||SIDEMEMBER BRKT MIDDLE ASSY||靠背中间板焊接总成
+V362_DualCo|8|4|DP-0127||SIDEMEMBER BRKT MIDDLE LH||靠背中间板左
+V362_DualCo|9|4|DP-0128||SIDEMEMBER BRKT MIDDLE RH||靠背中间板右
+V362_DualCo|10|3|DP-0089||MOUNTING BRKT RH ASSY||靠背右边板焊接总成
+V362_DualCo|11|4|DP-0090||MOUNTING BRET RH||靠背右边板
+V362_DualCo|12|4|DP-0116||MOUNTING BRKT WELDING NUT||靠背边板焊接螺母
+V362_DualCo|13|3|DP-0082||TUBE FRAME||靠背管框
+V362_DualCo|14|3|DP-0095||LOWER TUBE||靠背横管
+V362_DualCo|15|3|DP-0214||BACK U WIRE LH||靠背U型钢丝左
+V362_DualCo|16|3|DP-0217||BACK U WIRE RH||靠背U型钢丝右
+V362_DualCo|18|2|DP-0087||SUP WIRE UPPER LH||靠背左上钢丝
+V362_DualCo|19|2|DP-0213||BACK SUP WIRE MIDDLE LH||靠背左中钢丝
+V362_DualCo|20|2|DP-0088||SUP WIRE LOWER LH||靠背左下钢丝
+V362_DualCo|21|2|DP-0085||SUP WIRE UPPER RH||靠背右上钢丝
+V362_DualCo|22|2|DP-0216||SUP WIRE MIDDLE RH||靠背右中钢丝
+V362_DualCo|23|2|DP-0130||SUP WIRE LOWER RH||靠背右下钢丝
+V362_DualCo|24|2|DP-0084||SIDE SUP WIRE LH||靠背左边板钢丝
+V362_DualCo|25|2|DP-0083||SIDE SUP WIRE RH||靠背右边板钢丝
+V362_DualCo|26|2|DP-0096||BELT GUIDE WIRE||靠背安全带导向钢丝
+V362_DualCo|27|2|DP-0133||BELT BRKT||靠背安全导向板固定支架
+V362_DualCo|28|2|DP-0076||EXIT POINT BRKT ASSY||安全带出口焊接总成
+V362_DualCo|29|3|DP-0078||BELT REAR  EXIT BRACKET||安全带出口后板
+V362_DualCo|30|3|DP-0077||BELT FRONT  EXIT BCKT||安全带出口前板
+V362_DualCo|31|1|DP-0001||CUSH FRAME ASSY||座骨架总成
+V362_DualCo|32|2|DP-0061||LEVEL  ASSY  RH||靠背调节机械装置
+V362_DualCo|33|2|DP-0235||CUSH FRAME TOTAL WELDING ASSY||座骨架焊接总成
+V362_DualCo|34|3|DP-0236||CUSH FRAME ARC WELDING ASSY||座框焊接总成
+V362_DualCo|35|4|DP-0114||CUSH SUP TUBE MID OB||下座框中间斜撑管
+V362_DualCo|36|4|DP-0237||CUSH UPPER STRUCTURE ASSY||上座框焊接总成
+V362_DualCo|37|5|DP-0043||REIN  BRKT OB||座框外侧边板加强板
+V362_DualCo|38|5|DP-0044||REIN  BRKT IB||座框内侧边板加强板
+V362_DualCo|39|5|DP-0057||CUSH FR LOWER TUBE||上座框前管-下
+V362_DualCo|40|5|DP-0056||CUSH FR UPPER TUBE||上座框前管-上
+V362_DualCo|41|5|DP-0243||CUSH SIDEMEM BER OB TOTAL ASSY||上座框外侧边板焊接总成
+V362_DualCo|42|6|DP-0045||CUSH SIDEMEMBER OB  ASSY||上座框外侧边板焊接组件
+V362_DualCo|43|7|DP-0047||CUSH SIDEMEMBER OB||上座框外侧边板
+V362_DualCo|44|7|DP-0048||SCREW  FOR SIDE MOUNTING LH||上座框外侧安全带固定焊接螺母
+V362_DualCo|45|7|DP-0115||SCREW FOR SIDE MOUNTING RH||上座框边板焊接螺母
+V362_DualCo|46|6|DP-0209||CUSH SIDE TRIM SUP WIRE RH OB||上座框外侧边板面套支撑钢丝
+V362_DualCo|47|6|DP-0050||CABLE MACHINE BRKT||靠背调节机械装置安装支架
+V362_DualCo|48|6|DP-0263||BRKT BELT ATTACHMNET OB||座框外侧安全带固定加强支架
+V362_DualCo|49|5|DP-0241||CUSH SIDEMEMBER IB TOTAL ASSY||上座框内侧边板焊接总成
+V362_DualCo|50|6|DP-0052||CUSH SIDEMEMBER IB  ASSY||上座框内侧边板焊接组件
+V362_DualCo|51|7|DP-0054||CUSH SIDEMEMBER IB||上座框内侧边板
+V362_DualCo|52|7|DP-0252||LONG SCREW  FOR SIDE MOUNTING||上座框内侧安全带固定焊接螺母
+V362_DualCo|53|7|DP-0115||SCREW FOR SIDE MOUNTING RH||上座框边板焊接螺母
+V362_DualCo|54|6|DP-0055||BRKT BELT ATTACHMNET IB||座框内侧安全带固定加强支架
+V362_DualCo|55|5|DP-0030||RE TUBE||上座框后横管
+V362_DualCo|57|6|DP-0265||RECLINER SUB ASSY||调角器分总成
+V362_DualCo|58|7|DP-0122||RECLINER LOWER BKT||调角器下连接板
+V362_DualCo|59|7|DP-0119||RECLINER UPPER BKT ASSY||调角器上连接板组件
+V362_DualCo|60|8|DP-0120||RECLINER UPPER BKT||调角器上连接板
+V362_DualCo|61|8|DP-0121||GB_T 13680-92 M10||调角器上连接板焊接螺母
+V362_DualCo|62|7|DP-0102||CRH L85||L85调角器
+V362_DualCo|63|7|DP-0266||CENTER STOP BRKT||调教器中间挡点
+V362_DualCo|65|6|DP-0251||RELEASE SPRING OUTBOARD||解锁回力弹簧
+V362_DualCo|66|6|DP-0256||RELEASE BRKT ASSY||调节器解锁支架焊接总成
+V362_DualCo|67|7|DP-0071||RELEASE BRKT||调角器解锁支架
+V362_DualCo|68|7|DP-0255||CUSH RECLINER CABLE PIN||调角器解锁固定点
+V362_DualCo|69|6|DP-0124||CABLE RELEASE BRKT ASSY||调角器解锁装置挂点支架焊接总成
+V362_DualCo|70|7|DP-0104||CABLE HOLDER||调角器解锁装置挂点固定支架
+V362_DualCo|71|7|DP-0125||CABLE HODER RRKT||调角器解锁装置挂点连接支架
+V362_DualCo|72|5|DP-0244||CUSH SUP WIRE FR ASSY||上座框前端钢丝焊接总成
+V362_DualCo|75|6|DP-0211||CUSH SUP WIRE FR 03||上座框前端钢丝-3
+V362_DualCo|76|6|DP-0257||CUSH SUP WIRE FR 05||上座框前端钢丝-5
+V362_DualCo|77|5|DP-0210||CUSH SIDE TRIM SUP WIRE RH IB||上座框外侧边板面套固定钢丝
+V362_DualCo|78|5|DP-0212||CUSH SIDE TRIM SUP WIRE LH||上座框内侧边板面套固定钢丝
+V362_DualCo|80|5|DP-0007||CUSH SIDE SUP TUBE  OB 1||下座框外侧支撑管-1
+V362_DualCo|81|5|DP-0008||CUSH SIDE SUP TUBE  OB 2||下座框外侧支撑管-2
+V362_DualCo|82|5|DP-0012||REIN FR  BRKT OB||下座框外侧支撑管加强支架
+V362_DualCo|83|5|DP-0004||REIN LOWER BRKT OB||下座框外侧加强支架
+V362_DualCo|84|5|DP-0014||RISER OB||下座框外侧板
+V362_DualCo|85|5|DP-0026||REIN UPPER BRKT OB||座框外侧上加强支架
+V362_DualCo|86|5|DP-0015||SPACER RH||下座框外侧板垫块
+V362_DualCo|88|5|DP-0017||RISER IB||下座框内侧板
+V362_DualCo|89|5|DP-0201||CUSH SIDE SUP TUBE  IB 2||下座框内侧支撑管-2
+V362_DualCo|90|5|DP-0005||CUSH SIDE SUP TUBE  IB 1||下座框内侧支撑管-1
+V362_DualCo|91|5|DP-0003||REIN LOWER BRKT IB||下座框内侧加强支架
+V362_DualCo|92|5|DP-0015||SPACER RH||下座框外侧板垫块
+V362_DualCo|93|5|DP-0027||REIN UPPER BCKT IB||座框内侧上加强支架
+V362_DualCo|94|4|DP-0025||CUSH FR BRKT||下座框前板
+V362_DualCo|95|4|DP-0010||TUBE FOR RETRACTOR||安全带卷收器支架固定管
+V362_DualCo|96|4|DP-0261||CUSH FR SUP TUBE 2 ASSY||下座框前支撑管-2总成
+V362_DualCo|97|5|DP-0262||CUSH FR SUP TUBE 2 REIN FORCE||下座框前支撑管-2加强件
+V362_DualCo|98|5|DP-0202||CUSH FR SUP TUBE  2||下座框前支撑管-2
+V362_DualCo|99|4|DP-0006||CUSH FR SUP TUBE  1||下座框前支撑管-1
+V362_DualCo|100|3|DP-0200||CUSH SUP WIRE ASSY||座盆钢丝焊接总成
+V362_DualCo|101|4|DP-0058||SUP WIRE NORMAL 01||座盆常规钢丝-1
+V362_DualCo|102|4|DP-0060||SUP WIRE  X 2||座盆垂直钢丝-2
+V362_DualCo|103|4|DP-0226||SUP WIRE NORMAL  02||座盆常规钢丝-2
+V362_DualCo|104|4|DP-0227||SUP WIRE NORMAL 03||座盆常规钢丝-3
+V362_DualCo|105|3|DP-0207||MIDDLE LOWER BRKT||座中间下支架
+V362_DualCo|106|3|DP-0254||RETRACTOR BRKT ASSY||安全带卷收器保护支架焊接总成
+V362_DualCo|107|4|DP-0215||RETRACTOR BRKT||安全带卷收器保护支架
+V362_DualCo|108|4|DP-0222||RETRACTOR COVER BRKT RH||安全带卷收器塑料罩盖安装支架
+V362_DualCo|109|3|DP-0002||REAR LOWER BRKT||座后加强支架
+V362_DualCo|110|3|DP-0205||CUSH MIDDLE REIN BRKT UPPER WEILDING ASSY||座中间上支架焊接总成
+V362_DualCo|111|4|DP-0206||MIDDLE UPPER BRKT||座中间上支架
+V362_DualCo|113|2|DP-0225||CBALE UNITE CONNECTING BOLT||调角器解锁装置安装螺栓
+V362_DualCo|114|2|DP-0259||TIE WRAP||线束扎带
+V362_DualCo|115|1|DP-0113||STOP PIN||靠背调节挡点螺栓
+V362_DualCo|116|1|DP-0067||SPRING GASKET||靠背连接两侧螺栓村套
+V362_DualCo|117|1|DP-0135||BOLT||靠背连接中间螺栓
+V362_DualCo|118|1|DP-0136||GASKET||靠背连接中间螺栓垫圈
+V362_DualCo|119|1|DP-0108||CLIP||车身连接定位销村套
+V362_DualCo|120|1|DP-0064||SPRING||边板回力弹簧
+V362_DualCo|121|0|DP-0264||MOUNTING LOWER BRKT LH ASSY||骨架安装脚板装配总成
+V362_DualCo|122|1|DP-0233||MOUNTING LOWER BRKT LH WELDING||骨架安装脚板焊接总成
+V362_DualCo|123|2|DP-0019||MOUNTING LOWER BRKT LH||骨架安装脚板
+V362_DualCo|124|2|DP-0022||SCREW FOR MOUNTING BRKT LH 1||骨架安装脚板焊接螺栓
+V362_DualCo|125|2|DP-0023||SCREW FOR MOUNTING BRKT LH 2||骨架安装脚板焊接销钉
+V362_DualCo|126|2|DP-0021||BUSHING CYLINDER||下座框内侧板垫块
+V362_DualCo|127|1|DP-0117||BUSHING CLIP||骨架安装脚板定位销衬套
+V362_Front_pedestal|1|99|2781070|N/A|VANKOMBI_PEDESTAL DRIVER LHS A|ASSY|主驾基座总成A
+V362_Front_pedestal|2|1|3193121|N/A|VANKOMBI_PEDESTAL DRIVER EU LHS WELD ASSY|ASSY|VANKOMBI_基座焊接总成A
+V362_Front_pedestal|3|2|2781078|N/A|REINFORCEMENT PLATE WITH PIN LH ASSY|ASSY|加强板支架总成左
+V362_Front_pedestal|4|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|5|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|6|4|2781189|N/A|PLATE REINFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|7|3|2781191|N/A|REINFORCEMENT PLATE WITH PIN LH|SINGLE|滑轨固定加强板左
+V362_Front_pedestal|8|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|9|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|10|2|2781081|N/A|REINFORCEMENT PLATE WITH PIN RH ASSY|ASSY|加强板支架总成右
+V362_Front_pedestal|11|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|12|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|13|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|14|3|2781190|N/A|REINFORCEMENT PLATE WITH PIN RH|SINGLE|滑轨固定加强板右
+V362_Front_pedestal|15|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|16|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|17|2|2781176|N/A|REINFORCEMENT PLATE REAR LH|SINGLE|加强支架左
+V362_Front_pedestal|18|2|2781179|N/A|REINFORCEMENT PLATE REAR RH|SINGLE|RH加强支架右
+V362_Front_pedestal|19|2|2781184|N/A|SPACER|SINGLE|垫块
+V362_Front_pedestal|20|2|3020336|N/A|SUB-ASSY BRACKET PEDESTAL FRONT|ASSY|前支架铆接分总成
+V362_Front_pedestal|21|3|2781170|N/A|BRACKET PEDESTAL FRONT|SINGLE|基座前固定板
+V362_Front_pedestal|22|3|2781180|N/A|CLINCH NUT FLANGE|SINGLE|铆接螺母
+V362_Front_pedestal|23|2|3020346|N/A|SUB ASSU WELD BRACKET PEDESTAL REAR LH A|ASSY|主驾支架焊接分总成左A
+V362_Front_pedestal|24|3|2781085|N/A|BRACKET PEDESTAL REAR LH A|SINGLE|主支架左A
+V362_Front_pedestal|25|3|2778694|N/A|STUD WELD|SINGLE|基座焊接螺钉
+V362_Front_pedestal|26|3|2781181|N/A|STUD WELD-3|SINGLE|基座侧壁焊接螺钉-3
+V362_Front_pedestal|27|3|2781075|N/A|STUD WELD-2|SINGLE|基座侧壁焊接螺钉-2
+V362_Front_pedestal|28|1|2781182|N/A|NVH Pad|SINGLE|基座内侧前保护板
+V362_Front_pedestal|29|1|2781183|N/A|W700528-S_NUT_M06x0.7-4.0_P_T_MTL_U_TYP_SP|SINGLE|卡子
+V362_Front_pedestal|30|1|2781185|N/A|Clip|SINGLE|塑料定位卡夹
+V362_Front_pedestal|32|99|3018305|N/A|"TOURNEO|PEDESTAL DRIVER  LHS B"|ASSY|主驾基座总成B
+V362_Front_pedestal|33|1|3193141|N/A|"TOURNEO|PEDESTAL DRIVER EU WELDING ASSY LHS B"|ASSY|主驾基座焊接总成B
+V362_Front_pedestal|34|2|2781078|N/A|REINFORCEMENT PLATE WITH PIN LH ASSY|ASSY|加强板支架总成左
+V362_Front_pedestal|35|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|36|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|37|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|38|3|2781191|N/A|REINFORCEMENT PLATE WITH PIN LH|SINGLE|滑轨固定加强板左
+V362_Front_pedestal|39|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|40|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|41|2|2781081|N/A|Reinforcement Plate with Pin RH ASSY|ASSY|加强板支架总成右
+V362_Front_pedestal|42|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|43|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|44|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|45|3|2781190|N/A|REINFORCEMENT PLATE WITH PIN RH|SINGLE|滑轨固定加强板右
+V362_Front_pedestal|46|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|47|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|48|2|2781176|N/A|REINFORCEMENT PLATE REAR LH|SINGLE|加强支架左
+V362_Front_pedestal|49|2|2781179|N/A|REINFORCEMENT PLATE REAR RH|SINGLE|加强支架右
+V362_Front_pedestal|50|2|2781184|N/A|SPACER|SINGLE|垫块
+V362_Front_pedestal|51|2|3020336|N/A|SUB-ASSY BRACKET PEDESTAL FRONT|ASSY|前支架铆接分总成
+V362_Front_pedestal|52|3|2781170|N/A|BRACKET PEDESTAL FRONT|SINGLE|基座前固定板
+V362_Front_pedestal|53|3|2781180|N/A|CLINCH NUT FLANGE|SINGLE|铆接螺母
+V362_Front_pedestal|54|2|3020355|N/A|SUB ASSY WELD BRACKET PEDESTAL REAR LH B|ASSY|主驾支架焊接分总成左B
+V362_Front_pedestal|55|3|3020333|N/A|BRACKET PEDESTAL REAR LH B|SINGLE|主支架左B
+V362_Front_pedestal|56|3|2778694|N/A|STUD WELD|SINGLE|基座焊接螺钉
+V362_Front_pedestal|57|3|2781075|N/A|STUD WELD-2|SINGLE|基座侧壁焊接螺钉-2
+V362_Front_pedestal|58|1|2781182|N/A|NVH Pad|SINGLE|基座内侧前保护板
+V362_Front_pedestal|59|1|2781183|N/A|W700528-S_NUT_M06x0.7-4.0_P_T_MTL_U_TYP_SP|SINGLE|卡子
+V362_Front_pedestal|60|1|2781185|N/A|CLIP|SINGLE|塑料定位卡夹
+V362_Front_pedestal|62|99|2781073|N/A|PEDESTAL PASSENGER RHS Kombi|ASSY|副驾基座总成<电泳>
+V362_Front_pedestal|63|1|3193143|N/A|PEDESTAL PASSENGER EU RHS WELDING ASSY|ASSY|副驾基座焊接总成<电泳>
+V362_Front_pedestal|64|2|2781078|N/A|REINFORCEMENT PLATE WITH PIN LH ASSY|ASSY|加强板支架总成左
+V362_Front_pedestal|65|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|66|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|67|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|68|3|2781191|N/A|REINFORCEMENT PLATE WITH Pin LH|SINGLE|滑轨固定加强板左
+V362_Front_pedestal|69|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|70|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|71|2|2781081|N/A|REINFORCEMENT PLATE WITH PIN RH ASSY|ASSY|加强板支架总成右
+V362_Front_pedestal|72|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|73|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|74|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|75|3|2781190|N/A|REINFORCEMENT PLATE WITH PIN RH|SINGLE|滑轨固定加强板右
+V362_Front_pedestal|76|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|77|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|78|2|2781082|N/A|REINFORCEMENT PLATE ECE R14|SINGLE|加强板R14
+V362_Front_pedestal|79|2|2781176|N/A|REINFORCEMENT PLATE REAR LH|SINGLE|加强支架左
+V362_Front_pedestal|80|2|2781179|N/A|REINFORCEMENT PLATE REAR RH|SINGLE|加强支架右
+V362_Front_pedestal|81|2|2781184|N/A|SPACER|SINGLE|垫块
+V362_Front_pedestal|82|2|3020336|N/A|SUB-ASSY BRACKET PEDESTAL FRONT|ASSY|前支架铆接分总成
+V362_Front_pedestal|83|3|2781170|N/A|BRACKET PEDESTAL FRONT|SINGLE|基座前固定板
+V362_Front_pedestal|84|3|2781180|N/A|CLINCH NUT FLANGE|SINGLE|铆接螺母
+V362_Front_pedestal|85|2|3020353|N/A|SUB ASSY WELD BRACKET PEDESTAL REAR RH A|ASSY|副驾支架焊接分总成左A
+V362_Front_pedestal|86|3|2778694|N/A|STUD WELD|SINGLE|基座焊接螺钉
+V362_Front_pedestal|87|3|2781086|N/A|BRACKET PEDESTAL REAR RH|SINGLE|副支架右
+V362_Front_pedestal|88|1|2781185|N/A|CLIP|SINGLE|塑料定位卡夹
+V362_Front_pedestal|90|99|3312211|N/A|PEDESTAL PASSENGER  RHS Tourneo-Powder|ASSY|副驾基座总成<喷粉>
+V362_Front_pedestal|91|1|3326338|N/A|PEDESTAL PASSENGER EU RHS WELDING ASSY|ASSY|副驾基座焊接总成<喷粉>
+V362_Front_pedestal|92|2|2781078|N/A|REINFORCEMENT PLATE WITH PIN LH ASSY|ASSY|加强板支架总成左
+V362_Front_pedestal|93|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|94|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|95|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|96|3|2781191|N/A|REINFORCEMENT PLATE WITH Pin LH|SINGLE|滑轨固定加强板左
+V362_Front_pedestal|97|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|98|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|99|2|2781081|N/A|REINFORCEMENT PLATE WITH PIN RH ASSY|ASSY|加强板支架总成右
+V362_Front_pedestal|100|3|2781186|N/A|WSA REINFORCEMENT|ASSY|滑轨固定加强块分总成
+V362_Front_pedestal|101|4|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|102|4|2781189|N/A|PLATE REIFORCEMENT|SINGLE|滑轨固定焊接加强块
+V362_Front_pedestal|103|3|2781190|N/A|REINFORCEMENT PLATE WITH PIN RH|SINGLE|滑轨固定加强板右
+V362_Front_pedestal|104|3|2781192|N/A|STUD WELD|SINGLE|前定位销
+V362_Front_pedestal|105|3|2781187|N/A|WELD NUT M8|SINGLE|焊接螺母M8
+V362_Front_pedestal|106|2|2781082|N/A|REINFORCEMENT PLATE ECE R14|SINGLE|加强板R14
+V362_Front_pedestal|107|2|2781176|N/A|REINFORCEMENT PLATE REAR LH|SINGLE|加强支架左
+V362_Front_pedestal|108|2|2781179|N/A|REINFORCEMENT PLATE REAR RH|SINGLE|加强支架右
+V362_Front_pedestal|109|2|2781184|N/A|SPACER|SINGLE|垫块
+V362_Front_pedestal|110|2|3020336|N/A|SUB-ASSY BRACKET PEDESTAL FRONT|ASSY|前支架铆接分总成
+V362_Front_pedestal|111|3|2781170|N/A|BRACKET PEDESTAL FRONT|SINGLE|基座前固定板
+V362_Front_pedestal|112|3|2781180|N/A|CLINCH NUT FLANGE|SINGLE|铆接螺母
+V362_Front_pedestal|113|2|3020353|N/A|SUB ASSY WELD BRACKET PEDESTAL REAR RH A|ASSY|副驾支架焊接分总成左A
+V362_Front_pedestal|114|3|2778694|N/A|STUD WELD|SINGLE|基座焊接螺钉
+V362_Front_pedestal|115|3|2781086|N/A|BRACKET PEDESTAL REAR RH|SINGLE|副支架右
+V362_Front_pedestal|116|1|2781185|N/A|CLIP|SINGLE|塑料定位卡夹
+V362_Front_10w|1|1|2770419|1|10W DRIVER SEAT BACKFRAME TOTAL ASSY|ASSY|ASSY十向电动靠背骨架总成
+V362_Front_10w|2|2|2774861|1|10W DRIVER SEAT WSA BACK FRAME|ASSY|10W主驾焊接骨架总成
+V362_Front_10w|3|3|2774870|7|BACK FRAME CROSS MEMBER UPPER|SINGLE|上加强固定横板
+V362_Front_10w|4|3|2774894|2|REINFORCEMENT BACKREST RH|SINGLE|上横板加强块右
+V362_Front_10w|5|3|2774916|2|REINFORCEMENT BACKREST LH|SINGLE|上横板加强块左
+V362_Front_10w|6|3|3150566|1|10W POWDER RECLINER ASSY WITH BRACKET RH|ASSY|10W 电动单边调角器&边板焊接分总成右
+V362_Front_10w|7|4|2774923|3|SIDE PIECE BACKREST RH|SINGLE|靠单边边板右
+V362_Front_10w|8|4|2776225|1|10W RECLINER BACKREST WOBBLE RH|ASSY|10W调角器总成右
+V362_Front_10w|9|3|3152059|1|10W POWDER RECLINER ASSY WITH BRACKET LH|ASSY|10W 电动单边调角器&边板焊接分总成左
+V362_Front_10w|10|4|2774937|3|SIDE PIECE BACKREST LH|SINGLE|靠单边边板左
+V362_Front_10w|11|4|2776226|1|10W RECLINER BACKREST WOBBLE LH|ASSY|10W调角器总成左
+V362_Front_10w|12|4|2776232|1|BRACKET MOTOR|SINGLE|靠背马达固定支架
+V362_Front_10w|13|3|2776227|1|BACK FRAME CROSS MEMBER LOWER|SINGLE|靠背马达固定支架
+V362_Front_10w|14|3|2776229|2|BRACKET RH|SINGLE|扶手固定加强支架右
+V362_Front_10w|15|2|2776520|1|10W ROD|SINGLE|10W星型杆
+V362_Front_10w|16|2|2776236|2|RING RETAINING|SINGLE|衬套
+V362_Front_10w|17|2|2776521|1|DRIVE UNIT RECLYNER|SINGLE|靠背调节电机
+V362_Front_10w|18|2|2776532|1|FIX CLIP LB|SINGLE|腰托固定卡扣
+V362_Front_10w|19|2|2776522|1|SCREW COLLAR HEAD M6x40|SINGLE|靠背调节电机固定螺钉
+V362_Front_10w|20|2|2776531|1|10W POWER SUSPENSION|ASSY|电动腰托总成
+V362_Front_10w|22|1|2776679|6|10W POWER A SEAT ADJUSTER ASSY|ASSY|十向主驾座骨架总成
+V362_Front_10w|23|2|2776753|2|TUBE FORMED|SINGLE|前坐盆高调星型杆
+V362_Front_10w|24|2|2776760|1|BEARING LINK|SINGLE|轴承加强隔块
+V362_Front_10w|25|2|2778676|1|BUSHING BEARING|SINGLE|高调管塑料轴衬（POM）
+V362_Front_10w|26|2|2778675|1|WASHER RETAINING STAR|SINGLE|隔套
+V362_Front_10w|27|2|2778673|1|LOCKNUT FLANGE|SINGLE|螺母
+V362_Front_10w|28|2|2778671|1|SCREW PLASTIC|SINGLE|塑料件固定螺钉
+V362_Front_10w|29|2|3150555|1|SCREW_PAN_HEAD|SINGLE|Gearbox固定螺栓
+V362_Front_10w|30|2|2780881|3|10W  SLIDE POWER LH DR|ASSY|单边电动滑轨总成左
+V362_Front_10w|31|2|2780882|2|10W  SLIDE POWER RH DR|ASSY|单边电动滑轨总成右
+V362_Front_10w|32|2|2780883|1|WG LINKAGE SWIVELING/KETL|ASSY|齿板横管焊接组件
+V362_Front_10w|33|3|2780884|1|RG HA LINKAGE TEETHED|ASSY|齿板螺钉铆接分总成
+V362_Front_10w|34|4|2780885|1|LINKAGE TEETHED POWER DRIVER|SINGLE|电动连接齿板
+V362_Front_10w|35|4|2780886|1|RIVET CSK|SINGLE|铆钉
+V362_Front_10w|36|3|2780887|1|RG LINKAGE HA (REAR IB)|ASSY|LINK支架铆接分总成
+V362_Front_10w|37|4|2780888|1|LINKAGE HA REAR LH|SINGLE|LINK支架左
+V362_Front_10w|38|4|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|39|3|2780891|1|CROSS TUBE HA|SINGLE|圆管
+V362_Front_10w|40|3|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_10w|41|2|2780901|1|GLIDER CUSHIONPAN|SINGLE|座盆前横管定位卡套
+V362_Front_10w|42|2|2778674|1|BEARING CUSHION PAN|SINGLE|坐盆固定加强后塑料件
+V362_Front_10w|43|2|2780935|1|SA SIDE PIECE|ASSY|左旁侧板&电机总成
+V362_Front_10w|44|3|2780936|1|PA SIDE PIECE|ASSY|左坐边板分总成
+V362_Front_10w|45|4|2781275|1|RG SIDE PIECE|ASSY|左边板铆接总成
+V362_Front_10w|46|5|2781222|1|RG HA LINKAGE HA|ASSY|前LINK支架铆接分总成
+V362_Front_10w|47|6|2781224|1|LINKAGE HA|SINGLE|前LINK支架
+V362_Front_10w|48|6|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|49|5|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|50|5|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|51|5|2781278|1|SIDE PIECE|SINGLE|坐框边板
+V362_Front_10w|52|4|2781277|1|BUSHING BEARING|SINGLE|衬套
+V362_Front_10w|53|3|2780942|1|A DRIVER UNIT|ASSY|坐高调电机
+V362_Front_10w|54|3|2780943|1|SCREW|SINGLE|高调电机螺钉
+V362_Front_10w|55|2|2780951|2|WSA LINKAGE TA|ASSY|前高调组件总成
+V362_Front_10w|56|3|2917815|1|SA SEAT TILT RECLINER ROTARY|ASSY|电动坐高调旋转机构
+V362_Front_10w|57|3|2780956|1|MG LINKAGE TA|ASSY|LINKAGE衬套铆接分总成
+V362_Front_10w|58|4|2780958|1|LINKAGE TA|SINGLE|连接支架
+V362_Front_10w|59|4|2780959|2|BUSHING BEARING (TA)|SINGLE|衬套
+V362_Front_10w|60|3|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_10w|61|3|2780962|1|TUBE ROUND|SINGLE|前高调连接管
+V362_Front_10w|62|2|2780971|1|RG BRACKET PINION (phosphated)|ASSY|保护支架铆接分总成
+V362_Front_10w|63|3|2780975|1|BRACKET PINION|SINGLE|保护支架左
+V362_Front_10w|64|3|2780977|1|RIVET SPACER|SINGLE|分隔铆钉
+V362_Front_10w|65|2|2781041|1|BRACKET CUSHION PAN|SINGLE|坐盆固定支架
+V362_Front_10w|66|2|2780990|1|BRACKET MOTOR|SINGLE|电动马达支架
+V362_Front_10w|67|2|2780981|2|WSA CUSHION PAN|ASSY|10W&6W坐盆焊接总成
+V362_Front_10w|68|3|2780983|1|REINFORCEMENT CUSHION PAN|SINGLE|坐盆加强片
+V362_Front_10w|69|3|3092022|1|6W&10W DRIVER CUSHION PAN WITH STUDS|ASSY|6W&10W主驾坐盆螺钉焊接分总成
+V362_Front_10w|70|4|2778701|2|CUSHION PAN|SINGLE|坐盆
+V362_Front_10w|71|4|2778694|1|STUD WELD|SINGLE|焊接螺钉
+V362_Front_10w|72|2|2780997|1|MOTOR ROUND|ASSY|滑轨驱动马达
+V362_Front_10w|73|2|2781015|1|RIVET BLIND|SINGLE|抽芯铆钉
+V362_Front_10w|74|2|2781013|1|WASHER|SINGLE|垫圈
+V362_Front_10w|75|2|2781009|1|LOCKNUT FLANGE (M6)|SINGLE|凸缘锁紧螺母 M6
+V362_Front_10w|76|2|2780999|1|SHAFT FLEXIBLE|SINGLE|滑轨电机传动软轴
+V362_Front_10w|77|2|2781046|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|78|2|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|79|2|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|80|2|2781000|1|SHAFT FLEXIBLE|SINGLE|滑轨电机传动软轴
+V362_Front_10w|81|2|2780978|1|TUBE FORMED|SINGLE|连杆
+V362_Front_10w|82|2|2781002|1|HOSE|SINGLE|软管
+V362_Front_10w|83|2|2781023|1|DRIVE UNIT TA|ASSY|驱动单元
+V362_Front_10w|84|2|2781032|1|BRACKET MOTOR|SINGLE|电机支架
+V362_Front_10w|85|2|2781229|1|SPRING TORSION|SINGLE|坐椅调节回复扭簧
+V362_Front_10w|86|2|2781049|1|WASHER POWER|SINGLE|电机垫圈
+V362_Front_10w|87|2|2781233|1|BUSHING|SINGLE|隔套
+V362_Front_10w|88|2|2781052|1|BOLT THREAD|SINGLE|前高调铆接螺栓
+V362_Front_10w|89|2|2781239|1|SCREW SELF LOCKING|SINGLE|自锁螺钉
+V362_Front_10w|90|2|2781206|1|RS/A SIDE PIECE|ASSY|电动右旁侧板总成
+V362_Front_10w|91|3|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|92|3|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|93|3|2780894|1|RG HA LINKAGE HA|ASSY|连接板总成
+V362_Front_10w|94|4|2780895|1|LINKAGE HA FRONT RH|SINGLE|右前LINK支架
+V362_Front_10w|95|4|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|96|3|2781207|1|10W SIDE PIECE RH|SINGLE|10W坐框边板右
+V362_Front_10w|97|2|2781241|2|FEADER RH|SINGLE|右前高调回复簧
+V362_Front_10w|99|1|3332631|6|10W POWER A SEAT ADJUSTER ASSY NON Tilt Motor|ASSY|十向主驾座骨架总成(不带tilt高调电机)
+V362_Front_10w|100|2|2776753|2|TUBE FORMED|SINGLE|前坐盆高调星型杆
+V362_Front_10w|101|2|2776760|1|BEARING LINK|SINGLE|轴承加强隔块
+V362_Front_10w|102|2|2778676|1|BUSHING BEARING|SINGLE|高调管塑料轴衬（POM）
+V362_Front_10w|103|2|2778675|1|WASHER RETAINING STAR|SINGLE|隔套
+V362_Front_10w|104|2|2778673|1|LOCKNUT FLANGE|SINGLE|螺母
+V362_Front_10w|105|2|2778671|1|SCREW PLASTIC|SINGLE|塑料件固定螺钉
+V362_Front_10w|106|2|3150555|1|SCREW_PAN_HEAD|SINGLE|Gearbox固定螺栓
+V362_Front_10w|107|2|2780881|3|10W  SLIDE POWER LH DR|ASSY|单边电动滑轨总成左
+V362_Front_10w|108|2|2780882|3|10W  SLIDE POWER RH DR|ASSY|单边电动滑轨总成右
+V362_Front_10w|109|2|2780883|1|WG LINKAGE SWIVELING/KETL|ASSY|齿板横管焊接组件
+V362_Front_10w|110|3|2780884|1|RG HA LINKAGE TEETHED|ASSY|齿板螺钉铆接分总成
+V362_Front_10w|111|4|2780885|1|LINKAGE TEETHED POWER DRIVER|SINGLE|电动连接齿板
+V362_Front_10w|112|4|2780886|1|RIVET CSK|SINGLE|铆钉
+V362_Front_10w|113|3|2780887|1|RG LINKAGE HA (REAR IB)|ASSY|LINK支架铆接分总成
+V362_Front_10w|114|4|2780888|1|LINKAGE HA REAR LH|SINGLE|LINK支架左
+V362_Front_10w|115|4|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|116|3|2780891|1|CROSS TUBE HA|SINGLE|圆管
+V362_Front_10w|117|3|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_10w|118|2|2780901|1|GLIDER CUSHIONPAN|SINGLE|座盆前横管定位卡套
+V362_Front_10w|119|2|2778674|1|BEARING CUSHION PAN|SINGLE|坐盆固定加强后塑料件
+V362_Front_10w|120|2|2780935|1|SA SIDE PIECE|ASSY|左旁侧板&电机总成
+V362_Front_10w|121|3|2780936|1|PA SIDE PIECE|ASSY|左坐边板分总成
+V362_Front_10w|122|4|2781275|1|RG SIDE PIECE|ASSY|左边板铆接总成
+V362_Front_10w|123|5|2781222|1|RG HA LINKAGE HA|ASSY|前LINK支架铆接分总成
+V362_Front_10w|124|6|2781224|1|LINKAGE HA|SINGLE|前LINK支架
+V362_Front_10w|125|6|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|126|5|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|127|5|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|128|5|2781278|1|SIDE PIECE|SINGLE|坐框边板
+V362_Front_10w|129|4|2781277|1|BUSHING BEARING|SINGLE|衬套
+V362_Front_10w|130|3|2780942|1|A DRIVER UNIT|ASSY|坐高调电机
+V362_Front_10w|131|3|2780943|1|SCREW|SINGLE|高调电机螺钉
+V362_Front_10w|132|2|2780951|2|WSA LINKAGE TA|ASSY|前高调组件总成
+V362_Front_10w|133|3|2917815|1|SA SEAT TILT RECLINER ROTARY|ASSY|电动坐高调旋转机构
+V362_Front_10w|134|3|2780956|1|MG LINKAGE TA|ASSY|LINKAGE衬套铆接分总成
+V362_Front_10w|135|4|2780958|1|LINKAGE TA|SINGLE|连接支架
+V362_Front_10w|136|4|2780959|2|BUSHING BEARING (TA)|SINGLE|衬套
+V362_Front_10w|137|3|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_10w|138|3|2780962|1|TUBE ROUND|SINGLE|前高调连接管
+V362_Front_10w|139|2|2780971|1|RG BRACKET PINION (phosphated)|ASSY|保护支架铆接分总成
+V362_Front_10w|140|3|2780975|1|BRACKET PINION|SINGLE|保护支架左
+V362_Front_10w|141|3|2780977|1|RIVET SPACER|SINGLE|分隔铆钉
+V362_Front_10w|142|2|2781041|1|BRACKET CUSHION PAN|SINGLE|坐盆固定支架
+V362_Front_10w|143|2|2780990|1|BRACKET MOTOR|SINGLE|电动马达支架
+V362_Front_10w|144|2|2780981|2|WSA CUSHION PAN|ASSY|10W&6W坐盆焊接总成
+V362_Front_10w|145|3|2780983|1|REINFORCEMENT CUSHION PAN|SINGLE|坐盆加强片
+V362_Front_10w|146|3|3092022|1|6W&10W DRIVER CUSHION PAN WITH STUDS|ASSY|6W&10W主驾坐盆螺钉焊接分总成
+V362_Front_10w|147|4|2778701|2|CUSHION PAN|SINGLE|坐盆
+V362_Front_10w|148|4|2778694|1|STUD WELD|SINGLE|焊接螺钉
+V362_Front_10w|149|2|2780997|1|MOTOR ROUND|ASSY|滑轨驱动马达
+V362_Front_10w|150|2|2781015|1|RIVET BLIND|SINGLE|抽芯铆钉
+V362_Front_10w|151|2|2781013|1|WASHER|SINGLE|垫圈
+V362_Front_10w|152|2|2781009|1|LOCKNUT FLANGE (M6)|SINGLE|凸缘锁紧螺母 M6
+V362_Front_10w|153|2|2780999|1|SHAFT FLEXIBLE|SINGLE|滑轨电机传动软轴
+V362_Front_10w|154|2|2781046|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|155|2|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|156|2|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|157|2|2781000|1|SHAFT FLEXIBLE|SINGLE|滑轨电机传动软轴
+V362_Front_10w|158|2|2780978|1|TUBE FORMED|SINGLE|连杆
+V362_Front_10w|159|2|2781002|1|HOSE|SINGLE|软管
+V362_Front_10w|160|2|2781023|1|DRIVE UNIT TA|ASSY|驱动单元
+V362_Front_10w|161|2|2781032|1|BRACKET MOTOR|SINGLE|电机支架
+V362_Front_10w|162|2|2781229|1|SPRING TORSION|SINGLE|坐椅调节回复扭簧
+V362_Front_10w|163|2|2781049|1|WASHER POWER|SINGLE|电机垫圈
+V362_Front_10w|164|2|2781233|1|BUSHING|SINGLE|隔套
+V362_Front_10w|165|2|2781052|1|BOLT THREAD|SINGLE|前高调铆接螺栓
+V362_Front_10w|166|2|2781239|1|SCREW SELF LOCKING|SINGLE|自锁螺钉
+V362_Front_10w|167|2|2781206|1|RS/A SIDE PIECE|ASSY|电动右旁侧板总成
+V362_Front_10w|168|3|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_10w|169|3|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_10w|170|3|2780894|1|RG HA LINKAGE HA|ASSY|连接板总成
+V362_Front_10w|171|4|2780895|1|LINKAGE HA FRONT RH|SINGLE|右前LINK支架
+V362_Front_10w|172|4|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_10w|173|3|2781207|1|10W SIDE PIECE RH|SINGLE|10W坐框边板右
+V362_Front_10w|174|2|2781241|2|FEADER RH|SINGLE|右前高调回复簧
+V362_Front_6w|1|1|2770314|1|6W DRIVER SEAT BACKFRAME TOTAL ASSY|ASSY|六向主驾靠背骨架总成
+V362_Front_6w|2|2|2774859|1|6W DRIVER SEAT WSA BACK FRAME|ASSY|6W主驾焊接骨架总成
+V362_Front_6w|3|3|2774870|7|BACK FRAME CROSS MEMBER UPPER|SINGLE|上加强固定横板
+V362_Front_6w|4|3|2774894|2|REINFORCEMENT BACKREST RH|SINGLE|上横板加强块右
+V362_Front_6w|5|3|2774916|2|REINFORCEMENT BACKREST LH|SINGLE|上横板加强块左
+V362_Front_6w|6|3|3150563|1|6W Single bracket with Recliner RH|ASSY|6W手动单边调角器&边板焊接分总成右
+V362_Front_6w|7|4|2774923|3|SIDE PIECE BACKREST RH|SINGLE|6W&2W靠单边边板右
+V362_Front_6w|8|4|2774940|1|6W&2W RECLINER BACKREST WOBBLE RH|ASSY|6W&2W单边调角器总成右
+V362_Front_6w|9|3|3152088|1|6W Single bracket with Recliner LH|ASSY|6W 手动单边调角器 边板焊接分总成左
+V362_Front_6w|10|4|2774937|3|SIDE PIECE BACKREST LH|SINGLE|靠单边边板左
+V362_Front_6w|11|4|2776223|1|6W&2W RECLINER BACKREST WOBBLE LH|ASSY|6W&2W单边调角器总成左
+V362_Front_6w|12|3|2776227|1|BACK FRAME CROSS MEMBER LOWER|SINGLE|靠背下加强横板
+V362_Front_6w|13|3|2776229|2|BRACKET RH|SINGLE|扶手固定加强支架右
+V362_Front_6w|14|2|2776233|1|6W ROD|SINGLE|6W星型杆
+V362_Front_6w|15|2|2776236|2|RING RETAINING|SINGLE|衬套
+V362_Front_6w|16|2|2776540|3|NUN MOTOR SUSPENSION|SINGLE|非电机腰托
+V362_Front_6w|17|2|2776532|1|FIX CLIP LB|SINGLE|腰托固定卡扣
+V362_Front_6w|19|1|2776671|6|6W MANUAL A SEAT ADJUSTER ASSY|ASSY|六向主驾座骨架总成
+V362_Front_6w|20|2|2781246|2|MET 1R-S HADJUSTERLEVER LH|SINGLE|主驾高调手柄左
+V362_Front_6w|21|2|3171881|1|HANDJUST RIVET|SINGLE|高调手柄拉铆式抽芯铆钉
+V362_Front_6w|22|2|3284022|6|6W MANUAL A SEAT ADJUSTER ASSY(NON-HANDJUSLEVER)|ASSY|六向主驾座骨架总成-不带高调手柄
+V362_Front_6w|23|3|2776760|1|BEARING LINK|SINGLE|轴承加强隔块
+V362_Front_6w|24|3|2778676|1|BUSHING BEARING|SINGLE|高调管塑料轴衬（POM）
+V362_Front_6w|25|3|2778678|1|DAMPER RUBBER|SINGLE|降音橡胶
+V362_Front_6w|26|3|2778675|1|WASHER RETAINING STAR|SINGLE|隔套
+V362_Front_6w|27|3|2778673|1|LOCKNUT FLANGE|SINGLE|螺母
+V362_Front_6w|28|3|2778671|1|SCREW PLASTIC|SINGLE|塑料件固定螺钉
+V362_Front_6w|29|3|2778683|1|CAP WITH STRAP|SINGLE|解锁隔套
+V362_Front_6w|30|3|2778684|1|SPRING LEG|SINGLE|滑轨解锁手柄回复扭簧
+V362_Front_6w|31|3|2780901|1|GLIDER CUSHIONPAN|SINGLE|GLIDER CUSHIONPAN 座盆前横管定位卡套
+V362_Front_6w|32|3|2778674|1|BEARING CUSHION PAN|SINGLE|BEARING CUSHION PAN 坐盆固定加强后塑料件
+V362_Front_6w|33|3|2781041|1|BRACKET CUSHION PAN|SINGLE|BRACKET CUSHION PAN 坐盆固定支架
+V362_Front_6w|34|3|2780981|2|WSA CUSHION PAN|ASSY|WSA CUSHION PAN 10W&6W坐盆焊接总成
+V362_Front_6w|35|4|2780983|1|REINFORCEMENT CUSHION PAN|SINGLE|REINFORCEMENT CUSHION PAN 坐盆加强片
+V362_Front_6w|36|4|3092022|1|6W&10W DRIVER CUSHION PAN WITH STUDS|ASSY|6W&10W主驾坐盆螺钉焊接分总成
+V362_Front_6w|37|5|2778701|2|CUSHION PAN|SINGLE|坐盆
+V362_Front_6w|38|5|2778694|1|STUD WELD|SIGN|焊接螺钉
+V362_Front_6w|39|3|2781015|1|RIVET BLIND|SINGLE|抽芯铆钉
+V362_Front_6w|40|3|2781013|1|WASHER|SINGLE|垫圈
+V362_Front_6w|41|3|2778742|3|6W MA SLIDE LH DR|ASSY|手动滑轨总成左
+V362_Front_6w|42|3|2778740|3|6W MA SLIDE RH DR|ASSY|手动滑轨总成右
+V362_Front_6w|43|3|2781009|1|LOCKNUT FLANGE (M6)|SINGLE|凸缘锁紧螺母 M6
+V362_Front_6w|44|3|2781046|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_6w|45|3|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_6w|46|3|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_6w|47|3|2780978|1|TUBE FORMED|SINGLE|连杆
+V362_Front_6w|48|3|2778739|1|WSA LEVER ACTUATING|ASSY|滑轨调节手柄总成
+V362_Front_6w|49|4|2781193|1|LEVER ACTUATING|SINGLE|解锁手柄
+V362_Front_6w|50|4|2781194|1|LEVER OPERATE|SINGLE|调节连杆
+V362_Front_6w|51|4|2781195|1|WIRE CYLINDRICIAL|SINGLE|加强圆管
+V362_Front_6w|52|3|2780893|1|RSA SIDE PIECE|ASSY|右旁侧板总成
+V362_Front_6w|53|4|2780898|1|SIDE PIECE power|SINGLE|坐框边板右
+V362_Front_6w|54|4|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_6w|55|4|2780894|1|RG HA LINKAGE HA|ASSY|连接板总成
+V362_Front_6w|56|5|2780895|1|LINKAGE HA FRONT RH|SINGLE|右前LINK支架
+V362_Front_6w|57|5|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_6w|58|4|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_6w|59|3|2781202|1|RSG BRACKET PINION|ASSY|高调支架
+V362_Front_6w|60|4|2780977|1|RIVET SPACER|SINGLE|分隔铆钉
+V362_Front_6w|61|4|3098956|1|BRACKET PINION|SINGLE|保护支架左
+V362_Front_6w|62|3|2781221|1|RSA SIDE PIECE|ASSY|六向左旁侧板总成
+V362_Front_6w|63|4|2781222|1|RG HA LINKAGE HA|ASSY|连接板总成
+V362_Front_6w|64|5|2781224|1|LINKAGE HA|SINGLE|左前LINK支架
+V362_Front_6w|65|5|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_6w|66|4|2780897|1|BOLT BEARING|SINGLE|连接螺栓
+V362_Front_6w|67|4|2781225|1|SIDE PIECE MANUAL LH|SINGLE|左旁侧板
+V362_Front_6w|68|4|2780900|1|BEARING LINKAGE|SINGLE|铆接隔套
+V362_Front_6w|69|3|2781209|1|WG LINKAGE SWIVELING / KETL|ASSY|六向主驾齿板横管焊接组件
+V362_Front_6w|70|4|2781211|1|RG HA LINKAGE TEETHED|ASSY|前LINK支架铆接分总成
+V362_Front_6w|71|5|2781213|1|LINKAGE TEETHED 6W DRIVER|SINGLE|Link 支架
+V362_Front_6w|72|5|2780886|1|RIVET CSK|SINGLE|铆钉
+V362_Front_6w|73|4|2780887|1|RG LINKAGE HA (REAR IB)|ASSY|LINK支架铆接分总成
+V362_Front_6w|74|5|2780888|1|LINKAGE HA REAR LH|SINGLE|LINK支架左
+V362_Front_6w|75|5|2780889|1|RIVET THREADED|SINGLE|铆钉
+V362_Front_6w|76|4|2780891|1|CROSS TUBE HA|SINGLE|圆管
+V362_Front_6w|77|4|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_6w|78|3|2781238|1|A SEAT HEIGHT ADJUST FREEWHEELCL|ASSY|高调轮
+V362_Front_6w|79|3|3243154|1|SPRING|SINGLE|卷簧
+V362_Front_6w|80|3|2781234|1|WSA LINKAGE TA|ASSY|前高调组件总成
+V362_Front_6w|81|4|2780953|1|SA SEAT TILT RECLINER ROTARY|ASSY|手动坐高调旋转机构
+V362_Front_6w|82|5|2781243|1|SHAFT DRIVE|SINGLE|高调中心轴
+V362_Front_6w|83|5|2781244|1|BUSHING|SINGLE|轴衬
+V362_Front_6w|84|5|2917815|1|S/A INTERNAL PLANATARY GEAR|ASSY|电动坐高调旋转机构
+V362_Front_6w|85|4|2780956|1|MG LINKAGE TA|ASSY|衬套铆接分总成
+V362_Front_6w|86|5|2780958|1|LINKAGE TA|SINGLE|连接支架
+V362_Front_6w|87|5|2780959|2|BUSHING BEARING (TA)|SINGLE|衬套
+V362_Front_6w|88|4|2780892|1|BRACKET CUSHION PAN|SINGLE|坐盆固定隔片
+V362_Front_6w|89|4|2780962|1|TUBE ROUND|SINGLE|前高调连接管
+V362_Front_6w|90|3|2781229|1|SPRING TORSION|SINGLE|坐椅调节回复扭簧
+V362_Front_6w|91|3|2781240|1|WASHER|SINGLE|垫圈
+V362_Front_6w|92|3|2781233|1|BUSHING|SINGLE|隔套
+V362_Front_6w|93|3|2781052|1|BOLT THREAD|SINGLE|前高调铆接螺栓
+V362_Front_6w|94|3|2781239|1|SCREW SELF0 LOCKING|SINGLE|自锁螺钉
+V362_Front_6w|95|3|2781241|2|FEDER RH|SINGLE|右前高调回复簧
+V362_Front_2w|1|1|2781247|1|2W SINGER PASSENGER BACKFRAME TOTAL ASSY|ASSY|二向副驾靠背骨架总成
+V362_Front_2w|2|2|2774863|1|2W SINGER PASSENGER SEAT WSA BACK FRAME|ASSY|2W副驾焊接骨架总成
+V362_Front_2w|3|3|2774870|7|BACK FRAME CROSS MEMBER UPPER|SINGLE|上加强固定横板
+V362_Front_2w|4|3|2774894|2|REINFORCEMENT BACKREST RH|SINGLE|上横板加强块右
+V362_Front_2w|5|3|2774916|2|REINFORCEMENT BACKREST LH|SINGLE|上横板加强块左
+V362_Front_2w|6|3|3150563|1|6W SINGLE BRACKET WITH RECLINER RH|ASSY|6W手动单边调角器&边板焊接分总成右
+V362_Front_2w|7|4|2774923|3|SIDE PIECE BACKREST RH|SINGLE|靠单边边板右
+V362_Front_2w|8|4|2774940|1|6W&2W RECLINER BACKREST WOBBLE RH|ASSY|6W&2W单边调角器总成右
+V362_Front_2w|9|3|3152088|1|6W SINGLE BRACKET WITH RECLINER LH|ASSY|6W 手动单边调角器 边板焊接分总成左
+V362_Front_2w|10|4|2774937|3|SIDE PIECE BACKREST LH|SINGLE|靠单边边板左
+V362_Front_2w|11|4|2776223|1|6W&2W RECLINER BACKREST WOBBLE LH|ASSY|6W&2W单边调角器总成左
+V362_Front_2w|12|3|2776227|1|BACK FRAME CROSS MEMBER LOWER|SINGLE|靠背下加强横板
+V362_Front_2w|13|3|2776231|1|BRACKET LH|SINGLE|扶手加强支架左
+V362_Front_2w|14|2|2776233|1|6W ROD|SINGLE|6W星型杆
+V362_Front_2w|15|2|2776236|2|RING RETAINING|SINGLE|衬套
+V362_Front_2w|16|2|2776540|3|NUN MOTOR SUSPENSION|SINGLE|非电机腰托
+V362_Front_2w|17|2|2776532|1|FIX CLIP LB|SINGLE|腰托固定卡扣
+V362_Front_2w|19|1|2776700|3|2W SINGER PASSENGER ADJUSTER|ASSY|二向副驾座骨架总成
+V362_Front_2w|20|2|3363643|1|ANTI SQUEAK PAD|SINGLE|消音布
+V362_Front_2w|21|2|2778676|1|BUSHING BEARING|SINGLE|高调管塑料轴衬（POM）
+V362_Front_2w|22|2|2778678|1|DAMPER RUBBER|SINGLE|降音橡胶
+V362_Front_2w|23|2|2778675|1|WASHER RETAINING STAR|SINGLE|隔套
+V362_Front_2w|24|2|2778673|1|LOCKNUT FLANGE|SINGLE|螺母
+V362_Front_2w|25|2|2778671|1|SCREW PLASTIC|SINGLE|塑料件固定螺钉
+V362_Front_2w|26|2|2835218|1|SCREW PAN HEAD (M8)|SINGLE|坐盆下加强板固定螺栓M8
+V362_Front_2w|27|2|2778683|1|CAP WITH STRAP|SINGLE|解锁隔套
+V362_Front_2w|28|2|2778684|1|SPRING LEG|SINGLE|滑轨解锁手柄回复扭簧
+V362_Front_2w|29|2|2778688|1|WSA CUSHION PAN|ASSY|2W坐盆焊接总成
+V362_Front_2w|30|3|3091993|1|CUSHION PAN with studs|ASSY|坐盆&螺钉焊接总成
+V362_Front_2w|31|4|2778694|1|STUD WELD|SINGLE|焊接螺钉
+V362_Front_2w|32|4|2778701|2|CUSHION PAN|SINGLE|坐盆
+V362_Front_2w|33|3|3092005|1|CROSS MEMBER WITH NUTS|ASSY|坐盆加强板&焊接螺母总成
+V362_Front_2w|34|4|2778698|1|NUT WELDING (M8 )|SINGLE|焊接螺母M8
+V362_Front_2w|35|4|2778710|1|CROSS MEMBER|SINGLE|坐盆加强长条板
+V362_Front_2w|36|2|2778674|1|BEARING CUSHION PAN|SINGLE|坐盆固定加强后塑料件
+V362_Front_2w|37|2|2778716|1|2W RSA SIDE PIECE MANUAL RH|ASSY|2W右侧靠背边板铆接总成
+V362_Front_2w|38|3|2778725|1|RIVET THREADED REAR|SINGLE|后连接铆钉
+V362_Front_2w|39|3|2778726|1|RIVET THREADED FRONT|SINGLE|前连接铆钉
+V362_Front_2w|40|3|2780898|1|SIDE PIECE MANUAL RH|SINGLE|手动坐边板右
+V362_Front_2w|41|2|2778728|1|RSA SIDE PIECE MANUAL LH|ASSY|2W左侧靠背边板铆接总成左
+V362_Front_2w|42|3|2781225|1|SIDE PIECE MANUAL LH|SINGLE|手动坐边板左
+V362_Front_2w|43|3|2778725|1|RIVET THREADED REAR|SINGLE|后连接铆钉
+V362_Front_2w|44|3|2778726|1|RIVET THREADED FRONT|SINGLE|前连接铆钉
+V362_Front_2w|45|2|2778738|1|4W REAR CROSS TUBE|SINGLE|4W座椅支撑后横管
+V362_Front_2w|46|2|3215907|3|2W MA SLIDE LH PA|ASSY|手动滑轨总成左
+V362_Front_2w|47|2|3215909|3|2W MA SLIDE RH PA|ASSY|手动滑轨总成右
+V362_Front_2w|48|2|2778739|1|WSA LEVER ACTUATING|ASSY|滑轨调节手柄总成
+V362_Front_2w|49|3|2781193|1|LEVER ACTUATING|SINGLE|解锁手柄
+V362_Front_2w|50|3|2781194|1|LEVER OPERATE|SINGLE|调节连杆
+V362_Front_2w|51|3|2781195|1|WIRE CYLINDRICIAL|SINGLE|加强圆管

@@ -1,6 +1,9 @@
 
 import jieba
 
+import json
+import csv
+
 # 从 dump.txt 中读取信息，进行分词处理
 
 
@@ -76,9 +79,22 @@ def parse_all():
     return split_words(lines)
 
 
+def save_file():
+    words = parse_all()
+    csv_columns = ['name', 'count']
+
+    with open('output.csv', 'w') as f:
+        writer = csv.DictWriter(f, fieldnames=csv_columns, delimiter="|")
+        writer.writeheader()
+        for i in words:
+            writer.writerow(i)
+
+
 if __name__ == "__main__":
     # parse_all()
     # print('done.')
+
+    save_file()
 
     ignores = load_ignores()
     print(ignores)

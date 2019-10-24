@@ -1,0 +1,1044 @@
+bom_id|seq_num|level|part_num|part_version|part_name|part_family|part_name_zh
+U611_FS|1|0|4394131|AD|Driver 10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Complete seat|10向电动主驾总成-Premiere
+U611_FS|2|0|4394132|AD|Driver 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Complete seat|12向电动主驾总成-Select
+U611_FS|3|0|4394133|AD|Driver 20-way: Reserve / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Complete seat|20向电动主驾总成-Reserve
+U611_FS|4|0|4394134|AD|Driver 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00)|Complete seat|30向电动主驾总成- Preferred
+U611_FS|5|0|4394135|AD|Driver 30-way: Presidential  Mem / Ht / Vent / MCS - L- FES|Complete seat|30向电动主驾总成- Presidential
+U611_FS|6|0|4394136|AD|Pass 10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Complete seat|10向电动副驾总成-Premiere
+U611_FS|7|0|4394137|AD|Pass 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Complete seat|12向电动副驾总成-Select
+U611_FS|8|0|4394138|AD|Pass 20-way: Reserve / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Complete seat|20向电动副驾总成-Reserve
+U611_FS|9|0|4394139|AD|Pass 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00)|Complete seat|30向电动副驾总成- Preferred
+U611_FS|10|0|4394140|AD|Pass 30-way: Presidential  Mem / Ht / Vent / MCS - L- FES|Complete seat|30向电动副驾总成- Presidential
+U611_FS|11|1|4396370|AB|Foam ASY - 10/12 Way Heat|Foam|10/12向靠背泡沫总成（带加热)
+U611_FS|12|1|4396371|AB|Foam ASY - 12/ 20 Way Heat/Vent|Foam|12/20向靠背泡沫总成（带加热,通风)
+U611_FS|13|2|4396372|AA|Poured Pad 10/12 Way Heat|Foam|10/12向靠背泡沫（带加热)
+U611_FS|14|2|4396373|AA|Poured Pad-12/ 20 Way Heat/Vent|Foam|12/20向靠背泡沫（带加热,通风)
+U611_FS|15|2|4394145|AA|Strip Fastener- Velcro MIGG 11 250mm|Foam|Velcro MIGG 11 250mm
+U611_FS|16|2|4394146|AA|Cloth Insert- 423x564|Foam|
+U611_FS|17|2|4401211|AA|Hog Ring Wire|Foam|泡沫钢丝
+U611_FS|18|1|4394147|AB|Foam     ASY - 30 way Leather Heat/Vent/MCS|Foam|30向靠背泡沫总成（带加热,通风,MCS)
+U611_FS|19|2|4396365|AB|Upper pure pad|Foam|30向靠背上泡沫
+U611_FS|20|2|4396366|AB|Lower pure pad|Foam|30向靠背下泡沫
+U611_FS|21|2|4394149|AA|Cloth Insert (WOW)|Foam|30 向靠背泡沫连接布
+U611_FS|22|2|4401208|AA|Strip Fastener- YKK Z15-3 100 mm|Foam|YKK Z15-3 100 mm
+U611_FS|23|2|4401207|AA|Strip Fastener- YKK Z15-3 240 mm|Foam|YKK Z15-3 240 mm
+U611_FS|24|2|4394145|AA|Strip Fastener- YKK Z15-3 250 mm|Foam|YKK Z15-3 250 mm
+U611_FS|25|2|4396284|AA|Strip Fastener- YKK Z15-3 160 mm|Foam|YKK Z15-3 160 mm
+U611_FS|26|2|4394153|AA|Strip Fastener- YKK Z15-3 60 mm|Foam|YKK Z15-3 60 mm
+U611_FS|27|1|4394154|AA|CUSHION CARRIER FOAM LH     (10/12 Way Heat)|Foam|10/12向主驾坐垫泡沫总成（带加热)
+U611_FS|28|1|4394155|AA|CUSHION CARRIER FOAM RH     (10/12 Way Heat)|Foam|10/12向副驾坐垫泡沫总层（带加热)
+U611_FS|29|2|4394156|AA|Poured Pad-LH|Foam|10/12向主驾坐垫泡沫（带加热)
+U611_FS|30|2|4394157|AA|Poured Pad-RH|Foam|10/12向副驾坐垫泡沫（带加热)
+U611_FS|31|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫卡子
+U611_FS|32|2|4395920|AA|Strip Fastener- YKK 140 mm (YKK QF Z15-3)|Foam|YKK 140 mm (YKK QF Z15-3)
+U611_FS|33|2|4394160|AA|Cloth Insert- full B surface|Foam|10向坐垫无纺布
+U611_FS|34|1|4394162|AA|CUSHION CARRIER FOAM LH     (12 Way Heat/Vent)|Foam|12向主驾坐垫泡沫总成（带加热，通风)
+U611_FS|35|1|4394163|AA|CUSHION CARRIER FOAM RH     (12 Way Heat/Vent)|Foam|12向副驾坐垫泡沫总成（带加热，通风)
+U611_FS|36|2|4394164|AA|Poured Pad-LH|Foam|12向主驾坐垫泡沫（带加热，通风)
+U611_FS|37|2|4394165|AA|Poured Pad-RH|Foam|12向副驾坐垫泡沫（带加热，通风)
+U611_FS|38|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|
+U611_FS|39|2|4395920|AA|Strip Fastener- YKK 140 mm (YKK QF Z15-3)|Foam|YKK 140 mm
+U611_FS|40|2|4394166|AA|Strip Fastener- YKK 300 mm (YKK QF Z15-3)|Foam|YKK 300 mm
+U611_FS|41|2|4394167|AA|Cloth Insert- full B surface|Foam|12向坐垫无纺布
+U611_FS|42|1|4394168|AA|CUSHION CARRIER FOAM LH     (20 Way Heat/Vent)|Foam|20向主驾坐垫泡沫总成（带加热，通风)
+U611_FS|43|1|4394169|AB|CUSHION CARRIER FOAM RH     (20 Way Heat/Vent)|Foam|20向副驾坐垫泡沫总成（带加热，通风)
+U611_FS|44|2|4394170||Poured Pad-LH|Foam|20向主驾坐垫泡沫（带加热，通风)
+U611_FS|45|2|4394171||Poured Pad-RH|Foam|20向副驾坐垫泡沫（带加热，通风)
+U611_FS|46|2|4394172||Strip Fastener- Velcro Migg 11 200 mm|Foam|Migg 11 200 mm
+U611_FS|47|2|4394173||Strip Fastener- YKK 200 mm (YKK QF Z15-3)|Foam|YKK 200 mm
+U611_FS|48|2|4396375||Cloth Insert-  230mm x 60mm|Foam|30向坐垫无妨布
+U611_FS|49|1|4394176|AA|CUSHION CARRIER FOAM LH     (30 Way Heat/Vent/MCS)|Foam|30向主驾坐垫泡沫总成（带加热，通风，MCS)
+U611_FS|50|1|4394177|AA|CUSHION CARRIER FOAM RH     (30 Way Heat/Vent/MCS)|Foam|30向副驾坐垫泡沫总成（带加热，通风，MCS)
+U611_FS|51|2|4394178|AA|Poured Pad-LH|Foam|30向主驾坐垫泡沫（带加热，通风，MCS)
+U611_FS|52|2|4394179|AA|Poured Pad-RH|Foam|30向副驾坐垫泡沫（带加热，通风，MCS)
+U611_FS|53|2|4394172||Strip Fastener- Velcro Migg 11 200 mm|Foam|Velcro Migg 11 200 mm
+U611_FS|54|2|4394173||Strip Fastener- YKK 200 mm (YKK QF Z15-3)|Foam|YKK 200 mm (YKK QF Z15-3)
+U611_FS|55|2|4396375|AA|Cloth Insert-  230mm x 60mm|Foam|30向坐垫无妨布
+U611_FS|56|1|4394190|AB|Back Frame - RH Power Recline Non-Mem|Frame|副驾靠背骨架总成（不带记忆）
+U611_FS|57|1|4394191|AB|Back Frame - LH Power Recline /w Mem|Frame|主驾靠背骨架总成（带记忆）
+U611_FS|58|1|4394192|AB|Back Frame - RH Power Recline Non-Mem-FES|Frame|副驾靠背非记忆骨架带FES
+U611_FS|59|1|4394193|AB|Back Frame - LH Power Recline /w Mem-FES|Frame|主驾靠背记忆骨架带FES
+U611_FS|60|1|3569877|AA|RH 6 way power track asy - OCS|Frame|U611前排副驾六向电动座框总成（不带记忆）
+U611_FS|61|1|3569876|AA|LH Power 6 way assembly Mem track asy|Frame|U611 前排副驾六向电动座框总成（不带记忆）
+U611_FS|62|1|4373576|AA|RH Shield Attachment Bracket (O/B)|Frame|U611 侧饰板安装支架-右
+U611_FS|63|1|4373572|AA|RH Shield Attachment Bracket (O/B) 10/12 Way|Frame|侧饰板安装支架-右-外侧
+U611_FS|64|1|4373578|AA|RH Shield Attachment Bracket (O/B)|Frame|U611 侧饰板安装支架-左
+U611_FS|65|1|4373573|AA|RH Shield Attachment Bracket (O/B) 10/12 Way|Frame|侧饰板安装支架-左-外侧
+U611_FS|66|1|4394200|AB|Back Module Assembly-10 Way RH|Comfort|10向副驾靠背模块
+U611_FS|67|1|4394201|AB|Back Module Assembly-12/20 Way RH|Comfort|10/12向副驾靠背模块
+U611_FS|68|1|4394202|AB|Back Module Assembly-30 Way RH|Comfort|30向副驾靠背模块
+U611_FS|69|1|4394203|AB|Back Module Assembly-10 Way LH|Comfort|10向主驾靠背模块
+U611_FS|70|1|4394204|AB|Back Module Assembly-12/20 Way LH|Comfort|12/20向主驾靠背模块
+U611_FS|71|1|4394205|AB|Back Module Assembly-30 Way LH|Comfort|30向主驾靠背模块
+U611_FS|72|1|4394206|AB|Cushion Module Assembly 10 Way HT RH (OCS)|Comfort|10向副驾坐垫模块
+U611_FS|73|1|4394207|AB|Cushion Module Assembly 12 Way RH HT/Vent (OCS)|Comfort|12向副驾坐垫模块
+U611_FS|74|1|4394208|AB|Cushion Module Assembly 20 Way RH HT/Vent (OCS)|Comfort|20向副驾坐垫模块
+U611_FS|75|1|4394209|AB|Cushion Module Assembly 30 Way RH Heat/Vent (OCS)|Comfort|30向副驾坐垫模块
+U611_FS|76|1|4394210|AB|Cushion Module Assembly 10 Way HT LH|Comfort|10向主驾坐垫模块
+U611_FS|77|1|4394211|AB|Cushion Module Assembly 12 Way LH Heat/Vent|Comfort|12向主驾坐垫模块
+U611_FS|78|1|4394212|AB|Cushion Module Assembly 20 Way LH Heat/Vent|Comfort|20向主驾坐垫模块
+U611_FS|79|1|4394213|AB|Cushion Module Assembly 30 Way LH Heat/Vent|Comfort|30向主驾坐垫模块
+U611_FS|80|1|4394214|AC|Seat Back carrier assy  LH/RH|Plastic|30向塑料靠背总成
+U611_FS|81|2|4394215|AB|Seat Back Plastic carrier LH/RH|Plastic|30向塑料靠背
+U611_FS|82|2|4396376|AA|Grommet 13 RD flng spl pla|Plastic|30向塑料靠背金属卡扣1
+U611_FS|83|2|4394217|AA|Grommet 20 RD flng spl pla|Plastic|30向塑料靠背金属卡扣2
+U611_FS|84|2|4394218|AA|Reinforce metal bracket RH|Plastic|30向塑料靠背金属加强版右
+U611_FS|85|2|4394219|AA|Reinforce metal bracket LH|Plastic|30向塑料靠背金属加强版左
+U611_FS|86|2|4394220|AA|Riviet φ4x30|Plastic|铆钉 φ4x30
+U611_FS|87|2|4394222|AA|Velcro migg 12.5x51x2mm|Plastic|
+U611_FS|88|1|4394223|AB|Seat Back Plastic carrier  LH/RH 10/12/20 WAY|Plastic|10/12/20向塑料靠背
+U611_FS|89|1|4394224|AB|CUSHION CARRIER ASSEMBLY|Plastic|20/30向塑料坐垫总成
+U611_FS|90|2|4396367|AA|Cushion carrier base|Plastic|20/30向塑料坐垫
+U611_FS|91|2|4396368|AB|Cushion thigh support LH|Plastic|20/30向塑料坐垫腿托左
+U611_FS|92|2|4396369|AB|Cushion  thigh support RH|Plastic|20/30向塑料坐垫腿托右
+U611_FS|93|1|4423102||Back Trim RH - 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00)|Trim|30向 副驾靠背面套总成
+U611_FS|94|1|4423099||Back Trim RH -  10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Trim|10向 副驾靠背面套总成
+U611_FS|95|1|4423101||Back Trim RH - 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|12/20W 副驾靠背面套总成
+U611_FS|96|1|4423104||Back Trim RH - 30-way:  BL/ Mem / Ht / Vent / MCS -LUXURY LEATHER #2(3DQ00)-china|Trim|30W 副驾靠背面套总成带FES
+U611_FS|97|1|4423097||Back Trim LH - 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00)|Trim|30向 主驾靠背面套总成
+U611_FS|98|1|4423092||Back Trim LH -  10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Trim|10向 主驾靠背面套总成
+U611_FS|99|1|4423096||Back Trim LH - 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|12/20W 主驾靠背面套总成
+U611_FS|100|1|4423098||Back Trim LH - 30-way:  BL/ Mem / Ht / Vent / MCS -LUXURY LEATHER #2(3DQ00)-china|Trim|30W 主驾靠背面套总成带FES
+U611_FS|101|1|4423116||Trim RH - 20-way: Reserve / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|20向副驾坐垫面套总成
+U611_FS|102|1|4423117||Trim RH - 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00) FES|Trim|30向副驾坐垫面套总成
+U611_FS|103|1|4423112||Trim RH - 10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Trim|10向副驾坐垫面套总成
+U611_FS|104|1|4423114||Trim RH - 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|12向副驾坐垫面套总成
+U611_FS|105|1|4423119||Trim RH - 30-way:  BL/ Mem / Ht / Vent / MCS -LUXURY LEATHER #2(3DQ00)-china|Trim|30向副驾坐垫面套总成带FES
+U611_FS|106|1|4423108||Trim LH - 20-way: Reserve / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|20向主驾坐垫面套总成
+U611_FS|107|1|4423109||Trim LH - 30-way: Preferred / Mem / Ht / Vent / MCS - L-PERFORATED LEATHER 2 (3EH00) FES|Trim|30向主驾坐垫面套总成
+U611_FS|108|1|4423105||Trim LH - 10-way: Premiere / Mem / Ht - L-PERFORATED LEATHER 2(3JU00)|Trim|10向主驾坐垫面套总成
+U611_FS|109|1|4423107||Trim LH - 12-way: Select / Mem / Ht-Vent/ L-PERFORATED LEATHER 2(3EH00)|Trim|12向主驾坐垫面套总成
+U611_FS|110|1|4423111||Trim LH - 30-way:  BL/ Mem / Ht / Vent / MCS -LUXURY LEATHER #2(3DQ00)-china|Trim|30向主驾坐垫面套总成带FES
+U611_FS|111|1|4396387|AA|BLADDER SEAT CUSHION BOLSTER|Comfort|坐垫侧翼按摩
+U611_FS|112|1|4396388|AA|BLADDER SEAT BACK BOLSTER|Comfort|靠背侧翼按摩
+U611_FS|113|1|4394245|AA|Vent Blower Back|Comfort|通风电机
+U611_FS|114|1|4394246|AA|VENT BAG BACK LH /RH|Comfort|靠背通风袋
+U611_FS|115|1|4394247|AA|FSC VENT BAG ASSY|Comfort|20/30向坐垫通风袋
+U611_FS|116|1|4394248|AA|FSC VENT BAG ASSY|Comfort|12向坐垫通风袋
+U611_FS|117|1|4394249|AB|Heater mat back - 10/12 way Heat|Comfort|10/12向主驾靠背加热垫不带通风
+U611_FS|118|1|4394250|AB|Heater mat back - 12 way Heat/Vent|Comfort|12向主驾靠背加热垫带通风
+U611_FS|119|1|4394251|AB|Heater mat back -  Black Label|Comfort|30 向主驾靠背加热垫黑色标签
+U611_FS|120|1|4394252|AB|Heater mat back -non Black Label|Comfort|30 向主驾靠背加热垫非黑色标签
+U611_FS|121|1|4394253|AB|Heater mat cushion - 10/12 way Heat|Comfort|10/12向主驾坐垫加热垫不带通风
+U611_FS|122|1|4394254|AB|Heater mat cushion - 12 way Heat/Vent|Comfort|12向主驾坐垫加热垫带通风
+U611_FS|123|1|4394255|AB|Heater mat cushion -  Black Label|Comfort|30 向主驾坐垫加热垫黑色标签
+U611_FS|124|1|4394256|AB|Heater mat cushion -non Black Label|Comfort|30 向主驾坐垫加热垫非黑色标签
+U611_FS|125|1|4394257|AB|Head Restraint Assembly - 4WM Trimmed 10W - Leather|Head rest|4向手动头枕
+U611_FS|126|1|4394258|AB|HR Guide Sleeve - Master|Plastic|主头枕导管
+U611_FS|127|1|4396389|AB|HR Guide Sleeve - Slave|Plastic|副头枕导管
+U611_FS|128|1|4394260|AA|Power HEAD Restraint ASSM - Lincoln Leather|Head rest|电动头枕Preferred
+U611_FS|129|1|4394261|AA|Power HEAD Restraint ASSM - Black Label|Head rest|主驾电动头枕 Presential
+U611_FS|130|1|4394262|AA|Power HEAD Restraint ASSM - Black Label RH|Head rest|副驾电动头枕 Presential
+U611_FS|131|1|4394263|AA|Guide Sleeve - Power RH|Plastic|电动头枕导管 右
+U611_FS|132|1|4394264|AA|Guide Sleeve - Power LH|Plastic|电动头枕导管 左
+U611_FS|133|1|4394265||Side Shield RH - U611 Volume 10/12-way|Plastic|10/12 向副驾外旁侧板
+U611_FS|134|1|4394266||Side Shield RH - U554 Volume|Plastic|20/30 向副驾外旁侧板
+U611_FS|135|1|4394267||Side Shield LH - U611 Volume 10/12-way|Plastic|10/12 向主驾外旁侧板
+U611_FS|136|1|4394268||Side Shield LH -U554 Volume|Plastic|20/30 向主驾外旁侧板
+U611_FS|137|1|4394269||Inner Cover RH|Plastic|内侧旁侧板右
+U611_FS|138|1|4394270||Inner Cover LH|Plastic|内侧旁侧板左
+U611_FS|139|1|4394271||Inboard Shield RH|Plastic|20/30 向副驾内旁侧板
+U611_FS|140|1|4394272||Inboard Shield RH - 10/12 WAY|Plastic|10/12 向副驾内旁侧板
+U611_FS|141|1|4394273||Inboard Shield LH|Plastic|20/30 向主驾内旁侧板
+U611_FS|142|1|4396390||Inboard Shield LH - 10/12 WAY|Plastic|10/12 向主驾内旁侧板
+U611_FS|143|1|4396391|AA|CVR ASY FRT ST TCK SD - RH|Plastic|副驾外侧滑轨前盖板
+U611_FS|144|1|4396392|AA|CVR ASY FRT ST TCK SD - LH|Plastic|主驾外侧滑轨前盖板
+U611_FS|145|1|4396393|AA|INS ASY-FRT ST TCK INR RR RH|Plastic|副驾内侧滑轨后盖板
+U611_FS|146|1|4396394|AA|INS ASY-FRT ST TCK INR RR LH|Plastic|主驾内侧滑轨后盖板
+U611_FS|147|1|4394279||CVR ASY FRT ST TCK SUPT INR RH|Plastic|副驾内侧滑轨前盖板
+U611_FS|148|1|4394280||CVR ASY FRT ST TCK SUPT INR LH|Plastic|主驾内侧滑轨前盖板
+U611_FS|149|1|4394281|AA|INS ASY FRT ST TCK OTR RR|Plastic|副驾外侧滑轨后盖板
+U611_FS|150|1|4394282|AA|INS ASY FRT ST TCK OTR RR LH|Plastic|主驾外侧滑轨后盖板
+U611_FS|151|1|4394283||Front Valance|Plastic|20/30 向前塑料板
+U611_FS|152|1|4394284||Front Valence (10/12-Way) LH|Plastic|10/12 向前塑料板
+U611_FS|153|1|4394286|AA|PNL FRT ST BK RR TR SUB FOUN (PLASTIC PANEL) 10/12/20 way|Plastic|10/12/20 向座椅背板
+U611_FS|154|1|4394287|AA|PNL FRT ST BK RR TR SUB FOUN (PLASTIC PANEL) 26/30 way - FES|Plastic|30 向preferred座椅背板
+U611_FS|155|1|4394288|AA|PNL FRT ST BK RR TR SUB FOUN (PLASTIC PANEL) 30 way - FES|Plastic|30 向preidential 座椅背板
+U611_FS|156|1|4394289|AD|Hardware Kit - Passenger 10/12W Heat|Hardware Kit|10/12向副驾紧固总成
+U611_FS|157|1|4394290|AD|Hardware Kit - Passenger 20W Heat/Vent|Hardware Kit|20 向副驾紧固件总成
+U611_FS|158|1|4394291|AB|Hardware Kit - Passenger 30W Heaet/Vent, MCS -FES|Hardware Kit|30 向Preferred副驾紧固件总成
+U611_FS|159|1|4394292|AB|Hardware Kit - Passenger 30W Heaet/Vent, MCS(with damper) - FES|Hardware Kit|30 向Presential副驾紧固件总成
+U611_FS|160|1|4396397|AD|Hardware Kit - Driver 10/12 Heat|Hardware Kit|10/12向主驾紧固总成
+U611_FS|161|1|4394294|AD|Hardware Kit - Driver 20W Heat/Vent|Hardware Kit|20 向副主紧固件总成
+U611_FS|162|1|4394295|AB|Hardware Kit - Driver 30W Heat/Vent MCS|Hardware Kit|30 向Preferred主驾紧固件总成
+U611_FS|163|1|4394296|AB|Hardware Kit - Driver 30W Heat/Vent MCS - FES|Hardware Kit|30 向Presential主驾紧固件总成
+U611_FS|164|2|4394297|AA|BOLT M8X30 WA TI SHLDR PTM TH (For Composite Pan To Track)  Torque:13.5 +/- 2.1 NM|Hardware|座模块连接螺栓
+U611_FS|165|2|4394298|AA|Hex Flng THD Roll M4 x 14 (Rear Straps to Cushion Module)   Torque:3.6 +/- 0.5 NM|Hardware|座模块后端连接螺栓
+U611_FS|166|2|4394299|AA|Pan Collar Head Screw M6X22 (Back Module to Frame) Torque:10.5 +/- 1.6 NM|Hardware|带垫片螺钉 MR6X22
+U611_FS|167|2|4403270|AA|SCREW 5X16 PC TI R TFP TH-BACK MODULE TO BACK FRAME|Hardware|靠模块连接螺钉
+U611_FS|168|2|2491518|AA|M4 X12 PN TI CA FL (outboard Side Shield)                 Torque:  1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|169|2|2491518|AA|M4 X12 PN TI CA FL (Valance to Front Bracket)          Torque:  1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|170|2|4394303|AA|M4 screw with M5 head(Track cover)                            Torque: 1.7 ± 0.3 N-M|Hardware|脚盖板安装螺栓
+U611_FS|171|2|2491518|AA|M4 X12 PN TI CA FL (Inner Shield cover screw to side member) Torque:   1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|172|2|4403267|AA|SCREW 5X10 PC TI TFP TM-INNER SHIELD TO TRACK ASY|Hardware|内侧旁侧板连接螺钉
+U611_FS|173|2|2491518|AA|M4 X12 PN TI CA FL(Inboard Shield) Torque:   1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|174|2|2542979|AA|Trim sock X-mas Tree to Back Frame - Pin 6.4 x 20.4 PSH NYL Torque:N/A|Hardware|前靠面套固定销
+U611_FS|175|2|2491902|AA|Bolt - Back and Cushion Marriage                  Torque:47.5 +/- 5 Nm.|Hardware|座靠连接螺栓
+U611_FS|176|2|2491864|AA|Pan Head Screw  and Washer M5 x 8 (track and side sheild brkts)  Torque:3.6 ± 0.5 NM|Hardware|外旁侧板连接支架螺钉/手柄螺钉
+U611_FS|177|2|4394310|AA|NUT M06x1.00 HEX FLNG PC 08 (SAB)                  Torque:7.0 +/- 1.0 NM|Hardware|气囊安装螺栓
+U611_FS|178|2|4394311|AA|M4x16 Torx Head (TPS)                                      Torque: 0.9 +/- 0.2 Nm|Hardware|连接螺钉 4*16
+U611_FS|179|2|2491518|AA|Screw & Washer M4 x 12 (Back Harness)                    Torque:  1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|180|2|4394322|AA|SCREW 4X12 HC TFP TH(Mass Damper)                    Torque:  1.6 ± 0.25 NM|Hardware|旁侧板连接螺栓
+U611_FS|181|2|4394314|AA|M5 X 20 HEX HEAD TF  (Back Module to Thoracic) Torque: 9.0 +/- 3.0 NM|Hardware|靠背模块与骨架边板连接螺栓M5x20
+U611_FS|183|2|4394316|AA|SCREW 5X16 PC TI TFP TH(Seat control module to substrate) Torque:Torque 2.2 ± 0.5 Nm|Hardware|记忆模块安装螺栓
+U611_FS|184|2|4394317|AA|N806799-S/1-PIN 4.0x12.8 PSH NYL (Bolster paddle)|Hardware|侧翼按摩固定卡子
+U611_FS|185|2|4394317|AA|N806799-S/1-PIN 4.0x12.8 PSH NYL (skirt to the valance)|Hardware|侧翼按摩固定卡子
+U611_FS|186|2|4394319|AA|H/R Label|Other|主驾手动头枕标签
+U611_FS|188|2|4394321|AA|Shipping Bag - 1st Row Seat LH|Other|主驾包装袋
+U611_FS|190|2|2491518|AA|Bracket locating screw Torque:0.9N-M +/- 0.2N-M|Hardware|旁侧板连接螺栓
+U611_FS|191|2|4394299|AA|FES Bracket to back frame bolts Torque:8N-M +/- 1N-M|Hardware|带垫片螺钉 MR6X22
+U611_FS|192|2|4394310|AA|FES Bracket Nuts Torque:8N-M +/- 1N-M|Hardware|气囊安装螺栓
+U611_FS|193|2|4394326|AA|FES to Bracket Bolts|Hardware|电视机连接螺栓
+U611_FS|194|2|4464986|AA|RET WIR HRNS TIE STRP|Hardware|扎带
+U611_FS|195|2|104792|AA|C CLIP|Hardware|C型钉
+U611_FS|196|1|4394328|AA|Front Seat Back Wire Harness - 10 way with Heat (DRV)|Wire harness|10 向主驾线束
+U611_FS|197|1|4394329|AA|Front Seat Back Wire Harness - 10 way with Heat (PASS)|Wire harness|10 向副驾线束
+U611_FS|198|1|4394330|AA|Front Seat Back Wire Harness - 12 way with Heat /Vent (DRV)|Wire harness|12/20向主驾线束
+U611_FS|199|1|4394331|AA|Front Seat Back Wire Harness - 12 way with Heat /Vent (PASS)|Wire harness|12/20向副驾线束
+U611_FS|200|1|4394330|AA|Front Seat Back Wire Harness - 20 way with Heat/vent (DRV)|Wire harness|
+U611_FS|201|1|4394331|AA|Front Seat Back Wire Harness - 20 way with Heat/vent (PASS)|Wire harness|
+U611_FS|202|1|4394334|AA|Front Seat Back Wire Harness - 30 way with Heat/vent/MCS (DRV)|Wire harness|30向主驾线束
+U611_FS|203|1|4394335|AA|Front Seat Back Wire Harness - 30 way with Heat/vent/MCS (PASS)|Wire harness|30向副驾线束
+U611_FS|204|1|4396398|AA|Rear Footwell, RH|Wire harness|副驾环境灯
+U611_FS|205|1|4396399|AA|Rear Footwell, LH|Wire harness|主驾环境灯
+U611_FS|206|1|4396400|AA|Track Position Sensor RH|Safety|副驾滑轨位置传感器
+U611_FS|207|1|4396401|AA|Track Position Sensor LH|Safety|主驾滑轨位置传感器
+U611_FS|208|1|4396402|AB|FES Bracket|Frame|FES 支架总成
+U611_FS|209|2|4396404|AB|BRKT CNSL RR TO ENTR SYS|Frame|FES 支架
+U611_FS|210|2|4394342|AA|CLIN STUD-M6X15mm|Frame|FES支架铆接螺钉
+U611_FS|211|2|4394343|AA|BRKT SIDE WALL MASS DAMPER SUPT|Frame|限位小支架
+U611_FS|212|2|4394344|AA|FLOCK TAPE 45X20X1MM|Frame|FES支架毡布
+U611_FS|213|1|4394345|AA|FES Mass Dampener|Other|阻尼器
+U611_FS|214|1|4394346|AB|Family Entertainment System|Wire harness|家庭娱乐系统
+U611_FS|215|1|4727459|AA|Trim Sock, Seat Back, RH|Trim|靠背右侧边板遮丑布
+U611_FS|216|1|4727460|AA|Trim Sock, Seat Back, LH|Trim|靠背左侧边板遮丑布
+U611_FS|217|1|4424666|AA|BRA ST BK PRTN|Trim|靠背下板遮丑布
+U611_FS|218|1|4394350|AC|SAB RH (NA)|Safety|副驾安全气囊
+U611_FS|219|1|4394351|AC|SAB LH (NA)|Safety|主驾安全气囊
+U611_FS|220|1|4403276|AA|Buckle Asm RH|Safety|副驾Buckle
+U611_FS|221|1|4403277|AA|Buckle Asm LH|Safety|主驾Buckle
+U611_FS|222|1|4394354|AB|OCS (WOW with MCS)|Safety|30 向座椅乘员传感器
+U611_FS|223|1|4394355|AB|OCS (WOW)|Safety|20 向座椅乘员传感器
+U611_FS|224|1|4396403|AB|OCS|Safety|10/12 向座椅乘员传感器
+U611_FS|225|1|4394357|AC|PSM|Wire harness|副驾记忆模块
+U611_FS|226|1|4394358|AB|DSM|Wire harness|10/12 向主驾记忆模块
+U611_FS|227|1|4394359|AB|DSM|Wire harness|20/30 向主驾记忆模块
+U611_MS|1|0|4401307|AA|RH LINCOLN (LEATHER)- CHINA Premier - NO HEAT/VENT|Assy|中国区Premier-右侧座椅总成-无通风加热
+U611_MS|2|0|4401308|AA|RH LINCOLN (LEATHER)- CHINA Select - NO HEAT/VENT|Assy|中国区 Select-右侧座椅总成-无通风加热
+U611_MS|3|0|4401309|AA|RH LINCOLN (LEATHER)- CHINA Reserve / Preferred - HEAT/VENT|Assy|中国区 Reserve / Preferred -右侧座椅总成-带通风加热
+U611_MS|4|99|4982072|AA|RH LINCOLN (LEATHER)- CHINA Presidential -  BENCH - HEAT/VENT|Assy|中国区 Presidential -  BENCH -右侧座椅总成-带通风加热
+U611_MS|5|0|4401310|AA|RH LINCOLN (LEATHER)-CHINA Reserve/Prefered-CAPTAIN-HEAT/VENT|Assy|中国区 Reserve / Preferred-Captain -右侧座椅总成-带通风加热
+U611_MS|6|0|4401311|AA|RH LINCOLN (LEATHER)-CHINA Presidentail-CAPTAIN-HEAT/VENT|Assy|中国区 Presidentail-Captain -右侧座椅总成-带通风加热
+U611_MS|7|99|4982045|AA|RH LINCOLN (LEATHER)- CHINA Select - CAPTAIN-NO HEAT/VENT|Assy|中国区Select - CAPTAIN  -右侧座椅总成-无通风加热
+U611_MS|8|0|4401312|AA|LH LINCOLN (LEATHER)- CHINA Premier - NO HEAT/VENT|Assy|中国区 Premier-左侧座椅总成-无通风加热
+U611_MS|9|0|4401313|AA|LH LINCOLN (LEATHER)- CHINA Select - NO HEAT/VENT|Assy|中国区 Select-左侧座椅总成-无通风加热
+U611_MS|10|0|4401314|AA|LH LINCOLN (LEATHER)- CHINA Reserve / Preferred - HEAT/VENT|Assy|中国区 Reserve / Preferred -左侧座椅总成-带通风加热
+U611_MS|11|99|4982056|AA|LH LINCOLN (LEATHER)- CHINA Presidential -  BENCH - HEAT/VENT|Assy|中国区 Presidential -  BENCH -左侧座椅总成-带通风加热
+U611_MS|12|0|4401315|AA|LH LINCOLN (LEATHER)-CHINA Reserve/Prefered-CAPTAIN-HEAT/VENT|Assy|中国区 Reserve / Preferred-Captain -左侧座椅总成-带通风加热
+U611_MS|13|0|4401316|AA|LH LINCOLN (LEATHER)-CHINA Presidentail-CAPTAIN-HEAT/VENT|Assy|中国区 Presidentail-Captain -左侧座椅总成-带通风加热
+U611_MS|14|0|4981581|AA|LH LINCOLN (LEATHER)- CHINA Select - CAPTAIN-NO HEAT/VENT||中国区Select - CAPTAIN  -左侧座椅总成-无通风加热
+U611_MS|15|0|4401317|AB|CTR LINCOLN (LEATHER)- CHINA Premier|Assy|中国区Premier-中间座椅总成
+U611_MS|16|0|4401318|AB|CTR LINCOLN (LEATHER)- CHINA Select|Assy|中国区Select-中间座椅总成
+U611_MS|17|0|4401319|AB|CTR LINCOLN (LEATHER)- CHINA Reserve C&C / Preferred C&C|Assy|中国区 Reserve / Preferred-中间座椅总成
+U611_MS|18|99|4982063|AB|CTR LINCOLN (LEATHER)- CHINA Presidential -  BENCH|Assy|中国区 Presidential -  BENCH -中间座椅总成
+U611_MS|19|1|4401320|AA|40% RH-OB -(CAPTAIN) (Manual FF & Power-EZ,w/AR)|Frame|40% 右侧（CAPTAIN）骨架总成(手动向前折叠&电动ZEZ，带扶手)
+U611_MS|20|1|4401321|AA|35% RH-OB -(BENCH) (Manual FF & PWR-EZ)|Frame|35% 右侧（BENCH）骨架总成(手动向前折叠&电动ZEZ)
+U611_MS|21|1|4401322|AB|30% CTR Manual (Manual fold- with armrest)|Frame|30%中间手动骨架总成（手动折叠，带扶手）
+U611_MS|22|1|4401323|AA|40% LH-OB -(CAPTAIN) (Manual FF & Power-EZ,w/AR)|Frame|40% 左侧（CAPTAIN）骨架总成(手动向前折叠&电动ZEZ，带扶手)
+U611_MS|23|1|4401324|AA|35% LH-OB -(BENCH) (Manual  FF & PWR-EZ)|Frame|35% 左侧（BENCH）骨架总成(手动向前折叠&电动ZEZ)
+U611_MS|24|1|4401325|AA|CTR Seat In-line Connector Bracket|Frame|中间座椅连接器支架
+U611_MS|25|1|4401326|AA|Head Restraint - 2nd Row O/B - Foldable - RH - North America(Vinyl)|Assy|头枕-第二排右侧座椅头枕--北美款（PVC）
+U611_MS|26|1|4401327|AA|Head Restraint - 2nd Row O/B - Foldable - RH - BLACK LABEL|Assy|头枕-第二排右侧座椅头枕--黑色标签
+U611_MS|27|1|4401328|AA|Head Restraint - 2nd Row Center - -North America(Vinyl)|Assy|头枕-第二排中间座椅头枕--北美款（PVC）
+U611_MS|28|1|4401329|AA|Head Restraint - 2nd Row O/B - Foldable - LH - North America(Vinyl)|Assy|头枕-第二排左侧座椅头枕--北美款（PVC）
+U611_MS|29|1|4401330|AA|Head Restraint - 2nd Row O/B - Foldable - LH - BLACK LABEL|Assy|头枕-第二排左侧座椅头枕--黑色标签
+U611_MS|30|1|4401331|AA|Guide Sleeve (CTR Seat)-SLAVE|Plastic|中间座椅头枕导套
+U611_MS|31|1|3324595|AA|Guide Sleeve (CTR Seat) - MASTER|Plastic|中间座椅头枕导套组件
+U611_MS|32|1|2491420|AA|Guide Sleeve (OB Seat)-Slave Guide|Plastic|外侧座椅头枕导套
+U611_MS|33|1|4401334|AB|BACK MAT - HEAT/VENT(Volume/Prime/Black Label)|Function|靠背帘--带加热通风（Volume/Prime/Black Label）
+U611_MS|34|1|4401335|AB|CUSHION MAT - HEAT/VENT(Volume/Prime/Black Label)|Function|坐垫帘--带加热通风（Volume/Prime/Black Label）
+U611_MS|35|1|4401336|AB|Ventilation Bag RSB - U611|Function|靠背通风袋-U611
+U611_MS|36|1|4401337|AA|Ventilation Bag RSC - U611|Function|坐垫通风袋-U611
+U611_MS|37|1|4401340|AA|Cushion Blower HDPE Mating Ring-U611|Function|坐垫鼓风机HDPE 密封圈-U611
+U611_MS|38|1|4401338|AB|Ventilation Blower RSB - U625/611|Function|靠背鼓风机-U625/U611
+U611_MS|39|1|4401339|AA|Ventilation Blower RSC - U625/U611|Function|坐垫鼓风机-U625/U611
+U611_MS|40|1|4401341|AA|RH Recliner Handle - Assy|Plastic|右侧调角器手柄组件
+U611_MS|41|2|4401342|AA|RH Rec. Handle|Plastic|右侧调角器手柄
+U611_MS|42|2|4401343|AA|Wire Clip|Plastic|钢丝卡扣
+U611_MS|43|1|4401344|AA|LH Recliner Handle - Assy|Plastic|左侧调角器手柄组件
+U611_MS|44|2|4401345|AA|LH Rec. Handle|Plastic|左侧调角器手柄
+U611_MS|45|2|4401343|AA|Wire Clip|Plastic|钢丝卡扣
+U611_MS|46|1|4401347|AA|REAR FOOT COVER RH IB|Plastic|右侧座椅内侧后脚板罩盖
+U611_MS|47|1|4401348|AA|REAR FOOT COVER LH IB|Plastic|左侧座椅内侧后脚板罩盖
+U611_MS|48|1|4401349|AA|REAR FOOT COVER OB RH|Plastic|右侧座椅外侧后脚板罩盖
+U611_MS|49|1|4401350|AA|REAR FOOT COVER OB LH|Plastic|左侧座椅外侧后脚板罩盖
+U611_MS|50|1|4401351|AA|TRACK COVER FRONT OB RH|Plastic|右侧座椅外侧滑轨前罩盖
+U611_MS|51|1|4401352|AA|TRACK COVER FRONT OB LH Seat|Plastic|左侧座椅外侧滑轨前罩盖
+U611_MS|52|1|4401353|AA|TRACK COVER FRONT IB RH seat|Plastic|右侧座椅内侧滑轨前罩盖
+U611_MS|53|1|4401354|AA|TRACK COVER FRONT IB LH Seat|Plastic|左侧座椅内侧滑轨前罩盖
+U611_MS|54|1|4401355|AA|Common Front Valance (All 3 Seats)|Plastic|通用前旁侧板（三个座椅共用）
+U611_MS|55|1|4401356|AA|35% RH Seat - OB Shield|Plastic|35%右侧座椅--外旁侧板
+U611_MS|56|1|4401358|AA|35% LH Seat - OB Shield|Plastic|35%左侧座椅--外旁侧板
+U611_MS|57|1|4401359|AA|35% RH Seat - IB Shield|Plastic|35%右侧座椅--内旁侧板
+U611_MS|58|1|4401360|AA|35% LH Seat - IB Shield|Plastic|35%左侧座椅--内旁侧板
+U611_MS|59|1|4401361|AA|35% RH Seat - IB Inner cover|Plastic|35%右侧座椅--内测遮挡板
+U611_MS|60|1|4401362|AA|35% LH Seat - IB Inner cover|Plastic|35%左侧座椅--内侧遮挡板
+U611_MS|61|1|4401363|AA|35% RH Seat - OB Inner Cover|Plastic|35%右侧座椅--外侧遮挡板
+U611_MS|62|1|4401364|AA|35% LH Seat - OB Inner Cover|Plastic|35%左侧座椅--外侧遮挡板
+U611_MS|65|1|4401367|AA|Underseat Module Bracket (PFSM, H/V, USB)|Plastic|座椅下部模块支架（PFSM,H/V,USB）
+U611_MS|66|1|4401159|AA|Child Tether Bezel|Plastic|儿童座椅挂钩遮挡块
+U611_MS|67|1|4401369|AA|PWR EZ Release Button Bezel|Plastic|电动EZE按钮遮挡块
+U611_MS|68|1|4401370|AA|HOUSING POWER EZ ENTRY|Plastic|电动EZE安装支座
+U611_MS|69|1|4401371|AA|EZ Entry Spring Cover|Plastic|EZE 弹簧罩盖
+U611_MS|70|1|4401372|AA|EZ Entry Spring Cover LH|Plastic|EZE 弹簧罩盖 左
+U611_MS|72|1|4401374|AA|CTR Seat Top Pull Strap Bezel|Plastic|中间座椅顶部拉带罩盖
+U611_MS|73|1|4401375|AA|CTR Seat Top Pull Strap Housing|Plastic|中间座椅顶部拉带支座
+U611_MS|74|1|4401376|AA|SIR BEZEL COVER|Plastic|SIR 罩盖
+U611_MS|75|1|4401377|AA|SIR SCREW CAP COVER|Plastic|SIR螺钉罩盖
+U611_MS|76|1|4401378|AB|CTR RH Shield|Plastic|中间座椅右侧旁侧板
+U611_MS|77|1|4401379|AB|CTR LH Shield|Plastic|中间座椅左侧旁侧板
+U611_MS|78|1|4401380|AB|CTR Seat RH Inner cover|Plastic|中间座椅右侧内遮挡块
+U611_MS|79|1|4401381|AB|CTR Seat LH Inner cover|Plastic|中间座椅左侧内遮挡块
+U611_MS|82|1|4401384|AB|CTR Rear RH Foot Cover|Plastic|中间座椅右侧后罩盖
+U611_MS|83|1|4401385|AB|CTR Rear LH Foot Cover|Plastic|中间座椅左侧后罩盖
+U611_MS|85|1|5004911|AA||Plastic|二排中间座椅右侧座椅导轨前外侧支架
+U611_MS|86|1|5004915|AA||Plastic|二排中间座椅左侧座椅导轨前外侧支架
+U611_MS|88|1|4396337|AB|Back Panel Outboard (JIT PART)|Plastic|外侧背板（总装件）
+U611_MS|89|1|4401559|AB|Back Panel Outboard Captain (JIT PART)|Plastic|Captain外侧背板（总装件）
+U611_MS|90|1|4401387|AC|Back Panel Center (JIT PART)|Plastic|中间背板（总装件）
+U611_MS|94|1|4396308|AC|Pad Assy - 35% RSB RH LINCOLN|Foam|泡沫总成--35%右侧靠背
+U611_MS|95|1|4396309|AC|Pad Assy - 35% RSB RH LINCOLN-Vent|Foam|泡沫总成--35%右侧靠背-带通风
+U611_MS|96|1|4401393|AB|Pad Assy - 40% RSB RH LINCOLN ARMREST (Captain)-VENT|Foam|泡沫总成--40%右侧靠背-带通风及扶手
+U611_MS|97|1|5004917|AA|Pad Assy - 40% RSB RH LINCOLN  Select|Foam|泡沫总成--40%右侧靠背-Selcet
+U611_MS|98|2|4396323|AB|Poured Pad|Foam|泡沫单体
+U611_MS|99|2|4396331|AC|Poured Pad|Foam|泡沫单体
+U611_MS|100|2|4396338|AB|Poured Pad|Foam|泡沫单体
+U611_MS|101|2|5004918|AA|Poured Pad|Foam|泡沫单体
+U611_MS|102|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U611_MS|103|2|4396324|AA|Strip Fastener Straight- QuickFit Z15-3  160 mm|Foam|160mm 刺毛带
+U611_MS|104|2|4396325|AA|Segmented Strip Fastener/ QF Flex A3  YKK- 117 mm|Foam|117mm 刺毛带
+U611_MS|105|2|4396326|AA|Segmented Strip Fastener/ QF Flex A3  YKK- 117 mm|Foam|117mm 刺毛带
+U611_MS|106|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|107|2|4861922|AA|Cloth Insert- 3D CAD master|Foam|无纺布
+U611_MS|108|2|4396333|AA|Hog Ring Wire- Vent attachment|Foam|C形钉
+U611_MS|109|1|4396304|AB|Pad Assy - 35% RSC RH LINCOLN|Foam|泡沫总成--35%右侧坐垫
+U611_MS|110|1|4396305|AC|Pad Assy - 35% RSC RH LINCOLN VENT （Reserve / Preferred）|Foam|泡沫总成--35%右侧坐垫带通风（Reserve / Preferred）
+U611_MS|111|1|4401405|AA|Pad Assy - 40% RSC RH LINCOLN VENT（Presidential）|Foam|泡沫总成--40%右侧坐垫带通风（Presidential）
+U611_MS|112|1|5004920|AA|Pad Assy - 40% RSC RH LINCOLN Select|Foam|泡沫总成--40%右侧坐垫-Selcet
+U611_MS|113|2|4396317|AB|Poured Pad|Foam|泡沫单体
+U611_MS|114|2|4396319||Poured Pad|Foam|泡沫单体
+U611_MS|115|2|4396339|AA|Poured Pad|Foam|泡沫单体
+U611_MS|116|2|5004921|AA|Poured Pad|Foam|泡沫单体
+U611_MS|117|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U611_MS|118|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm  (rear trench)|Foam|120mm刺毛带
+U611_MS|119|2|4396314|AA|Strip Fastener- QuickFit Z15-3 - 180 mm|Foam|180mm刺毛带
+U611_MS|120|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|121|2|4396320|AB|Cloth Insert|Foam|无纺布
+U611_MS|122|2|4961429|AA|Cushion Wire|Foam|坐垫钢丝
+U611_MS|123|2|4396340|AA|Cushion Wire|Foam|坐垫钢丝
+U611_MS|124|1|4396312|AD|Pad Assy - 30% RSB CTR - LINCOLN|Foam|泡沫总成--30%中间座椅靠背
+U611_MS|125|2|4396328|AD|Poured Pad|Foam|泡沫单体
+U611_MS|127|2|4396330|AA|Armrest Wire- 400 x 280 mm, 1360 mm length 5 mm diameter, 6 bend and welds|Foam|扶手泡沫内嵌钢丝
+U611_MS|128|3|4401557|AA|COMPONENT OF LB5B-S672B08-A|Foam|泡沫内嵌钢丝1
+U611_MS|129|3|4396332|AA|COMPONENT OF LB5B-S672B08-A|Foam|泡沫内嵌钢丝2
+U611_MS|130|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|131|1|4396303|AB|Pad Assy - 30% RSC CTR - LINCOLN|Foam|泡沫总成--30%中间座椅坐垫
+U611_MS|132|2|4396313|AB|Poured Pad|Foam|泡沫单体
+U611_MS|133|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U611_MS|134|2|4394153|AA|Strip Fastener- QuickFit Z15-3  60 mm|Foam|60mm刺毛带
+U611_MS|135|2|4396316|AA|Strip Fastener- QuickFit Z15-3 - 260 mm|Foam|260mm刺毛带
+U611_MS|136|2|4396314|AA|Strip Fastener- QuickFit Z15-3 - 180 mm|Foam|180mm刺毛带
+U611_MS|137|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|138|1|4396310|AC|Pad Assy - 35% RSB LH LINCOLN|Foam|泡沫总成--35%左侧座椅靠背
+U611_MS|139|1|4396311|AC|Pad Assy - 35% RSB LH LINCOLN-Vent|Foam|泡沫总成--35%左侧座椅靠背--带通风
+U611_MS|140|1|4401431|AB|Pad Assy - 40% RSB LH LINCOLN ARMREST(Captain)-VENT|Foam|泡沫总成--40%左侧座椅靠背--带通风及扶手（Captain）
+U611_MS|141|1|5004922|AA|Pad Assy - 40% RSB LH LINCOLN Select|Foam|泡沫总成--40%左侧靠背总成-Selcet
+U611_MS|142|2|4396335|AC|Poured Pad|Foam|泡沫单体
+U611_MS|143|2|4396327|AC|Poured Pad|Foam|泡沫单体
+U611_MS|144|2|4396341|AB|Poured Pad|Foam|泡沫单体
+U611_MS|145|2|5004923|AA|Poured Pad|Foam|泡沫单体
+U611_MS|146|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U611_MS|147|2|4396324|AA|Strip Fastener Straight- QuickFit Z15-3  160 mm|Foam|160mm 刺毛带
+U611_MS|148|2|4396325|AA|Segmented Strip Fastener/ QF Flex A3  YKK- 117 mm|Foam|117mm 刺毛带
+U611_MS|149|2|4396326|AA|Segmented Strip Fastener/ QF Flex A3  YKK- 117 mm|Foam|117mm 刺毛带
+U611_MS|150|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|151|2|4396334|AA|Cloth Insert- 3D CAD master|Foam|无纺布
+U611_MS|152|2|4396333|AA|Hog Ring Wire- Vent attachment|Foam|C形钉钢丝--通风系统附带
+U611_MS|153|1|4396306|AB|Pad Assy - 35% RSC LH LINCOLN|Foam|泡沫总成--35%左侧座椅坐垫
+U611_MS|154|1|4396307|AC|Pad Assy - 35% RSC LH LINCOLN Vent|Foam|泡沫总成--35%左侧座椅坐垫带通风
+U611_MS|155|1|4401444|AA|Pad Assy - 40% RSC LH LINCOLN VENT CATPN|Foam|泡沫总成--40%左侧座椅坐垫带通风--Captain
+U611_MS|156|1|5004924|AA|Pad Assy - 40% RSC LH LINCOLN Select|Foam|泡沫总成--40%左侧坐垫总成-Selcet
+U611_MS|157|2|4396321|AB|Poured Pad|Foam|泡沫单体
+U611_MS|158|2|4396322|AA|Poured Pad|Foam|泡沫单体
+U611_MS|159|2|4396342|AA|Poured Pad|Foam|泡沫单体
+U611_MS|160|2|5004925|AA|Poured Pad|Foam|泡沫单体
+U611_MS|161|2|4394158|AB|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U611_MS|162|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm  (rear trench)|Foam|120mm刺毛带
+U611_MS|163|2|4396314|AA|Strip Fastener- QuickFit Z15-3 - 180 mm|Foam|180mm刺毛带
+U611_MS|164|2|4401400|AA|NRT|Foam|消音蜡
+U611_MS|165|2|4396320|AA|Cloth Insert|Foam|无纺布
+U611_MS|166|2|4961423|AA|Cushion Wire|Foam|坐垫钢丝
+U611_MS|167|2|4396343|AA|Cushiion Wire|Foam|坐垫钢丝
+U611_MS|168|1|4401452|AA|ARMREST ASSY Center China Leather- no controls|Assy|中国区中央扶手总成--无控制模块
+U611_MS|169|1|4401453|AA|ARMREST ASSY Center Lincoln China Leather (w controls)|Assy|中国区中央扶手总成--有控制模块
+U611_MS|170|1|4401455|AA|ARMREST ASSY RH (Premium Vinyl)- Captain|Assy|右侧扶手总成(Premium Vinyl--Captain
+U611_MS|171|1|4401456|AA|ARMREST ASSY RH (Black Label)-Captain|Assy|右侧扶手总成 (Black Label)--Captain
+U611_MS|172|1|4401457|AA|ARMREST ASSY LH (Premium Vinyl)- Captain|Assy|左侧扶手总成(Premium Vinyl--Captain
+U611_MS|173|1|4401458|AA|ARMREST ASSY LH (Black Label)-Captain|Assy|左侧扶手总成 (Black Label)--Captain
+U611_MS|174|1|4424709|AA|BACK TRIM RH LINCOLN (LEATHER) W/Armrest Hole - VOLUME/PRIME - HEAT/VENT|Trim|右侧带扶手槽-带通风加热-PRIME 靠背面套总成
+U611_MS|175|1|4424704|AA|BACK TRIM RH BLACK LABEL #2 (LEATHER) W/Armrest Hole (incl HV)|Trim|右侧带扶手槽-带通风加热-黑色标签 靠背面套总成
+U611_MS|176|1|4956238|AA|CHINA LOCAL BACK TRIM RH LINCOLN CHINA - SELECT CAPTAIN (NO HV)|Trim|右侧靠背面套总成-SELECT CAPTAIN
+U611_MS|177|1|4424713|AA|BACK TRIM RH LINCOLN CHINA - PREMIER(NO HV)|Trim|右侧靠背总成--PREMIER(无通风加热)
+U611_MS|178|1|4424717|AA|BACK TRIM RH LINCOLN CHINA - SELECT (NO HV)|Trim|右侧靠背总成--SELECT(无通风加热)
+U611_MS|179|1|4424715|AA|BACK TRIM RH LINCOLN CHINA - RESERVE/PREFERRED (INCL HV)|Trim|右侧靠背总成--RESERVE/PREFERRED(有通风加热)
+U611_MS|180|1|4915767|AA|CHINA LOCAL PRESIDENTIAL BENCH RH BACK TRIM|Trim|右侧中国区靠背面套总成--PRESIDENTIAL BENCH
+U611_MS|181|1|4424711|AA|CUSHION TRIM RH LINCOLN (LEATHER) CAPTN - VOLUME/PRIME - HEAT/VENT|Trim|右侧坐垫面套总成-Captain-- VOLUME/PRIME-带加热通风
+U611_MS|182|1|4424706|AA|CUSHION TRIM RH BLACK LABEL #2 (LEATHER) CAPTN (incl HV)|Trim|右侧坐垫面套总成-Captain-黑色标签-带加热通风
+U611_MS|183|1|4956242|AA|CHINA LOCAL CUSHION TRIM RH LINCOLN CHINA - SELECT CAPTAIN (NO HV)|Trim|右侧坐垫面套总成-select Captain-黑色标签-带加热通风
+U611_MS|184|1|4424725|AA|CUSHION TRIM RH LINCOLN CHINA - PREMIER  (NO HEAT VENT)|Trim|右侧坐垫面套总成-PREMIER--无加热通风
+U611_MS|185|1|4424730|AA|CUSHION TRIM RH LINCOLN CHINA -  SELECT (NO HEAT VENT)|Trim|右侧坐垫面套总成-SELECT--无加热通风
+U611_MS|186|1|4424728|AA|CUSHION TRIM RH LINCOLN CHINA - RESERVE/PREFERRED (INCLUDES HEAT VENT)|Trim|右侧坐垫面套总成-RESERVE/PREFERRED--有加热通风
+U611_MS|187|99|4915769|AA|CHINA LOCAL PRESIDENTIAL BENCH RH CUSHION TRIM|Trim|右侧中国区坐垫面套总成--PRESIDENTIAL BENCH
+U611_MS|188|1|4424719|AA|BACK TRIM CTR LINCOLN CHINA - PREMIER|Trim|中间座椅靠背面套总成-- PREMIER
+U611_MS|189|1|4424723|AA|BACK TRIM CTR LINCOLN CHINA - SELECT/RESERVE/PREFERRED|Trim|中间座椅靠背面套总成--SELECT/RESERVE/PREFERRED
+U611_MS|190|99|4915759|AA|CHINA LOCAL PRESIDENTIAL BENCH CENTER BACK TRIM|Trim|中间座椅中国区靠背面套总成--PRESIDENTIAL BENCH
+U611_MS|191|1|4424733|AA|CUSHION TRIM CTR LINCOLN CHINA - PREMIER|Trim|中间座椅坐垫面套总成-- PREMIER
+U611_MS|192|1|4424735|AA|CUSHION TRIM CTR LINCOLN CHINA - SELECT/RESERVE/PREFERRED|Trim|中间座椅坐垫面套总成-- SELECT/RESERVE/PREFERRED
+U611_MS|193|99|4915760|AA|CHINA LOCAL PRESIDENTIAL BENCH CENTER CUSHION TRIM|Trim|中间座椅中国区坐垫面套总成--PRESIDENTIAL BENCH
+U611_MS|194|1|4424710|AA|BACK TRIM LH LINCOLN (LEATHER) W/Armrest hole - VOLUME/PRIME - HEAT/VENT|Trim|左侧带扶手槽-带通风加热-PRIME 靠背面套总成
+U611_MS|195|1|4424705|AA|BACK TRIM LH BLACK LABEL #2 (LEATHER) W/Armrest Hole (incl HV)|Trim|左侧带扶手槽-带通风加热-黑色标签 靠背面套总成
+U611_MS|196|99|4956239|AA|CHINA LOCAL BACK TRIM LH LINCOLN CHINA - SELECT CAPTAIN(NO HV)|Trim|左侧靠背面套总成- SELECT CAPTAIN(
+U611_MS|197|1|4424714|AA|BACK TRIM LH LINCOLN CHINA - PREMIER (NO HV)|Trim|左侧靠背总成--PREMIER(无通风加热)
+U611_MS|198|1|4424718|AA|BACK TRIM LH LINCOLN CHINA - SELECT (NO HV)|Trim|左侧靠背总成--SELECT(无通风加热)
+U611_MS|199|1|4424716|AA|BACK TRIM LH LINCOLN CHINA - RESERVE/PREFERRED (INCL HV)|Trim|左侧靠背总成--RESERVE/PREFERRED(有通风加热)
+U611_MS|200|99|4915768|AA|CHINA LOCAL PRESIDENTIAL BENCH LH BACK TRIM|Trim|左侧中国区靠背面套总成--PRESIDENTIAL BENCH
+U611_MS|201|1|4424712|AA|CUSHION TRIM LH LINCOLN (LEATHER) CAPTN - VOLUME/PRIME -HEAT/VENT|Trim|左侧坐垫面套总成-Captain-- VOLUME/PRIME-带加热通风
+U611_MS|202|99|4956243|AA|CHINA LOCAL CUSHION TRIM LH LINCOLN CHINA LEATHER - SELECT CAPTAIN(NO HV)|Trim|左侧坐垫面套总成-Select Captain
+U611_MS|203|1|4424708|AA|CUSHION TRIM LH BLACK LABEL #2 (LEATHER) CAPTN (incl HV)|Trim|左侧坐垫面套总成-Captain-黑色标签-带加热通风
+U611_MS|204|1|4424726|AA|CUSHION TRIM LH LINCOLN CHINA LEATHER - PREMIER(NO HV)|Trim|左侧坐垫面套总成-PREMIER--无加热通风
+U611_MS|205|1|4424732|AA|CUSHION TRIM LH LINCOLN CHINA LEATHER - SELECT (NO HV)|Trim|左侧坐垫面套总成-SELECT--无加热通风
+U611_MS|206|1|4424729|AA|CUSHION TRIM LH LINCOLN CHINA LEATHER - RESERVE/PREFERRED (INCL HV)|Trim|左侧坐垫面套总成-RESERVE/PREFERRED--有加热通风
+U611_MS|207|99|4915770|AA|CHINA LOCAL PRESIDENTIAL BENCH LH CHSHION TRIM|Trim|左侧中国区坐垫面套总成- PRESIDENTIAL BENCH
+U611_MS|208|1|4401492|AA|HARDWARE KIT OB - POWER (CHINA)|Fastener|外侧紧固件组件--中国区电动
+U611_MS|209|1|4401493|AA|HARDWARE KIT OB - POWER (CHINA LH)|Fastener|外侧紧固件组件--左侧中国区电动
+U611_MS|210|1|4401494|AB|HARDWARE KIT OB - POWER - HEAT/VENT|Fastener|外侧紧固件组件-电动-带通风加热
+U611_MS|211|1|4401512|AA|HARDWARE KIT OB HEAT/VENT / ARMREST- Captain|Fastener|外侧座椅紧固件组件 带通风加热及扶手-Captain
+U611_MS|212|1|4401515|AB|HARDWARE KIT OB HEAT/VENT / ARMREST- Captain|Fastener|中间座椅紧固件组件-带扶手
+U611_MS|214|2|4401495|AA|OB Side Shield SCREW|Fastener|自攻钉M5*19
+U611_MS|215|2|4394303|AA|IB Side Shield SCREW|Fastener|螺钉MR5*12
+U611_MS|216|2|3858915|000|Inner Shields SCREW|Fastener|圣诞树卡子4.75*12.2
+U611_MS|217|2|4394303|AA|OB Track Cover SCREW|Fastener|螺钉MR5*12
+U611_MS|218|2|4394303|AA|IB Track Cover SCREW|Fastener|螺钉MR5*12
+U611_MS|219|2|4394303|AA|OB Rr Foot Cover SCREW|Fastener|螺钉MR5*12
+U611_MS|220|2|4394303|AA|IB Rr Foot Cover SCREW|Fastener|螺钉MR5*12
+U611_MS|221|2|4394303|AA|Power EZ Entry housing SCREW|Fastener|螺钉MR5*12
+U611_MS|222|2|4401503|AA|OB Front Valance SCREW|Fastener|螺栓M6*12
+U611_MS|223|2|4401504|AA|OB front Valance J-Nut|Fastener|U形螺母M6*0.8-1.5
+U611_MS|224|2|4401168|AA|Back Panel Push pins|Fastener|背板固定圣诞树卡子6.5*6.0
+U611_MS|225|2|4401506|AA|PFSM Module to Module bracket|Fastener|自攻钉M5*14
+U611_MS|226|2|4401506|AA|Module / Trim Bracket|Fastener|自攻钉M5*14
+U611_MS|227|2|4401508|AA|Locator Pin Foam Washer|Fastener|PVC自粘垫片
+U611_MS|228|2|4401509|AA|OB Shipping Bags|Package bag|外侧座椅包装袋
+U611_MS|229|2|4401558|AB|Locator Pin Flock Tape|Other|拉带固定销
+U611_MS|230|2|4402918|AA|Armrest Pivot Bolt|Fastener|扶手台阶螺栓MR10*69
+U611_MS|233|1|4401513|AC|HARDWARE KIT CENTER W/ ARMREST|Fastener|中间座椅紧固件组件-带扶手
+U611_MS|234|1|4401514|AD|HARDWARE KIT CENTER W/ CC ARMREST (CHINA)|Fastener|中间座椅紧固件组件-带扶手（中国区）
+U611_MS|235|2|4394303|AA|LH CTR SHIELD|Fastener|螺钉MR5*12
+U611_MS|236|2|4394303|AA|RH CTR SHIELD|Fastener|螺钉MR5*12
+U611_MS|237|2|4394303|AA|CTR Rr Foot Cover|Fastener|螺钉MR5*12
+U611_MS|238|2|4394303|AA|CTR FR Foot Cover|Fastener|螺钉MR5*12
+U611_MS|239|2|4401170|AA|Strap Housing|Fastener|螺钉M4.2*16
+U611_MS|240|2|4401171|AA|Push nut Insert for Strap Housing|Fastener|金属卡子螺母4.2
+U611_MS|241|2|4394303|AA|SIR Bezel|Fastener|螺钉MR5*12
+U611_MS|242|2|4394303|AA|CTR Inner Recliner Shields|Fastener|螺钉MR5*12
+U611_MS|243|2|4401503|AA|CTR Front Valence|Fastener|螺栓M6*12
+U611_MS|244|2|4401504|AA|CTR Front Valence- Jnut|Fastener|U形螺母M6*0.8-1.5
+U611_MS|247|2|4401532|AA|Center Armrest to back panel|Fastener|螺钉M6*14
+U611_MS|248|2|4401534|AA|Retractor Bolt|Fastener|螺栓M10*35
+U611_MS|250|2|4401508|AA|Locator Pin Foam Washer|Fastener|PVC自粘垫片
+U611_MS|251|2|4401506|AA|Module bracket|Fastener|自攻钉M5*14
+U611_MS|252|2|4401506|AA|USB Module to Bracket|Fastener|自攻钉M5*14
+U611_MS|253|2|4401506|AA|Inline connector bracket to module bracket|Fastener|自攻钉M5*14
+U611_MS|254|2|4401540|AA|CTR Shipping Bag|Package bag|中间座椅包装袋
+U611_MS|255|1|4401541|AB|STRAP - CTR Seat Recliner Strap|Other|中间座椅调角器拉带
+U611_MS|256|1|4401542|AA|RH seat harness PWR EZ entry/fold flat, Belt-Minder|Cable|右侧座椅电动EZE/折叠/安全带提醒线束总成
+U611_MS|257|1|4401543|AA|RH seat harness PWR EZ entry/fold flat, Belt-Minder,H/V Module|Cable|右侧座椅电动EZE/折叠/安全带提醒/加热通风线束总成
+U611_MS|258|1|4401545|AA|Center seat MAN fold flat, Belt-Minder|Cable|中间座椅手动折叠、安全带提醒线束
+U611_MS|259|1|4401546|AA|Center seat MAN fold flat, Belt-Minder, Cmd Cntrl ARST|Cable|中间座椅手动折叠、安全带提醒线束、CMD控制线束总成
+U611_MS|260|1|4401548|AA|LH seat harness PWR EZ entry/fold flat, Belt-Minder, PFSM|Cable|左侧座椅电动EZE/折叠/安全带提醒/PFSM 线束总成
+U611_MS|261|1|4401549|AA|LH seat harness PWR EZ entry/fold flat, Belt-Minder, PFSM, H/V|Cable|左侧座椅电动EZE/折叠/安全带提醒/PFSM/加热通风 线束总成
+U611_MS|262|1|4401550|AA|Heat/Vent Seat Module|Memory|加热通风座椅控制模块
+U611_MS|263|1|4401551|AA|EZ ENTRY SWITCH|Switch|EZE开关
+U611_MS|264|1|4401552|AA|CMD CNTRL (USB Module)|Memory|CMD控制模块
+U611_MS|265|1|4401553|AA|3R PFSM (Power Fold Module)|Memory|3R PFSM
+U611_MS|266|1|4401554|AA|LH/RH BKLE ASY RR ST|Function|左右侧安全带锁扣
+U611_MS|267|1|4401555|AA|CTR BEL & RETR ASY RR ST CTR (Export)|Function|中间座椅卷收器约束系统
+U611_MS|268|1|4401556|AA|CTR BKLE ASY RR ST BEL|Function|中间座椅安全带锁扣
+U611_RS|1|0|4401152|AA|POWER, 50/50, SELCT/RESERVE/PREFERRRED, CHINA|Assy|后排电动座椅总成-SELCT/RESERVE/PREFERRRED
+U611_RS|2|0|4401153|AA|POWER, 50/50, PREMIERE, CHINA|Assy|后排电动座椅总成- PREMIER
+U611_RS|3|0|4401154|AA|POWER, 50/50, PRESIDENTIAL, CHINA|Assy|后排电动座椅总成-PRESIDENTIAL
+U611_RS|4|1|4401155|AB|Seat Back Frame Assembly 50/50 - Lincoln Power|Frame|后排靠背骨架总成 - Lincoln Power
+U611_RS|5|1|4401156|AB|Head Restraint - 3rd Row O/B - Low Pivot Mech Power|Assy|头枕折叠机构总成 第三排 电动
+U611_RS|6|1|4401157|AB|U611 Head Restraint - 3rd Row O/B - Foldable -Premiere/Select/Reserve (Vinyl)|Assy|头枕总成-Premiere/Select/Reserve (Vinyl)
+U611_RS|7|1|4401158|AB|U611 Head Restraint - 3rd Row O/B - Foldable - Black Label Vinyl|Assy|头枕总成-Presidential （Vinyl）
+U611_RS|8|1|4401159|AA|Bezel Child Tether|plastic|儿童锁栓盖板
+U611_RS|9|1|4401160|AB|Recliner Mech and Lwr Bracket Cover - RH IB|plastic|中间调角器盖板
+U611_RS|10|1|4401161|AA|Pull Strap Bezel RH|plastic|拉带盖板-右
+U611_RS|11|1|4401162|AA|Pull Strap Bezel LH|plastic|拉带盖板-左
+U611_RS|12|1|4401163|AA|Pull Strap Housing RH|plastic|拉带盖板支架-右
+U611_RS|13|1|4401164|AA|Pull Strap Housing LH|plastic|拉带盖板支架-左
+U611_RS|14|1|4401165|AB|Hockey Stick Cover  - RH OB|plastic|侧盖板-右
+U611_RS|15|1|4401166|AB|Hockey Stick Cover - LH OB|plastic|侧盖板-左
+U611_RS|16|1|4394437|AB|Panel, Insert - LH/RH|plastic|塑料背板
+U611_RS|17|1|4401167|AC|Fasteners Kit 3rd Row 50/50 - Lincoln - Power|Assy|紧固件总成模块
+U611_RS|18|2|4401168|AA|Trim PIN 6.5x6.0 PLA|fastener|背板固定圣诞树卡子6.5*6.0
+U611_RS|19|2|3858915|000|Trim PIN 4.75x12.2|fastener|圣诞树卡子4.75*12.2
+U611_RS|20|2|4401170|AA|Screws for attaching Pull Strap housing to Structure 4.2×16|fastener|螺钉M4.2*16
+U611_RS|21|2|4401171|AA|Push Nuts for attaching Pull Strap housing to Structure|fastener|金属卡子螺母4.2
+U611_RS|22|2|4401172|AA|Bolt M8x20 HR PIL 10 - Attaching head rest actuator to structure|fastener|头枕折叠机构螺栓 M8x20
+U611_RS|23|2|4394303|AA|MR5 X 12 Screw and Washer for plastics attaching to structure|fastener|脚盖板安装螺栓
+U611_RS|24|2|4401175|AB|MR6×25 Bolt to attach load floor structure stand off and cross bar|fastener|横梁安装螺栓 MR6×25
+U611_RS|25|2|4401176|AB|Insulating foam gasket (PSA) around locator pin|fastener|安装垫片
+U611_RS|26|2|4459301|AA|shipping bag RH and LH back (50%)|Package bag|后排靠背包装袋
+U611_RS|27|2|4459307|AA|shipping bag cushion (shower cap)|Package bag|后排座垫包装袋
+U611_RS|28|2|4401188|AA|M8×20 Bolt for attaching the EPP wire frame to the seat back structure - thread rolling bolt|fastener|座靠连接螺栓 M8×20
+U611_RS|29|2|4401203|AA|Foam 3X3 PSA|fastener|泡沫垫
+U611_RS|30|2|4464986|AA|RET WIR HRNS TIE STRP|fastener|扎带
+U611_RS|31|1|4394438|AD|Pad Asy - RH RSB - Base (Prem/Sel/Res/)|Assy|后排靠背泡沫总成-右
+U611_RS|32|2|4396281|AB|Poured Pad|Pad/Foam|泡沫-右
+U611_RS|33|2|4396282|AA|Cloth- Molded Straps|other|布拉带
+U611_RS|34|2|4396326|AA|Strip Fastener YKK OF Flex A2  120mm|other|刺毛带 YKK
+U611_RS|35|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3_260 mm|other|刺毛带 YKK
+U611_RS|36|2|4395920|AA|Strip Fastener YKK QuickFit Z15-3_140 mm|other|刺毛带 YKK
+U611_RS|37|2|4396324|AA|Strip Fastener YKK QuickFit Z15-3_160 mm|other|刺毛带 YKK
+U611_RS|38|2|4401400|AA|NRT|Chemical|消音蜡
+U611_RS|40|1|4394439|AD|Pad Asy - LH RSB - Base (Prem/Sel/Res/)|Assy|后排靠背泡沫总成-左
+U611_RS|41|2|4396285|AB|Poured Pad|Pad/Foam|泡沫
+U611_RS|42|2|4396282|AA|Cloth- Molded Straps|other|布拉带
+U611_RS|43|2|4396326|AA|Strip Fastener YKK OF Flex A2  120mm|other|刺毛带 YKK
+U611_RS|44|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3_260 mm|other|刺毛带 YKK
+U611_RS|45|2|4395920|AA|Strip Fastener YKK QuickFit Z15-3_140 mm|other|刺毛带 YKK
+U611_RS|46|2|4396324|AA|Strip Fastener YKK QuickFit Z15-3_160 mm|other|刺毛带 YKK
+U611_RS|47|2|4401400|AA|NRT|Chemical|消音蜡
+U611_RS|49|1|4394440|AD|Pad Asy - RSC Bench - Base (Prem/Sel/Res/)|Assy|后排座泡沫总成
+U611_RS|50|2|4396286|AB|Poured Pad|Pad/Foam|泡沫
+U611_RS|51|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3_260 mm|other|刺毛带 YKK
+U611_RS|52|2|4396324|AA|Strip Fastener YKK QuickFit Z15-3_160 mm|other|刺毛带 YKK
+U611_RS|53|1|4394441|AD|EPP  (Same part is included in structures as cushion frame)|Pad/Foam|EPP总成
+U611_RS|59|1|4423121|AB|Trim Cover Cushion Bench Asy - China Select Reserve Base Leather|cover|座面套总成-Select Reserve,Prefered
+U611_RS|60|1|4423121|AB|Trim Cover Cushion Bench Asy - China Premier Base Leather|cover|座面套总成-Select Reserve,Prefered
+U611_RS|61|1|4423122|AB|Trim Cover Cushion Bench Asy - China Presidential Base Leather|cover|座面套总成-Presidential
+U611_RS|62|1|4423127|AB|Trim Cover Back Asy RH - China Select Reserve Base Leather|cover|靠背面套总成 右--Select Reserve
+U611_RS|63|1|4423126|AB|Trim Cover Back Asy RH - China Premier Base Leather|cover|靠背面套总成 右-Premierr
+U611_RS|64|1|4423129|AB|Trim Cover Back Asy RH - China Presidential Base Leather|cover|靠背面套总成 右-Presidential
+U611_RS|65|1|4423124|AB|Trim Cover Back Asy LH - China Select Reserve Base Leather|cover|靠背面套总成 左--Select Reserve
+U611_RS|66|1|4423123|AB|Trim Cover Back Asy LH - China Premier Base Leather|cover|靠背面套总成 左-Premierr
+U611_RS|67|1|4423125|AB|Trim Cover Back Asy LH - China Presidential Base Leather|cover|靠背面套总成 左-Presidential
+U611_RS|68|1|4394442|AC|VINYL Accuation Strap Kit 3R Seat and Head Restraint -POWER|Plastic|拉带-电动
+U611_RS|69|1|4401201|AA|Cross Car Metal Bar for Gap Hider Close Out|Frame|横梁
+U611_RS|70|1|4401199|AC|Wire harness W/ Belt Minder and Power Seat Motors|cable|电动座椅线束
+U611_RS|71|1|4401200|AB|Buckle Asy - RR Seat RH - With Belt Minder|Function|锁扣总成
+U625_FS|1|0|4403136|AA|Trend Leather DR 10WP - Heat  (China)|Complete seat|Trend前排座椅总成-主驾
+U625_FS|2|0|4403137|AA|Trend Leather PASS 8WP - Heat  (China)|Complete seat|Trend前排座椅总成-副驾
+U625_FS|3|0|4403138|AA|Titanium Leather Perf Driver  10WP - Memory Heat Vent  (China)|Complete seat|Titanium前排座椅总成-主驾
+U625_FS|4|0|4403139|AA|Titanium Leather Perf PASS 10WP - Heat Vent  (China)|Complete seat|Titanium前排座椅总成-副驾
+U625_FS|5|0|4403140|AA|Sport Line Leather Perf DR 8WP - memory, heat/vent, MCS (China)|Complete seat|ST-Line前排座椅总成-主驾
+U625_FS|6|0|4403141|AA|Sport Line Leather Perf PASS 8WP - heat/vent/MCS (China)|Complete seat|ST-Line前排座椅总成-副驾
+U625_FS|7|0|4403142|AA|Platinum Leather Perf Driver  8WP - Memory Heat Vent / MCS (China)|Complete seat|Platinum 前排座椅总成-主驾
+U625_FS|8|0|4403143|AA|Platinum  Leather Perf PASS 8WP - Heat Vent / MCS  (China)|Complete seat|Platinum 前排座椅总成-副驾
+U625_FS|9|1|4394190|AA|Back Frame - LH Power Recline NON-MEM DR|Frame|副驾靠背骨架总成（不带记忆）
+U625_FS|10|1|4394191|AA|Back Frame - LH Power Recline /w Memory|Frame|主驾靠背骨架总成（带记忆）
+U625_FS|11|1|3569859|AA|Track ASY - RH 6WP -NON-MEM|Frame|U625 前排副驾六向电动座框总成（不带记忆）
+U625_FS|12|1|3569853|AA|Track ASY - LH 6WP -NON-MEM|Frame|U625前排主驾六向电动座框总成（不带记忆）
+U625_FS|13|1|3569867|AA|Track ASY - LH 6WP /w Memory|Frame|U625前排主驾六向电动座框总成（带记忆）
+U625_FS|14|1|3759249|AA|Track ASY - RH 4WP|Frame|U625前排副驾四向电动座框总成
+U625_FS|15|1|4373572|AA|O/B shield brkt, RH|Frame|侧饰板安装支架-右-外侧
+U625_FS|16|1|4373573|AA|O/B shield brkt, LH|Frame|侧饰板安装支架-左-外侧
+U625_FS|17|1|4373574|AA|I/B shield brkt, RH|Frame|内侧旁侧板支架-右
+U625_FS|18|1|4373575|AA|I/B shield brkt, LH|Frame|内侧旁侧板支架-左
+U625_FS|19|1|4395911|AA|Cushion - Foam Pad RH - XLT|Foam|副驾前座泡沫总成-trend
+U625_FS|20|1|4395912|AA|Cushion - Foam Pad RH - Sport-Plat-Vent/MCS|Foam|副驾前座泡沫总成-ST/Platinum
+U625_FS|21|1|4395913|AA|Cushion - Foam Pad RH - LTD-Vent|Foam|副驾前座泡沫总成-titanium
+U625_FS|22|2|4395914|AA|Po+E33:F71ured Pad|Foam|副驾前座裸泡沫-trend
+U625_FS|23|2|4395915|AA|Poured Pad|Foam|副驾前座裸泡沫-ST/Platinum
+U625_FS|24|2|4395916|AA|Poured Pad|Foam|副驾前座裸泡沫-titanium
+U625_FS|25|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫卡子
+U625_FS|26|2|4395918|AA|Cloth Insert- 450 x 500 2 oz.|Foam|座毛毡1
+U625_FS|27|2|4401400|AA|NRT|Foam|消音蜡
+U625_FS|28|2|4395920|AA|Strip Fastener YKK QuickFit Z15-3-  140 mm|Foam|YKK 140 mm (YKK QF Z15-3)
+U625_FS|29|2|4395921|AA|Cloth Insert- 450 x 500 2 oz.|Foam|座毛毡2
+U625_FS|30|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3-  260 mm|Foam|雄雌毛带-260mm
+U625_FS|31|2|4395923|AA|Strip Fastener (420mm)|Foam|弯条雄雌毛带
+U625_FS|32|1|4395924|AA|Cushion - Foam Pad LH - XL/XLT|Foam|主驾前座泡沫总成-trend
+U625_FS|33|1|4395941|AA|Cushion - Foam Pad LH - Sport-Plat Vent/MCS|Foam|主驾前座泡沫总成-ST/Platinum
+U625_FS|34|1|4395942|AA|Cushion - Foam Pad LH - LTD-Vent|Foam|主驾前座泡沫总成-titanium
+U625_FS|35|2|4395943|AA|Poured Pad|Foam|主驾前座裸泡沫-trend
+U625_FS|36|2|4395944|AA|Poured Pad|Foam|主驾前座裸泡沫-ST/Platinum
+U625_FS|37|2|4395945|AA|Poured Pad|Foam|主驾前座裸泡沫titanium
+U625_FS|38|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫卡子
+U625_FS|39|2|4395918|AA|Cloth Insert- 450 x 500 2 oz.|Foam|座毛毡1
+U625_FS|40|2|4401400|AA|NRT|Foam|消音蜡
+U625_FS|41|2|4395920|AA|Strip Fastener YKK QuickFit Z15-3-  140 mm|Foam|YKK 140 mm (YKK QF Z15-3)
+U625_FS|42|2|4395921|AA|Cloth Insert- 450 x 500 2 oz.|Foam|座毛毡2
+U625_FS|43|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3-  260 mm|Foam|雄雌毛带-260mm
+U625_FS|44|2|4395923|AA|Strip Fastener (420mm)|Foam|弯条雄雌毛带
+U625_FS|45|1|4395946|AB|Back - Foam Pad - XL/XLT|Foam|前靠泡沫总成-trend
+U625_FS|46|1|4395947|AB|Back - Foam Pad - Sport-Plat - Vent/MCS|Foam|前靠泡沫总成-ST/Platinum
+U625_FS|47|1|4395948|AB|Back - Foam Pad - LTD -Vent|Foam|前靠泡沫总成-titanium
+U625_FS|48|2|4395949|AB|Poured Pad|Foam|前靠裸泡沫-trend
+U625_FS|49|2|4395950|AB|Poured Pad|Foam|前靠裸泡沫-ST/Platinum
+U625_FS|50|2|4395951|AB|Poured Pad|Foam|前靠裸泡沫titanium
+U625_FS|51|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫卡子
+U625_FS|52|2|4401400|AA|NRT|Foam|消音蜡
+U625_FS|54|2|4395952|AA|Cloth Insert- 500x600 2 oz.|Foam|靠毛毡2
+U625_FS|55|2|4395953|AA|Strip Fastener YKK QuickFit Z15-3- 180 mm|Foam|雄雌毛带-180mm
+U625_FS|56|2|4394153|AA|Strip Fastener YKK QuickFit Z15-3- 60 mm|Foam|YKK Z15-3 60 mm
+U625_FS|57|2|4396316|AA|Strip Fastener YKK QuickFit Z15-3- 260 mm|Foam|雄雌毛带-260mm
+U625_FS|58|1|4424079|AA|trend - CVR CUSHION FRONT - LEATHER RH|Trim|前排副驾座面套总成 trend
+U625_FS|59|1|4424073|AA|trend - CVR BACK FRONT -LEATHER RH|Trim|前排副驾靠面套总成 trend
+U625_FS|60|1|4424078|AA|ST-Line - CVR CUSHION FRONT - LEATHER RH|Trim|前排副驾座面套总成 ST-Line
+U625_FS|61|1|4424071|AA|ST-Line- CVR BACK FRONT -LEATHER RH|Trim|前排副驾靠面套总成 ST-Line
+U625_FS|62|1|4424077|AA|PLATINUM - CVR CUSHION FRONT - LEATHER RH|Trim|前排副驾座面套总成 platinum
+U625_FS|63|1|4424069|AA|PLATINUM- CVR BACK FRONT -LEATHER RH|Trim|前排副驾靠面套总成 platinum
+U625_FS|64|1|4424076|AA|titanium - CVR CUSHION FRONT - LEATHER RH|Trim|前排副驾座面套总成 titanium
+U625_FS|65|1|4424067|AA|titanium - CVR BACK FRONT -LEATHER RH|Trim|前排副驾靠面套总成 titanium
+U625_FS|66|1|4424084|AA|trend - CVR CUSHION FRONT - LEATHER LH|Trim|前排主驾座面套总成 trend
+U625_FS|67|1|4424074|AA|trend - CVR BACK FRONT -LEATHER LH|Trim|前排主驾靠面套总成 trend
+U625_FS|68|1|4424083|AA|ST-Line - CVR CUSHION FRONT - LEATHER LH|Trim|前排主驾座面套总成 ST-Line
+U625_FS|69|1|4424072|AA|ST-Line - CVR BACK FRONT -LEATHER LH|Trim|前排主驾靠面套总成 ST-Line
+U625_FS|70|1|4424082|AA|PLATINUM - CVR CUSHION FRONT - LEATHER LH|Trim|前排主驾座面套总成 platinum
+U625_FS|71|1|4424070|AA|PLATINUM- CVR BACK FRONT -LEATHER LH|Trim|前排主驾靠面套总成 platinum
+U625_FS|72|1|4424081|AA|titanium - CVR CUSHION FRONT - LEATHER LH|Trim|前排主驾座面套总成 titanium
+U625_FS|73|1|4424068|AA|titanium - CVR BACK FRONT -LEATHER LH|Trim|前排主驾靠面套总成 titanium
+U625_FS|74|1|4403179|AA|Side shield - RH - 10WP/8WP/8WP, MCS|Plastic|副驾大旁侧板
+U625_FS|75|1|4403180|AA|Side shield - LH - 10WP/8WP, MCS|Plastic|主驾大旁侧板
+U625_FS|76|1|4403181|AA|Valance - RH - 6-way Power Track|Plastic|副驾前侧板
+U625_FS|77|1|4403182|AA|Valance - LH - 6-way Power Track|Plastic|主驾前侧板
+U625_FS|78|1|4396391|AB|OB Riser - front - RH|Plastic|副驾外侧滑轨前盖板
+U625_FS|79|1|4396392|AB|OB Riser - front - LH|Plastic|主驾外侧滑轨前盖板
+U625_FS|80|1|4394279|AA|IB Riser - front - RH|Plastic|副驾内侧滑轨前盖板
+U625_FS|81|1|4394280|AA|IB Riser - front - LH|Plastic|主驾内侧滑轨前盖板
+U625_FS|82|1|4394281|AA|Riser -rear outboard - RH|Plastic|副驾外侧滑轨后盖板
+U625_FS|83|1|4394282|AA|Riser - rear outboard  - LH|Plastic|主驾外侧滑轨后盖板
+U625_FS|84|1|4396393|AA|Riser -rear inboard  - RH|Plastic|副驾内侧滑轨后盖板
+U625_FS|85|1|4396394|AA|Riser - rear inboard  - LH|Plastic|主驾内侧滑轨后盖板
+U625_FS|86|1|4403206|AA|Inner Shield - RH|Plastic|大旁侧板盖板-副驾
+U625_FS|87|1|4403207|AA|Inner Shield - LH|Plastic|大旁侧板盖板-主驾
+U625_FS|88|1|4403208|AA|Inboard shield - RH|Plastic|副驾小旁侧板
+U625_FS|89|1|4403209|AA|Inboard shield - LH|Plastic|主驾小旁侧板
+U625_FS|90|1|4403211|AA|Back Panel ASY|Plastic|大背板1
+U625_FS|91|1|4403315|AA|Back Panel ASY|Plastic|大背板2
+U625_FS|92|1|4403316|AA|Back Panel ASY|Plastic|大背板3
+U625_FS|93|1|4403213|AA|Cushion Module Assy - 10WP No Heat - RH|Comfort|副驾座模块-trend
+U625_FS|94|1|4403214|AA|Cushion Module Assy - 10WP Heat/vent - RH|Comfort|副驾座模块-titanium
+U625_FS|95|1|4403215|AA|Cushion Module Assy - 8WP Heat/vent/MCS- RH|Comfort|副驾座模块-ST/Platinum
+U625_FS|96|1|4403216|AA|Cushion Module Assy - 10WP no Heat- LH|Comfort|主驾座模块-trend
+U625_FS|97|1|4403217|AA|Cushion Module Assy - 10WP Heat/vent/Mem - LH|Comfort|主驾座模块-titanium
+U625_FS|98|1|4403218|AA|Cushion Module Assy - 8WP Heat/vent/MCS/Mem- LH|Comfort|主驾座模块-ST/Platinum
+U625_FS|99|1|4403220|AA|Back Module Assy RH - 2WP Lumbar|Comfort|副驾靠背模块-trend/Titanium
+U625_FS|100|1|4403221|AA|Back Module Assy RH - MCS|Comfort|副驾靠背模块-ST/Platinum
+U625_FS|101|1|4403222|AA|Back Module Assy LH - 2WP Lumbar|Comfort|主驾靠背模块-trend/Titanium
+U625_FS|102|1|4403223|AA|Back Module Assy LH - MCS|Comfort|主驾靠背模块-ST/Platinum
+U625_FS|103|1|4403225|AA|H/R Assy - Structure & EPP - 4WM|Head rest|头枕-trend/Titanium/ST
+U625_FS|104|1|4403226|AA|H/R Assy - Structure & EPP - 4WM|Head rest|头枕-Platinum
+U625_FS|105|1|3324595|AC|HR Guide Sleeve - Master|Plastic|主头枕导管
+U625_FS|106|1|3324598|AD|HR Guide Sleeve - Slave|Plastic|副头枕导管
+U625_FS|107|1|4403229|AB|Heater Mat - Cushion - Volume heat/vent|Comfort|座加热垫
+U625_FS|108|1|4403230|AB|Heater Mat - Cushion - Sport heat/vent|Comfort|座加热垫
+U625_FS|109|1|4403231|AB|Heater Mat - Back - Volume heat/vent|Comfort|靠加热垫
+U625_FS|110|1|4403232|AB|Heater Mat - Back - Sport heat/vent|Comfort|靠加热垫
+U625_FS|111|1|4394245|AA|Ventilation Blower Back|Comfort|通风电机
+U625_FS|112|1|4403234|AA|Ventilation Bag Back|Comfort|靠背通风袋
+U625_FS|113|1|4394248|AA|Ventilation Bag Cushion|Comfort|12向坐垫通风袋
+U625_FS|114|1|4403237|AA|JIT Kit - CMPNTS 1st Row RH - 8/10-way (heat or no heat)|Hardware Kit|标准件集合1
+U625_FS|115|1|4403238|AA|JIT Kit - CMPNTS 1st Row RH - 8-way & heat/vent/MCS|Hardware Kit|标准件集合2
+U625_FS|116|1|4403239|AA|JIT Kit - CMPNTS 1st Row LH - 10-way (heat or non-heat)|Hardware Kit|标准件集合3
+U625_FS|117|1|4403240|AA|JIT Kit - CMPNTS 1st Row LH 10-way mem heat/vent|Hardware Kit|标准件集合4
+U625_FS|118|1|4403241|AA|JIT Kit - CMPNTS 1st Row LH 8-way mem heat/vent/MCS|Hardware Kit|标准件集合5
+U625_FS|119|2|4394303|AA|SCREW$WSHR MR5X12 PN TI FL -0-TRACK COVER TO MOUNTING FEET|Hardware|
+U625_FS|120|2|4403313|AA|CVR ASY FRT ST PROT-SHIPING BAG|Other|前排包装袋1
+U625_FS|121|2|4403314|AA|CVR ASY FRT ST PROT-SHIPING BAG|Other|前排包装袋2
+U625_FS|122|2|4394311|AA|SCREW 4X16 PC TI TFP TH-SWITCH TO SIDE SHIELD&TPS TO TRACK|Hardware|
+U625_FS|123|2|2491518|AA|SCREW&WSHR M4X12 PN TI ADH 8-SHIELD TO TRACK ASSY &WIRE BRKT TO BK|Hardware|旁侧板连接螺栓
+U625_FS|124|2|2491864|AA|BOLT M5X8 PN TI ADH 8-VALENCE BRACKETS TO TRACK ASY|Hardware|外旁侧板连接支架螺钉/手柄螺钉
+U625_FS|125|2|4394297|AA|BOLT M8X30 MA TI SHLOR PTM TM-CUSH PAN PIVOT TO TRACK ASY|Hardware|
+U625_FS|126|2|4394298|AA|SCREW 4.2X0.79X12.3 PC TI PIL -0-CUSHION MODULE TO REAR STRAP|Hardware|
+U625_FS|127|2|2491902|AA|BOLT M10X14 PN TI PIP 10-BACK TO TRACK ASY|Hardware|座靠连接螺栓
+U625_FS|128|2|4403267|AA|SCREW 5X10 PC TI TFP TM-INNER SHIELD TO TRACK ASY|Hardware|
+U625_FS|129|2|4394299|AA|SCREW&WSHR MR6X22 PN TI FL010|Hardware|
+U625_FS|130|2|4394310|AA|FLG HEX NUT M6 FREE RUNNING 8.8-SAB TO BK MOD/FRAME|Hardware|
+U625_FS|131|2|4403270|AA|SCREW 5X16 PC TI R TFP TH-BACK MODULE TO BACK FRAME|Hardware|
+U625_FS|132|2|2542979|AA|TRIM PIN 6.3X20.4 NYL-TRIM SOCK TO BACK FRAME|Hardware|前靠面套固定销
+U625_FS|133|2|4394319|AA|LBL HD/RES-LABEL|Hardware|
+U625_FS|134|2|4394316|AA|SCREW 5X15 PC TI TFP TM-MEMORY MODULE TO CUSHION MODULE|Hardware|
+U625_FS|135|1|4403276|AB|BKLE ASY FRT ST BEL|Safety|安全带固定器RH
+U625_FS|136|1|4403277|AB|BKLE ASY FRT ST BEL LH|Safety|安全带固定器LH
+U625_FS|137|1|4403278|AB|SAB RH|Safety|侧气囊RH
+U625_FS|138|1|4403279|AB|SAB LH|Safety|侧气囊LH
+U625_FS|139|1|4396401|AA|TPS LH|Safety|主驾滑轨位置传感器
+U625_FS|140|1|4396400|AA|TPS RH|Safety|副驾滑轨位置传感器
+U625_FS|141|1|4403282|AB|OCS BLADDER|Safety|OCS囊
+U625_FS|142|1|4403283|AB|OCS BLADDER (MCS)|Safety|OCS囊带按摩
+U625_FS|143|1|4394358|AB|Memory module|Wire Harnessess|10/12 向主驾记忆模块
+U625_FS|144|1|4403285|AA|10-SW ASY ST REG CONTR RH (6-Way + Recline+ Lumbar)|Wire Harnessess|10W控制盒-副驾
+U625_FS|145|1|4403286|AA|8-SW ASY ST REG CONTR RH (4-Way + Recline+ Lumbar)|Wire Harnessess|8W控制盒-副驾
+U625_FS|146|1|4403287|AA|8-SW ASY ST REG CONTR RH MCS (6-Way + Recline+ MCS)|Wire Harnessess|8W控制盒带按摩-副驾
+U625_FS|147|1|4403289|AA|10-SW ASY ST REG CONTR LH (6-Way + Recline+ Lumbar)|Wire Harnessess|10W控制盒-主驾
+U625_FS|148|1|4403290|AA|10-SW ASY ST REG CONTR LH (6-Way + Recline+ Lumbar)|Wire Harnessess|8W控制盒-主驾
+U625_FS|149|1|4403291|AA|8-SW ASY ST REG CONTR LH MCS (6-Way + Recline+ MCS)|Wire Harnessess|8W控制盒带按摩-主驾
+U625_FS|150|1|4403292|AA|Track Switch Cap LH|Wire Harnessess|主驾滑轨开关2
+U625_FS|151|1|4403293|AA|Track Switch Cap LH|Wire Harnessess|主驾滑轨开关1
+U625_FS|152|1|4403294|AA|Track Switch Cap RH|Wire Harnessess|副驾滑轨开关2
+U625_FS|153|1|4403295|AA|Track Switch Cap RH|Wire Harnessess|副驾滑轨开关1
+U625_FS|154|1|4403296|AA|Recline Switch Cap LH|Wire Harnessess|主驾调角器开关2
+U625_FS|155|1|4403297|AA|Recline Switch Cap LH|Wire Harnessess|主驾调角器开关1
+U625_FS|156|1|4403298|AA|Recline Switch Cap RH|Wire Harnessess|副驾调角器开关2
+U625_FS|157|1|4403299|AA|Recline Switch Cap RH|Wire Harnessess|副驾调角器开关1
+U625_FS|158|1|4403300|AA|Rear Footwell RH|Wire Harnessess|氛围灯RH
+U625_FS|159|1|4403301|AA|Rear Footwell LH|Wire Harnessess|氛围灯LH
+U625_FS|160|1|4403302|AA|Pass 8Way Power - heat|Wire Harnessess|副驾加热线束
+U625_FS|161|1|4403303|AA|Pass 10Way Power - heat/Vent|Wire Harnessess|副驾加热通风线束
+U625_FS|162|1|4403304|AA|Pass 8Way Power - heat/Vent/MCS|Wire Harnessess|副驾加热通风按摩线束
+U625_FS|163|1|4403308|AA|Driver 10Way Power - heat|Wire Harnessess|主驾加热线束
+U625_FS|164|1|4403309|AA|Driver 10Way Power - heat/vent/mem|Wire Harnessess|主驾加热通风线束
+U625_FS|165|1|4403310|AA|Driver 8Way Power - heat/vent/mem/MCS|Wire Harnessess|主驾加热通风按摩线束
+U625_FS|166|1|4727459|AA|Trim Sock- ST Back - RH (put under miscellaneous tab)|Trim|靠背右侧边板遮丑布
+U625_FS|167|1|4727460|AA|Trim Sock- ST Back - LH (put under miscellaneous tab)|Trim|靠背左侧边板遮丑布
+U625_MS|1|0|4396253|AB|JIT RH -35% OB XLT (Vinyl) - China|Complete seat|二排座椅总成-35%右TrendPVC
+U625_MS|2|0|4396254|AB|JIT RH -35% OB  Limited  (LEATHER) - Heat / China|Complete seat|二排座椅总成-35%右Titanium真皮加热
+U625_MS|3|0|4396255|AB|JIT RH - 35% OB Sport  (LEATHER) - Heat  - China|Complete seat|二排座椅总成-35%右ST-Line真皮加热
+U625_MS|4|0|4396256|AB|JIT RH - Captain  Sport  (LEATHER) - Heat  - China|Complete seat|二排座椅总成-40%右ST-Line真皮加热
+U625_MS|5|0|4396257|AB|JIT RH - 35% OB Platinum (LEATHER) - Heat - China|Complete seat|二排座椅总成-35%右Platinum 真皮加热
+U625_MS|6|0|4396258|AB|JIT RH - Captain  Platinum (LEATHER) - Heat - China|Complete seat|二排座椅总成-40%右Platinum真皮加热
+U625_MS|7|0|4396260|AB|JIT CTR - XLT- NO armrest  (Vinyl) (China )|Complete seat|二排座椅总成-30%中Trend无扶手PVC
+U625_MS|8|0|4396261|AB|JIT CTR - LIMITED W/ ARMREST (vinyl) (China )|Complete seat|二排座椅总成-30%中Titanium
+U625_MS|9|0|4396262|AB|JIT CTR - SPORT W/ ARMREST (vinyl) (China)|Complete seat|二排座椅总成-30%中ST-LinePVC带扶手
+U625_MS|10|0|4396263|AB|JIT CTR - PLATINUM W/ ARMREST (vinyl) ( China)|Complete seat|二排座椅总成-30%中Platinum PVC带扶手
+U625_MS|11|0|4396265|AB|JIT LH -35% OB XLT Vinyl) - China|Complete seat|二排座椅总成-35%左TrendPVC
+U625_MS|12|0|4396266|AB|JIT LH -35% OB  Limited  (LEATHER) - Heat / China|Complete seat|二排座椅总成-35%左Titanium真皮加热
+U625_MS|13|0|4396267|AB|JIT LH - 35% OB Sport  (LEATHER) - Heat  - China|Complete seat|二排座椅总成-35%左ST-Line真皮加热
+U625_MS|14|0|4396268|AB|JIT LH - Captain  Sport  (LEATHER) - Heat  - China|Complete seat|二排座椅总成-40%左ST-Line真皮加热
+U625_MS|15|0|4396270|AB|JIT LH - 35% OB Platinum (LEATHER) - Heat - China|Complete seat|二排座椅总成--35%左Platinum真皮加热
+U625_MS|16|0|4396271|AB|JIT LH - Captain  Platinum (LEATHER) - Heat - China|Complete seat|二排座椅总成-40%左Platinum真皮加热
+U625_MS|17|0|4396272|AB|JIT RH -Captain  OB XLT (Vinyl) - China|Complete seat|二排座椅总成-40%右TrendPVC
+U625_MS|18|0|4396273|AB|JIT LH -Capatin OB XLT (Vinyl) - China|Complete seat|二排座椅总成-40%左TrendPVC
+U625_MS|19|0|4396274|AB|JIT RH -Captain  OB  Limited  (LEATHER) - Heat / China|Complete seat|二排座椅总成-40%右Titanium真皮加热
+U625_MS|20|0|4396275|AB|JIT LH -Capatin OB Limited (Leather) - China|Complete seat|二排座椅总成-40%左Titanium真皮
+U625_MS|21|1|4396276|AA|40% RH-OB (CAPTAIN) Manual  (Manual FF & Manual -EZ, w/AR)|Frame|40% 右侧（CAPTAIN）骨架总成(手动向前折叠&手动ZEZ，带扶手)
+U625_MS|22|1|4396277|AA|40% LH-OB (CAPTAIN) Manual  (Manual FF &Manual  EZ, w/AR)|Frame|40% 左侧（CAPTAIN）骨架总成(手动向前折叠&手动ZEZ，带扶手)
+U625_MS|23|1|4396278|AA|35% RH-OB Manual Seat (Manual FoldFlat & EZ Entry)| Frame|35% 右侧骨架总成(手动向前折叠&EZE)
+U625_MS|24|1|4396279|AA|30% CTR Manual (Manual fold-No armrest)| Frame|30%中间手动骨架总成（手动折叠，无扶手）
+U625_MS|25|1|4396280|AA|35% LH-OB Manual Seat (Manual FoldFlat & EZ Entry)| Frame|35% 左侧骨架总成(手动向前折叠&EZE)
+U625_MS|26|1|4401322|AA|30% CTR Manual (Manual fold- with armrest)| Frame|30%中间手动骨架总成（手动折叠，带扶手）
+U625_MS|27|1|4402747|AA|40% RH-OB (CAPTAIN) Pwr (Manual FF & Power-EZ, w/AR)| Frame|40% 右侧（CAPTAIN）骨架总成(手动向前折叠&电动ZEZ，带扶手)
+U625_MS|28|1|4402748|AA|40% LH-OB (CAPTAIN) Pwr (Manual FF & Power  EZ, w/AR)| Frame|40% 左侧（CAPTAIN）骨架总成(手动向前折叠&电动ZEZ，带扶手)
+U625_MS|29|1|4401325|AA|CTR Seat In-line Connector Bracket| Frame|中间座椅连接器支架
+U625_MS|30|1|4396185|AA|PAD ASY RR ST BK RH BASE (XL/XLT/ LTD )-35%|Foam|泡沫总成-35%右侧靠背(Trend/Titanium )
+U625_MS|31|1|4396187|AA|PAD ASY RR ST BK RH SPORT (ST/ PLT)-35%|Foam|泡沫总成-35%右侧靠背(ST-Line/ Platinum)
+U625_MS|32|1|4396186|AA|PAD ASY RR ST BK RH BASE  (XLT/LTD )- CAPTAIN|Foam|泡沫总成-40%右侧靠背(Trend/Titanium )
+U625_MS|33|1|4396188|AA|PAD ASY RR ST BK RH SPORT(ST/ PLT) CAPTAIN|Foam|泡沫总成-40%右侧靠背(ST-Line/ Platinum)
+U625_MS|34|2|4396189|AA|Poured Pad|Foam|泡沫单体
+U625_MS|35|2|4396190|AA|Poured Pad|Foam|泡沫单体
+U625_MS|36|2|4396249|AA|Poured Pad|Foam|泡沫单体
+U625_MS|37|2|4396191|AA|Poured Pad|Foam|泡沫单体
+U625_MS|38|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|39|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm|Foam|120mm 刺毛带
+U625_MS|40|2|4394153|AA|Strip Fastener- QuickFit Z15-3 - 60 mm|Foam|60mm 刺毛带
+U625_MS|41|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|42|1|4396196|AA|PAD ASY RR ST BK LH BASE (XL/XLT LTD )- 35%|Foam|泡沫总成-35%左侧靠背(Trend/Titanium )
+U625_MS|43|1|4396198|AA|PAD ASY RR ST BK LH SPORT (ST / PLT)- 35%|Foam|泡沫总成-35%左侧靠背(ST-Line/ Platinum)
+U625_MS|44|1|4396197|AA|PAD ASY RR ST BK LH (XLT/LTD )-CAPTAIN|Foam|泡沫总成-40%左侧靠背(Trend/Titanium )
+U625_MS|45|1|4396199|AA|PAD ASY RR ST BK LH SPORT  (ST / PLT)- CAPTAIN|Foam|泡沫总成-40%左侧靠背(ST-Line/ Platinum)
+U625_MS|46|2|4396200|AA|Poured Pad|Foam|泡沫单体
+U625_MS|47|2|4396201|AA|Poured Pad|Foam|泡沫单体
+U625_MS|48|2|4396250|AA|Poured Pad|Foam|泡沫单体
+U625_MS|49|2|4396202|AA|Poured Pad|Foam|泡沫单体
+U625_MS|50|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|51|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm|Foam|120mm 刺毛带
+U625_MS|52|2|4394153|AA|Strip Fastener- QuickFit Z15-3 - 60 mm|Foam|60mm 刺毛带
+U625_MS|53|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|54|1|4396207|AC|PAD ASY RR ST BK CTR BASE (XL/XLT)- No Armrest|Foam|泡沫总成-30%中间靠背(Trend)无扶手
+U625_MS|55|1|4396208|AB|PAD ASY RR ST BK CTR SPORT (ST /PLT)- Armrest|Foam|泡沫总成-30%中间靠背(ST-Line/ Platinum)带扶手
+U625_MS|56|1|4396209|AB|PAD ASY RR ST BK CTR BASE- (XLT / LTD) with armrest|Foam|泡沫总成-30%中间靠背(Titanium)带扶手
+U625_MS|57|2|4396210|AA|Poured Pad|Foam|泡沫单体
+U625_MS|58|2|4396211|AA|Poured Pad|Foam|泡沫单体
+U625_MS|59|2|4396212|AA|Poured Pad|Foam|泡沫单体
+U625_MS|60|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|61|2|4396324|AA|Strip Fastener- QuickFit Z15-3 - 160 mm|Foam|160mm 刺毛带
+U625_MS|62|2|4394153|AA|Strip Fastener- QuickFit Z15-3 - 60 mm|Foam|60mm 刺毛带
+U625_MS|63|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|64|2|4396330|AA|Armrest Wire|Foam|扶手泡沫内嵌钢丝
+U625_MS|65|3|4401557|AA|COMPONENT OF LB5B-S672B08-A|Foam|泡沫内嵌钢丝1
+U625_MS|66|3|4396332|AA|COMPONENT OF LB5B-S672B08-A|Foam|泡沫内嵌钢丝2
+U625_MS|67|2|4396282|AA01|Cloth- Molded Straps|Foam|无妨布
+U625_MS|68|2|4864800|AA|Cloth|Foam|无妨布
+U625_MS|69|1|4396221|AA|PAD ASY RR ST CSHN RH -BASE (XL/XLT/ LTD )-35%|Foam|泡沫总成-35%右侧坐垫(Trend/Titanium )
+U625_MS|70|1|4396222|AA|PAD ASY RR ST CSHN RH- SPORT (ST /PLT)-35%|Foam|泡沫总成-35%右侧坐垫(ST-Line/ Platinum)
+U625_MS|71|1|4396223|AA|Pad ASY RR ST CSH RH - XLT/ LTD - CAPTAIN|Foam|泡沫总成-40%右侧坐垫(Trend/Titanium )
+U625_MS|72|1|4396224|AA|Pad Asy  RR ST CSH  RH - SPORT (ST/ PLT )-CAPTAIN|Foam|泡沫总成-40%右侧坐垫(ST-Line/ Platinum)
+U625_MS|73|2|4396225|AA|Poured Pad|Foam|泡沫单体
+U625_MS|74|2|4396226|AA|Poured Pad|Foam|泡沫单体
+U625_MS|75|2|4396251|AA|Poured Pad|Foam|泡沫单体
+U625_MS|76|2|4396227|AA|Poured Pad|Foam|泡沫单体
+U625_MS|77|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|78|2|4396316|AA|Strip Fastener- QuickFit Z15-3 - 260 mm  ( segmented)|Foam|260mm 刺毛带
+U625_MS|79|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm|Foam|120mm 刺毛带
+U625_MS|80|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|81|2|4396340|AA|Cushiion Wire|Foam|坐垫钢丝
+U625_MS|82|1|4396233|AA|PAD ASY RR ST CSHN LH BASE (XL/ XLT/LTD)-35%|Foam|泡沫总成-35%左侧坐垫(Trend/Titanium )
+U625_MS|83|1|4396234|AA|PAD ASY RR ST CSHN LH SPORT (ST / PLT)-35%|Foam|泡沫总成-35%左侧坐垫(ST-Line/ Platinum)
+U625_MS|84|1|4396235|AA|Pad ASY RR ST CSH lH - XLT/ LTD - CAPTAIN|Foam|泡沫总成-40%左侧坐垫(Trend/Titanium )
+U625_MS|85|1|4396236|AA|Pad Asy - 35% RSC LH - SPORT (ST/PLT) -CAPTAIN|Foam|泡沫总成-40%左侧坐垫(ST-Line/ Platinum)
+U625_MS|86|2|4396237|AA|Poured Pad|Foam|泡沫单体
+U625_MS|87|2|4396238|AA|Poured Pad|Foam|泡沫单体
+U625_MS|88|2|4402986|AA|Poured Pad|Foam|泡沫单体
+U625_MS|89|2|4396239|AA|Poured Pad|Foam|泡沫单体
+U625_MS|90|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|91|2|4396316|AA|Strip Fastener- QuickFit Z15-3 - 260 mm  ( segmented)|Foam|260mm 刺毛带
+U625_MS|92|2|4396318|AA|Strip Fastener- QuickFit Z15-3 - 120 mm|Foam|120mm 刺毛带
+U625_MS|93|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|94|2|4396343|AA|Captain Cushion Border Wire- 5mm diameter, TBDmm|Foam|坐垫钢丝
+U625_MS|95|1|4396245|AB|PAD ASY RR ST CSHN CTR BASE (XL/ XLT/ LTD)|Foam|泡沫总成-30%中间坐垫(Trend/Titanium )
+U625_MS|96|1|4396246|AB|PAD ASY RR ST CSHN CTR SPORT (ST / PLT)|Foam|泡沫总成-30%中间坐垫(ST-Line/ Platinum)
+U625_MS|97|2|4396247|AA|Poured Pad|Foam|泡沫单体
+U625_MS|98|2|4396248|AA|Poured Pad|Foam|泡沫单体
+U625_MS|99|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|泡沫内嵌塑料卡扣
+U625_MS|100|2|4394153|AA|Strip Fastener- QuickFit Z15-3 - 60 mm|Foam|60mm 刺毛带
+U625_MS|101|2|4396316|AA|Strip Fastener- QuickFit Z15-3 - 260 mm|Foam|260mm 刺毛带
+U625_MS|102|2|4396324|AA|Strip Fastener- QuickFit Z15-3 - 160mm|Foam|160mm 刺毛带
+U625_MS|103|2|4401400|AA|NRT Spray|Foam|消音蜡
+U625_MS|104|1|4424093|AA|BACK TRIM RH -35%  XLT (Leather)|Trim|35%右侧靠背面套总成真皮Trend
+U625_MS|105|1|4424087|AA|BACK TRIM RH - 35% LIMITED (LEATHER)|Trim|35%右侧靠背面套总成真皮Titanium
+U625_MS|106|1|4424091|AA|BACK TRIM RH - 35% SPORT  (LEATHER)|Trim|35%右侧靠背面套总成真皮ST-Line
+U625_MS|107|1|4424104|AA|BACK TRIM RH - CAPTAIN SPORT  (LEATHER)|Trim|40%右侧靠背面套总成真皮ST-Line
+U625_MS|108|1|4424089|AA|BACK TRIM RH - 35% Platinum (LEATHER)|Trim|35%右侧靠背面套总成真皮Platinum
+U625_MS|109|1|4424106|AA|BACK TRIM RH - CAPTAIN  XLT (Vinyl)|Trim|40%右侧靠背面套总成真皮PVCTrend
+U625_MS|110|1|4424100|AA|BACK TRIM RH -  CAPTAIN  LIMITED (LEATHER)|Trim|40%右侧靠背面套总成真皮Titanium
+U625_MS|111|1|4424102|AA|BACK TRIM RH - CAPTAIN Platinum (LEATHER)|Trim|40%右侧靠背面套总成真皮Platinum
+U625_MS|112|1|4424099|AA|BACK TRIM CTR - XLT NO-ARMREST (vinyl)|Trim|30%中间靠背面套总成真皮Trend无扶手
+U625_MS|113|1|4424096|AA|BACK TRIM CTR - LTD with armrest (CLOTH)|Trim|30%中间靠背面套总成真皮Titanium带扶手
+U625_MS|114|1|4424098|AA|BACK TRIM CTR - SPORT W/ ARMREST (vinyl)|Trim|30%中间靠背面套总成真皮ST-Line带扶手
+U625_MS|115|1|4424097|AA|BACK TRIM CTR - PLATINUM W/ ARMREST (vinyl)|Trim|30%中间靠背面套总成真皮Platinum带扶手
+U625_MS|116|1|4424094|AA|BACK TRIM LH -35% XLT (Leather)|Trim|35%左侧靠背面套总成真皮Trend
+U625_MS|117|1|4424088|AA|BACK TRIM LH - 35% LIMITED (LEATHER)|Trim|35%左侧靠背面套总成真皮Titanium
+U625_MS|118|1|4424092|AA|BACK TRIM LH - 35% SPORT  (LEATHER)|Trim|35%左侧靠背面套总成真皮ST-Line
+U625_MS|119|1|4424105|AA|BACK TRIM LH -   CAPTAIN SPORT (LEATHER)|Trim|40%左侧靠背面套总成真皮ST-Line
+U625_MS|120|1|4424090|AA|BACK TRIM LH -35%  Platinum (LEATHER)|Trim|35%左侧靠背面套总成真皮Platinum
+U625_MS|121|1|4424107|AA|BACK TRIM LH - CAPTAIN  XLT (Vinyl 212)|Trim|40%左侧靠背面套总成真皮PVCTrend
+U625_MS|122|1|4424101|AA|BACK TRIM LH - CAPTAIN  LIMITED (LEATHER)|Trim|40%左侧靠背面套总成真皮Titanium
+U625_MS|123|1|4424103|AA|BACK TRIM LH -CAPTAIN  Platinum (LEATHER)|Trim|40%左侧靠背面套总成真皮Platinum
+U625_MS|124|1|4424116|AA|CUSIHON TRIM RH - 35% XLT (Leather)|Trim|35%右侧坐垫面套总成真皮Trend
+U625_MS|125|1|4424110|AA|CUSIHON TRIM RH - 35% LIMITED (LEATHER)|Trim|35%右侧坐垫面套总成真皮Titanium
+U625_MS|126|1|4424114|AA|CUSIHON TRIM RH - 35% SPORT  (LEATHER)|Trim|35%右侧坐垫面套总成真皮ST-Line
+U625_MS|127|1|4424112|AA|CUSHION TRIM RH - 35% Platinum (LEATHER)|Trim|35%右侧坐垫面套总成真皮Platinum
+U625_MS|128|1|4424127|AA|CUSIHON TRIM RH - SPORT  (LEATHER) -Captain|Trim|40%右侧坐垫面套总成真皮ST-Line
+U625_MS|129|1|4424129|AA|CUSIHON TRIM RH - XLT (Vinyl 212)-Captain|Trim|40%右侧坐垫面套总成真皮PVCTrend
+U625_MS|130|1|4424123|AA|CUSIHON TRIM RH - LIMITED (LEATHER)- Captain|Trim|40%右侧坐垫面套总成真皮Titanium
+U625_MS|131|1|4424125|AA|CUSHION TRIM RH - Platinum (LEATHER) - Captain|Trim|40%右侧坐垫面套总成真皮Platinum
+U625_MS|132|1|4424122|AA|CUSHION TRIM CTR - XLT (LEATHER)|Trim|30%中间坐垫面套总成真皮Trend
+U625_MS|133|1|4424119|AA|CUSHION TRIM CTR LIMITED (LEATHER)|Trim|30%中间坐垫面套总成真皮Titanium
+U625_MS|134|1|4424121|AA|CUSHION TRIM CTR - Sport (LEATHER)|Trim|30%中间坐垫面套总成真皮ST-Line
+U625_MS|135|1|4424120|AA|CUSHION TRIM CTR - Platinum (LEATHER)|Trim|30%中间坐垫面套总成真皮Platinum
+U625_MS|136|1|4424117|AA|CUSIHON TRIM LH - 35% XLT (Leather)|Trim|35%左侧坐垫面套总成真皮Trend
+U625_MS|137|1|4424111|AA|CUSIHON TRIM LH - 35% LIMITED (LEATHER)|Trim|35%左侧坐垫面套总成真皮Titanium
+U625_MS|138|1|4424115|AA|CUSIHON TRIM LH - 35% Sport  (LEATHER)|Trim|35%左侧坐垫面套总成真皮ST-Line
+U625_MS|139|1|4424113|AA|CUSHION TRIM LH - 35% Platinum (LEATHER)|Trim|35%左侧坐垫面套总成真皮Platinum
+U625_MS|140|1|4424128|AA|CUSIHON TRIM LH - Sport  (LEATHER)  Captain|Trim|40%左侧坐垫面套总成真皮ST-Line
+U625_MS|141|1|4424130|AA|CUSIHON TRIM LH - XLT (Vinyl 212) -Captain|Trim|40%左侧坐垫面套总成真皮PVCTrend
+U625_MS|142|1|4424124|AA|CUSIHON TRIM LH - LIMITED (LEATHER)  Captain|Trim|40%左侧坐垫面套总成真皮Titanium
+U625_MS|143|1|4424126|AA|CUSHION TRIM LH - Platinum (LEATHER)   - Captain|Trim|40%左侧坐垫面套总成真皮Platinum
+U625_MS|144|1|4401363|AA|35% RH Seat - OB Inner Cover|Plastic |35%右侧座椅--外侧遮挡板
+U625_MS|145|1|4401364|AA|35% LH Seat - OB Inner Cover|Plastic |35%左侧座椅--外侧遮挡板
+U625_MS|146|1|4401356|AA|35% RH Seat - OB Shield|Plastic |35%右侧座椅--外旁侧板
+U625_MS|147|1|4401358|AA|35% LH Seat - OB Shield|Plastic |35%左侧座椅--外旁侧板
+U625_MS|148|1|4401359|AA|35% RH Seat - IB Shield|Plastic |35%右侧座椅--内旁侧板
+U625_MS|149|1|4401360|AA|35% LH Seat - IB Shield|Plastic |35%左侧座椅--内旁侧板
+U625_MS|150|1|4401361|AA|35% RH Seat - IB Inner cover|Plastic |35%右侧座椅--内测遮挡板
+U625_MS|151|1|4401362|AA|35% LH Seat - IB Inner cover|Plastic |35%左侧座椅--内侧遮挡板
+U625_MS|152|1|4401380|AA|RH IB Inner cover- CTR SEAT (CVR RR ST BK PVT INR )|Plastic |中间座椅右侧内遮挡块
+U625_MS|153|1|4401381|AA|LH IB Inner cover-CTR SEAT  (CVR RR ST BK PVT INR LH)|Plastic |中间座椅左侧内遮挡块
+U625_MS|154|1|4401351|AA|TRACK COVER FRONT OB-RH seat (35%)|Plastic |右侧座椅外侧滑轨前罩盖
+U625_MS|155|1|4401352|AA|TRACK COVERFRONT  OB-LH seat (35%)|Plastic |左侧座椅外侧滑轨前罩盖
+U625_MS|156|1|4401353|AA|TRACK COVER FRONT IB RH seat (35%)|Plastic |右侧座椅内侧滑轨前罩盖
+U625_MS|157|1|4401354|AA|TRACK COVER FRONT  IB LH Seat (35%)|Plastic |左侧座椅内侧滑轨前罩盖
+U625_MS|158|1|4401341|AA|RH Recliner Handle - Assy|Plastic |右侧调角器手柄组件
+U625_MS|159|2|4401342|AA|RH Rec. Handle|Plastic |右侧调角器手柄
+U625_MS|160|2|4401343|AA|Wire Clip|Plastic |钢丝卡扣
+U625_MS|161|1|4401344|AA|LH Recliner Handle - Assy|Plastic |左侧调角器手柄组件
+U625_MS|162|2|4401345|AA|LH Rec. Handle|Plastic |左侧调角器手柄
+U625_MS|163|2|4401343|AA|Wire Clip|Plastic |钢丝卡扣
+U625_MS|164|1|4402847|AA|EZ-ENTRY Release Handle Bezel|Plastic |手动EZE手柄罩盖
+U625_MS|165|1|4396179|AB|EZ-ENTRY -HNDL ASY RR ST BK LAT|Plastic |EZE手柄总成
+U625_MS|166|2|4396180|AB|EZ-ENTRY -HNDL ASY RR ST BK LAT-BASE|Plastic |EZE手柄底部
+U625_MS|167|2|4396181|AC|EZ-ENTRY -HNDL ASY RR ST BK LAT-RELEASE LEVEL|Plastic |EZE手柄
+U625_MS|168|2|4396182|AA|Pin|Plastic |销
+U625_MS|169|2|4396183|AB|Spring|Plastic |弹簧
+U625_MS|170|2|4396184|AA|Washer|Plastic |卡圈
+U625_MS|171|1|4401369|AA|PWR EZ Release Button Bezel|Plastic |电动EZE按钮遮挡块
+U625_MS|172|1|4401370|AA|HOUSING POWER EZ ENTRY|Plastic |电动EZE安装支座
+U625_MS|173|1|4401355|AA|Common Front Valance (All 3 Seats|Plastic |通用前旁侧板（三个座椅共用）
+U625_MS|174|1|4401384|AA|CTR Rear RH Track Cover|Plastic |中间座椅右侧后罩盖
+U625_MS|175|1|4401385|AA|CTR Rear LH Track Cover|Plastic |中间座椅左侧后罩盖
+U625_MS|176|1|4401347|AA|REAR FOOT COVER RH IB|Plastic |右侧座椅内侧后脚板罩盖
+U625_MS|177|1|4401348|AA|REAR FOOT COVER LH IB|Plastic |左侧座椅内侧后脚板罩盖
+U625_MS|178|1|4401349|AA|REAR FOOT COVER OB RH|Plastic |右侧座椅外侧后脚板罩盖
+U625_MS|179|1|4401350|AA|REAR FOOT COVER OB LH|Plastic |左侧座椅外侧后脚板罩盖
+U625_MS|180|1|4401376|AA|SIR BEZEL COVER|Plastic |SIR 罩盖
+U625_MS|181|1|4401377|AA|SIR SCREW CAP COVER|Plastic |SIR螺钉罩盖
+U625_MS|182|1|4401378|AA|CTR RH Shield|Plastic |中间座椅右侧旁侧板
+U625_MS|183|1|4401379|AA|CTR LH Shield|Plastic |中间座椅左侧旁侧板
+U625_MS|184|1|4401159|AA|Child Tether Bezel|Plastic |儿童座椅挂钩遮挡块
+U625_MS|185|1|4401367|AA|Underseat Module Bracket (PFSM, H/V, USB)|Plastic |座椅下部模块支架（PFSM,H/V,USB）
+U625_MS|187|1|4396337|AB|Back Panel Outboard (JIT PART)|Plastic|外侧背板（总装件）
+U625_MS|188|1|4401559|AB|Back Panel Outboard Captain (JIT PART)|Plastic|Captain外侧背板（总装件）
+U625_MS|189|1|4401387|AC|Back Panel Center (JIT PART)|Plastic|中间背板（总装件）
+U625_MS|190|1|4401371|AA|EZ Entry Spring Cover|Plastic |EZE 弹簧罩盖
+U625_MS|191|1|4401372|AA|EZ Entry Spring Cover LH|Plastic |EZE 弹簧罩盖 左
+U625_MS|192|1|4401374|AA|CTR Seat Top Pull Strap Bezel|Plastic |中间座椅顶部拉带罩盖
+U625_MS|193|1|4401375|AA|GID LAT RR ST -CTR STRAP HOUSING|Plastic |中间座椅顶部拉带支座
+U625_MS|194|1|4401373|AA|EZ Entry Emergency Strap Plug|Plastic |EZE 紧急拉带插头
+U625_MS|195|1|4402874|AA|Head Restraint - 2nd Row O/B - Foldable - RH -XLT/ Limited/ Sport/PLT  (Vinyl-156C)|Headrest|第二排右侧折叠头枕-PVC
+U625_MS|196|1|4402875|AA|Head Restraint - 2nd Row O/B - Foldable - RH -PLT  (Vinyl-156C-LUX GRAIN)|Headrest|第二排右侧折叠头枕-PVC Platinum
+U625_MS|197|1|4402880|AA|Head Restraint - 2nd Row Center - Foldable - XLT/Limited/ Sport/PLT  (Vinyl 156-C)|Headrest|第二排中间头枕-PVC
+U625_MS|198|1|4402881|AA|Head Restraint - 2nd Row Center - Foldable -  PLT  (Vinyl 156-C-LUX GRAIN)|Headrest|第二排中间头枕-PVC Platinum
+U625_MS|199|1|4402883|AA|Head Restraint - 2nd Row O/B - Foldable - LH - XLT/Limited / Sport/PLT  (Vinyl-156-C)|Headrest|第二排左侧折叠头枕-PVC
+U625_MS|200|1|4402884|AA|Head Restraint - 2nd Row O/B - Foldable - LH - PLT  (Vinyl-156-C-LUX GRAIN)|Headrest|第二排左侧折叠头枕-PVC Platinum
+U625_MS|201|1|3324595|AA|SLV ASY FRT ST HD/RES GID ROD(RH)-Master sleeve CTR seat|Plastic|中间座椅头枕导套组件
+U625_MS|202|1|4401331|AA|Guide Sleeve (CTR Seat)-SLAVE|Plastic|中间座椅头枕导套
+U625_MS|203|1|2491420|AA|Head Restraint Guide Sleeve (OB Seat)-Slave Guide|Plastic|外侧座椅头枕导套
+U625_MS|204|1|4402888|AA|ARMREST ASSY - RH (VINYL)-Captain|Armrest|右侧扶手总成
+U625_MS|205|1|4402889|AA|ARMREST ASSY - LH (VINYL)-Captain|Armrest|左侧扶手总成
+U625_MS|206|1|4402892|AA|ARMREST ASSY - RH (VINYL)-Captain /PLT|Armrest|右侧扶手总成Platinum
+U625_MS|207|1|4402893|AA|ARMREST ASSY - LH (VINYL)-Captain /PLT|Armrest|左侧扶手总成Platinum
+U625_MS|208|1|4402894|AA|ARMREST ASSY - Center (VINYL)|Armrest|中间扶手总成
+U625_MS|209|1|4402895|AA|ARMREST ASSY - Center (VINYL) -PLT|Armrest|中间扶手总成Platinum
+U625_MS|210|1|4402896|AA|BACK HEATER MAT -Volume|Comfort|靠背加热垫Titanium
+U625_MS|211|1|4402897|AA|CUSHION HEATER MAT -Volume|Comfort|坐垫加热垫Titanium
+U625_MS|212|1|4402898|AA|BACK HEATER MAT Sport|Comfort|靠背加热垫ST-LinePlatinum
+U625_MS|213|1|4402899|AA|CUSHION HEATER MAT Sport|Comfort|坐垫加热垫ST-LinePlatinum
+U625_MS|214|1|4402900|AA|HARDWARE KIT OB (Base/ XLT )|Hardware Kits|外侧紧固件组件-35%座椅 (Base/Trend )
+U625_MS|215|1|4402901|AA|HARDWARE KIT OB - HEAT (35%-XLT/ LTD/SPORT/PLT)|Hardware Kits|外侧紧固件组件-35%座椅 (Titanium/ST-Line/Platinum )
+U625_MS|216|1|4402902|AA|HARDWARE KIT OB  / ARMREST- Captain (XLT)|Hardware Kits|外侧紧固件组件-40%座椅 (Trend )
+U625_MS|217|1|4402903|AA|HARDWARE KIT OB HEAT/PFSM / ARMREST- Captain|Hardware Kits|外侧紧固件组件-40%座椅 (Titanium/ST-Line/Platinum )
+U625_MS|218|2|4401495|AA|OB Side Shield|Hardware|自攻钉M5*19
+U625_MS|219|2|4394303|AA|IB Side Shield|Hardware|脚盖板安装螺栓
+U625_MS|220|2|3858915|AA|IB Cover Inner|Hardware|圣诞树卡子4.75*12.2
+U625_MS|221|2|4394303|AA|OB Track Cover|Hardware|脚盖板安装螺栓
+U625_MS|222|2|4394303|AA|IB Track Cover|Hardware|脚盖板安装螺栓
+U625_MS|223|2|4394303|AA|OB Rr Foot Cover|Hardware|脚盖板安装螺栓
+U625_MS|224|2|4394303|AA|IB Rr Foot Cover|Hardware|脚盖板安装螺栓
+U625_MS|225|2|4394303|AA|Manual EZ Entry Handle|Hardware|脚盖板安装螺栓
+U625_MS|226|2|4401503|AA|OB Front Valence SCREW|Hardware|螺栓M6*12
+U625_MS|227|2|4401504|AA|OB front Valance J-Nut|Hardware|U形螺母M6*0.8-1.5
+U625_MS|228|2|4401506|AA|Heat/PFSM Module to Module bracket|Hardware|自攻钉M5*14
+U625_MS|229|2|4401509|AA|OB Shipping Bags|Hardware|外侧座椅包装袋
+U625_MS|230|2|4401506|AA|Module bracket|Hardware|自攻钉M5*14
+U625_MS|231|2|4401508|AA|Locator Pin Foam Washer|Hardware|PVC自粘垫片
+U625_MS|232|2|4401168|AA|Xmas Tree (seat back trim)|Hardware|背板固定圣诞树卡子6.5*6.0
+U625_MS|233|2|4402918|AA|Armrest Pivot Bolt|Hardware|扶手台阶螺栓MR10*69
+U625_MS|234|2|4401558|AA|Flock Tape (50x50)|Hardware|拉带固定销
+U625_MS|235|1|4402919|AA|HARDWARE KIT CENTER-NO ARMREST|Hardware Kits|中间紧固件组件-无扶手
+U625_MS|236|1|4402920|AA|HARDWARE KIT CENTER WITH ARMREST|Hardware Kits|中间紧固件组件-带扶手
+U625_MS|237|2|4394303|AA|LH CTR SHIELD|Hardware|脚盖板安装螺栓
+U625_MS|238|2|4394303|AA|RH CTR SHIELD|Hardware|脚盖板安装螺栓
+U625_MS|239|2|4394303|AA|CTR Fr Foot Cover|Hardware|脚盖板安装螺栓
+U625_MS|240|2|4394303|AA|CTR Rr Foot Cover|Hardware|脚盖板安装螺栓
+U625_MS|241|2|4401170|AA|Strap housing|Hardware|螺钉M4.2*16
+U625_MS|242|2|4401171|AA|Push nut Insert for Strap Housing|Hardware|金属卡子螺母4.2
+U625_MS|243|2|4394303|AA|LH CTR SHIELD|Hardware|脚盖板安装螺栓
+U625_MS|244|2|4394303|AA|LH CTR SHIELD|Hardware|脚盖板安装螺栓
+U625_MS|245|2|4401503|AA|CTR Front Valence|Hardware|螺栓M6*12
+U625_MS|246|2|4401504|AA|CTR Front Valence- Jnut|Hardware|U形螺母M6*0.8-1.5
+U625_MS|247|2|4401532|AA|Center Armrest to back panel|Hardware|螺钉M6*14
+U625_MS|248|2|4401534|AA|Retractor Bolt|Hardware|螺栓M10*35
+U625_MS|249|2|4401540|AA|CTR Shipping Bag|Hardware|中间座椅包装袋
+U625_MS|250|2|4401508|AA|Locator Pin Foam Washer|Hardware|PVC自粘垫片
+U625_MS|251|2|4401506|AA|Module bracket|Hardware|自攻钉M5*14
+U625_MS|252|2|4401506|AA|Inline connector bracket to module bracket|Hardware|自攻钉M5*14
+U625_MS|253|1|4402942|AA|Strap CTR Seat recliner strap|Other|中间座椅调角器解锁拉带
+U625_MS|254|1|4402943|AA|RH seat haness MAN EZ entry/fold flat, Belt-Minder(U625/611)|Wire Harnessess|右侧座椅手动EZE/折叠/安全带提醒线束总成
+U625_MS|255|1|4402944|AA|RH seat harness MAN EZ entry/fold flat, Belt-Minder, HEAT(625/611)|Wire Harnessess|右侧座椅手动EZE/折叠/安全带提醒/加热线束总成
+U625_MS|256|1|4402948|AA|RH seat harness PWR EZ entry/fold flat, Belt-Minder,HEAT (U625)|Wire Harnessess|右侧座椅电动EZE/折叠/安全带提醒/加热线束总成
+U625_MS|257|1|4401545|AA|Center seat MAN fold flat, Belt-Minder (U625/U611)|Wire Harnessess|中间座椅手动折叠/安全带提醒线束总成
+U625_MS|258|1|4402952|AA|LH seat harness MAN EZ entry/fold flat, Belt-Minder (U625)|Wire Harnessess|左侧座椅手动EZE/折叠/安全带提醒线束总成
+U625_MS|259|1|4402955|AA|LH seat harness MAN EZ entry/fold flat, Belt-Minder, HEAT , PFSM|Wire Harnessess|左侧座椅手动EZE/折叠/安全带提醒/加热/PFSM线束总成
+U625_MS|260|1|4402960|AA|LH seat harness PWR EZ entry/fold flat, BELT MINDER , HEAT,PFSM|Wire Harnessess|左侧座椅电动EZE/折叠/安全带提醒/加热/PFSM线束总成
+U625_MS|261|1|4402961|AA|Heated Seat Module-Batrese Bar BY3AB|Wire Harnessess|加热模块
+U625_MS|262|1|4401551|AA|EZ ENTRY SWITCH|Modules Switches|EZE开关
+U625_MS|263|1|4401553|AA|3R PFSM (Power Fold Module)|Wire Harnessess|3R PFSM
+U625_MS|264|1|4401554|AA|LH/RH BKLE ASY RR ST|Safety|左右侧安全带锁扣
+U625_MS|265|1|4401556|AA|CTR BKLE ASY RR ST BEL|Safety|中间座椅安全带锁扣
+U625_MS|266|1|4401555|AA|CTR BEL & RETR ASY RR ST CTR (Export)|Safety|中间座椅卷收器约束系统
+U625_RS|1|0|4403346|AB|MANUAL, 50/50, XLT VINYL, CHINA|JIT|后排手动座椅总成-XLT VINYL
+U625_RS|2|0|4403348|AB|POWER, 50/50, LIMITED, CHINA|JIT|后排电动座椅总成- LIMITED
+U625_RS|3|0|4403347|AB|POWER, 50/50, PLATINUM, CHINA|JIT|后排电动座椅总成-PLATINUM
+U625_RS|4|1|4403349|AB|Seat Back Frame Assembly 50/50 - Man|Frame|后排手动骨架
+U625_RS|5|1|4403350|AB|Seat Back Frame Assembly 50/50 - Power|Frame|后排电动骨架
+U625_RS|6|1|4403351|AB|Head Restraint - 3rd Row O/B - Low Pivot Mech Manual|Headrest|头枕折叠机构总成 第三排 手动
+U625_RS|7|1|4401156|AB|Head Restraint - 3rd Row O/B - Low Pivot Mech Power|Headrest|头枕折叠机构总成 第三排 电动
+U625_RS|8|1|4403354|AB|Head Restraint - 3rd Row O/B - Power Foldable - Vinyl|Headrest|头枕-PVC
+U625_RS|9|1|4403355|AB|Head Restraint - 3rd Row O/B - Power Foldable - Platinum|Headrest|头枕- Platinum
+U625_RS|10|1|4401159|AA|Bezel Child Tether|Plastic|tether 盖板
+U625_RS|11|1|4403357|AB|Hockey Stick Cover  - RH OB|Plastic|侧盖板 RH
+U625_RS|12|1|4403358|AB|Hockey Stick Cover - LH OB|Plastic|侧盖板LH
+U625_RS|13|1|4401160|AB|Recliner Mech and Lwr Bracket Cover - RH IB|Plastic|中间盖板
+U625_RS|14|1|4401161|AA|Pull Strap Bezel RH|Plastic|拉带盖板 RH
+U625_RS|15|1|4401162|AA|Pull Strap Bezel LH|Plastic|拉带盖板LH
+U625_RS|16|1|4401163|AA|Pull Strap Housing RH|Plastic|拉带盖板支架 RH
+U625_RS|17|1|4401164|AA|Pull Strap Housing LH|Plastic|拉带盖板支架 LH
+U625_RS|18|1|4403364|AC|Fasteners Kit 3rd Row 50/50 - Man|Hardware kit|紧固件总成模块 手动
+U625_RS|19|1|4403366|AC|Fasteners Kit 3rd Row 50/50 - Power|Hardware kit|紧固件总成模块 电动
+U625_RS|20|2|4401168|AA|Trim PIN 6.5x6.0 PLA|Hardware|背板固定圣诞树卡子6.5*6.0
+U625_RS|21|2|3858915|000|Trim PIN 4.75x12.2|Hardware|圣诞树卡子4.75*12.2
+U625_RS|22|2|4401170|AA|Screws for attaching Pull Strap housing to Structure|Hardware|螺钉M4.2*16
+U625_RS|23|2|4401171|AA|Push Nuts for attaching Pull Strap housing to Structure|Hardware|金属卡子螺母4.2
+U625_RS|24|2|4401172|AA|Bolt M8x20 HR PIL 10 - Attaching head rest actuator to structure|Hardware|头枕折叠机构螺栓 M8x20
+U625_RS|25|2|4403372|AA|Bolt M6x14 HR PIL 10 - Attaching manual return strap to seat back|Hardware|拉带螺栓 M6*14
+U625_RS|26|2|4394303|AA|MR5 X 12 Screw and Washer for plastics attaching to structure|Hardware|脚盖板安装螺栓
+U625_RS|27|2|4401175|AB|Bolt M6 to attach load floor structure stand off and cross bar|Hardware|横梁安装螺栓 MR6×25
+U625_RS|28|2|4401176|AB|Insulating foam gasket (PSA) around locator pin|Hardware|安装垫片
+U625_RS|29|2|4459301|AA|shipping bag RH or LH back (50%)|Hardware|靠背包装袋
+U625_RS|30|2|4459307|AA|shipping bag cushion (shower cap)|Hardware|座垫包装袋
+U625_RS|31|2|4464982|AB|SE PIN RR STLOCA|Hardware|带胶泡沫垫片
+U625_RS|32|2|4464986|AA|RET WIR HRNS TIE STRP|Hardware|扎带
+U625_RS|33|2|4401203|AA|Foam 3X3 PSA|Hardware|泡沫垫
+U625_RS|34|1|4395957|AD|Pad Asy - RH RSB|Foam|后排靠背泡沫总成-右
+U625_RS|35|2|4395958|AB|Poured Pad|Foam|后排靠背泡沫-右
+U625_RS|36|2|4396282|AA|Cloth- Molded Straps|Foam|衬布
+U625_RS|37|2|4396315|AA|Strip Fastener YKK QuickFit Z15-3- 60 mm|Foam|刺毛带
+U625_RS|38|2|4395961|AA|Strip Fastener YKK OF Flex   280mm|Foam|刺毛带
+U625_RS|39|2|4396324|AA|Strip Fastener YKK OF Flex 160mm|Foam|刺毛带
+U625_RS|40|2|4396314|AA|Strip Fastener YKK QuickFit Z15-3- 180mm|Foam|刺毛带
+U625_RS|41|2|4401400|AB|NRT|Foam|消音蜡
+U625_RS|42|1|4395965|AD|Pad Asy - LH RSB|Foam|后排靠背泡沫总成-左
+U625_RS|43|2|4403449|AB|Poured Pad|Foam|后排靠背泡沫-左
+U625_RS|44|2|4396282|AA|Cloth- Molded Straps|Foam|衬布
+U625_RS|45|2|4396315|AA|Strip Fastener YKK QuickFit Z15-3- 60 mm|Foam|刺毛带
+U625_RS|46|2|4395961|AA|Strip Fastener YKK OF Flex 280mm|Foam|刺毛带
+U625_RS|47|2|4396324|AA|Strip Fastener YKK OF Flex 160mm|Foam|刺毛带
+U625_RS|48|2|4396314|AA|Strip Fastener YKK QuickFit Z15-3- 180mm|Foam|刺毛带
+U625_RS|49|2|4401400|AB|NRT|Foam|消音蜡
+U625_RS|50|1|4395966|AC|Pad Asy - RSC Bench - Volume|Foam|后排座泡沫总成
+U625_RS|51|2|4395967|AB|Poured Pad|Foam|后排座泡沫
+U625_RS|52|2|4394158|AA|Clips - Single Hope Global Festooned 40674|Foam|卡扣
+U625_RS|53|2|4394145|AA|Strip Fastener YKK OF Flex  250mm|Foam|刺毛带
+U625_RS|54|2|4395961|AA|Strip Fastener YKK QuickFit Z15-3- 280 mm|Foam|刺毛带
+U625_RS|55|2|4394166|AA|Strip Fastener YKK OF Flex  300mm|Foam|刺毛带
+U625_RS|56|2|4396324|AA|Strip Fastener YKK QuickFit Z15-3- 160 mm|Foam|刺毛带
+U625_RS|57|1|4395995|AB|EPP  (Same part is shown above in structures as cushion frame)|Foam|U625 座EPP总成
+U625_RS|58|1|4424146|AB|Trim Cover Cushion Bench Asy - XLT (Vinyl)|Trim|座面套总成-XLT Trend
+U625_RS|59|1|4424144|AB|Trim Cover Cushion Bench Asy - Platinum ( Vinyl)|Trim|座面套总成-Platinum
+U625_RS|60|1|4424145|AB|Trim Cover Cushion Bench Asy - Limited (Vinyl)|Trim|座面套总成 - Limited
+U625_RS|61|1|4891118|AB|Trim Cover Back RH Asy 50% - XLT ( Vinyl)|Trim|靠背面套总成 右-XLT Trend
+U625_RS|62|1|4891116|AB|Trim Cover Back RH Asy 50% - Platinum ( Vinyl)|Trim|靠背面套总成 右-Platinum
+U625_RS|63|1|4891117|AB|Trim Cover Back RH Asy 50% - Limited (Vinyl)|Trim|靠背面套总成 右- Limited
+U625_RS|64|1|4891115|AB|Trim Cover Back LH Asy 50% - XLT ( Vinyl)|Trim|靠背面套总成 左-XLT Trend
+U625_RS|65|1|4891113|AB|Trim Cover Back LH Asy 50% - Platinum ( Vinyl)|Trim|靠背面套总成 左-Platinum
+U625_RS|66|1|4891114|AB|Trim Cover Back LH Asy 50% - Limited (Vinyl)|Trim|靠背面套总成 左- Limited
+U625_RS|67|1|4396001|AD|Seat Stow Assist Strap|Plastic|靠背拉带
+U625_RS|68|1|4396005|AC|Accuation Strap 3R Seat and Head Restraint - Manual|Plastic|头枕拉带-手动
+U625_RS|69|1|4396006|AC|Accuation Strap 3R Seat and Head Restraint -POWER|Plastic|头枕拉带-电动
+U625_RS|70|1|4401201|AB|Cross Car Metal Bar for Gap Hider Close Out|Frame|后横梁
+U625_RS|71|1|4403395|AC|Wire harness W/ Belt Minder, Manual Fold|Wiring|手动配置线束
+U625_RS|72|1|4401199|AC|Wire harness W/ Belt Minder and Power Seat Motors|Wiring|电动配置线束
+U625_RS|73|1|4401200|AB|Buckle Asy - RR Seat RH - With Belt Minder|Safety|安全带锁扣
