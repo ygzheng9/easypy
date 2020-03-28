@@ -1,0 +1,28 @@
+{
+	"portfolio": [{
+			"ticker": "^FTM",
+			"name": "FTSE 250",
+			"type": "index",
+			"weight": 0.1
+		},
+		{
+			"ticker": "VEMAX",
+			"name": "Vanguard Emerging Markets",
+			"type": "stock",
+			"weight": 0.8
+		},
+		{
+			"ticker": "UU.L",
+			"name": "United Utilities",
+			"type": "stock",
+			"weight": 0.1
+		},
+		{
+			"ticker": "BHP.L",
+			"name": "BHP Group",
+			"type": "stock",
+			"weight": 0.1
+		}
+	]
+
+}
